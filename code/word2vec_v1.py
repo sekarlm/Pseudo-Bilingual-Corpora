@@ -3,6 +3,7 @@ import time
 import multiprocessing
 from joblib import Parallel, delayed
 from tqdm import tqdm
+from gensim import utils
 from gensim.models import Word2Vec
 import logging
 
@@ -14,9 +15,9 @@ logging.basicConfig(format="%(levelname)s - %(asctime)s: %(message)s", datefmt= 
 
 # PARAMETER
 EMBEDDING_SIZE = 300
-EMBEDDING_WINDOW = 15
-EMBEDDING_EPOCH = 1
-EMBEDDING_MIN_COUNT = 20
+# EMBEDDING_WINDOW = 15
+EMBEDDING_EPOCH = 20
+EMBEDDING_MIN_COUNT = 5
 SAMPLE = 6e-5
 ALPHA = 0.03
 MIN_ALPHA = 0.0007
@@ -26,6 +27,23 @@ NEGATIVE_SAMPLING = 20
 ROOT_CORPUS = '../data/corpus/'
 ROOT_DATA = '../data/'
 ROOT_RESULT = '../result/'
+CORPUS_PATH = ROOT_CORPUS + 'su_latest.txt'
+
+class Corpus:
+    def __iter__(self):
+        corpus = open(CORPUS_PATH, 'r+', encoding='utf-8')
+        for line in corpus:
+            yield utils.simple_preprocess(line)
+
+def write_vectors(model, out_file):
+    file = open(out_file, 'w+', encoding='utf-8')
+    file.write(str(len(model.wv.vocab)) + " " + str(EMBEDDING_SIZE) + "\n")
+
+    for word in model.wv.vocab:
+        file.write(word + " ")
+        file.write(" ".join([str(x) for x in model.wv[word].tolist()]) + "\n")
+    
+    file.close()
 
 def load_corpus(input_file):
     print('Loading corpus...')

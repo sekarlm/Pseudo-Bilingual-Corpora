@@ -3,6 +3,7 @@ envs/
 .ipynb_checkpoints
 model/
 data/vectors/
+data/corpus/
 
 
 # Compiled source #
