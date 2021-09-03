@@ -20,7 +20,7 @@ NEGATIVE_SAMPLING = 20
 ROOT_CORPUS = '../data/corpus/'
 ROOT_DATA = '../data/'
 ROOT_VECTOR = '../data/vectors/'
-CORPUS_PATH = ROOT_CORPUS + 'su_latest.txt'
+CORPUS_PATH = ROOT_CORPUS + 'jvwiki_50.txt'
 
 class Corpus:
     def __iter__(self):
@@ -31,14 +31,14 @@ class Corpus:
 def write_vectors(model, out_file):
     print("Writing vectors to a file..")
     file = open(out_file, 'w+', encoding='utf-8')
-    file.write(str(len(model.wv.vocab)) + " " + str(EMBEDDING_SIZE) + "\n")
+    file.write(str(len(model.wv.index_to_key)) + " " + str(EMBEDDING_SIZE) + "\n")
 
-    for word in model.wv.vocab:
+    for word in model.wv.index_to_key:
         file.write(word + " ")
         file.write(" ".join([str(x) for x in model.wv[word].tolist()]) + "\n")
     
     file.close()
-    print("Successfullt writing {} word vectors to {}".format(len(model.wv.vocab), out_file))
+    print("Successfullt writing {} word vectors to {}".format(len(model.wv.index_to_key), out_file))
 
 def load_corpus(input_file):
     print('Loading corpus...')
@@ -56,7 +56,7 @@ if __name__ == '__main__':
         print('Help: python3 word2vec.py <corpus>')
         sys.exit()
 
-    CORPUS_PATH = ROOT_CORPUS + sys.argv[1]
+    OUT_PATH = ROOT_VECTOR + sys.argv[2]
     
     # prepare corpus for training
     sentences = Corpus()
@@ -66,7 +66,7 @@ if __name__ == '__main__':
     # define model
     print("Define model...")
     w2v_model = Word2Vec(min_count=EMBEDDING_MIN_COUNT,
-                         size=EMBEDDING_SIZE,
+                         vector_size=EMBEDDING_SIZE,
                          sample=SAMPLE,
                          alpha=ALPHA,
                          min_alpha=MIN_ALPHA,
@@ -95,7 +95,6 @@ if __name__ == '__main__':
     print("Training loss: ", training_loss)
 
     # write vectors to file
-    out_file = ROOT_VECTOR + 'latest.su.vec'
-    write_vectors(w2v_model, out_file)
+    write_vectors(w2v_model, OUT_PATH)
     
 # python3 word2vec.py shuffled_corpus.txt su_words.txt jv_words.txt id_words.txt

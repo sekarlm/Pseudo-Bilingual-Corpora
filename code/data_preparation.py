@@ -6,12 +6,12 @@ import sys, time
 from gensim.corpora import WikiCorpus
 from statistics import mean
 
-ROOT_WIKI_DUMPS = '../data/wiki_dumps/'
+ROOT_WIKI_DUMPS = '../data/corpus/'
 ROOT_CORPUS = '../data/corpus/'
 
 def generate_corpus(input_file, output_file):
-    output = open(output_file, 'a', encoding='utf-8')
-    wiki = WikiCorpus(input_file, lemmatize=False, dictionary={}, lower=True)
+    output = open(output_file, 'w', encoding='utf-8')
+    wiki = WikiCorpus(input_file, dictionary={}, lower=True)
 
     i = 0
     space = " "
@@ -39,7 +39,7 @@ def load_corpus(input_file):
     t2 = time.time()
     total_time = t2 - t1
     print('Time to load corpus : {:0.3f}'.format(total_time))
-    
+
     return corpus
 
 if __name__ == '__main__':
@@ -68,4 +68,5 @@ if __name__ == '__main__':
 
 # python3 data_preparation.py idwiki-latest-pages-articles.xml.bz2 id_latest.txt 1
 # python3 data_preparation.py jvwiki-latest-pages-articles.xml.bz2 jv_latest.txt 1
-# python3 data_preparation.py suwiki-latest-pages-articles.xml.bz2 su_latest.txt 1   
+# python3 data_preparation.py suwiki-latest-pages-articles.xml.bz2 su_latest.txt 1
+

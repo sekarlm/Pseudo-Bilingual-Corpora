@@ -2,7 +2,7 @@ import time
 import sys
 
 ROOT_CORPUS = '../data/corpus/'
-WINDOW_SIZE = 50
+WINDOW_SIZE = 78
 
 def load_corpus(input_file):
     print('Loading corpus...')

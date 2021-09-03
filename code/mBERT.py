@@ -2,10 +2,13 @@ import time
 import sys
 import torch
 from transformers import BertTokenizer, BertModel
+from sklearn.decomposition import PCA
+import numpy as np
 
 ROOT_CORPUS = '../data/corpus/'
 ROOT_VECTOR = '../data/vectors/'
 MIN_COUNT = 5
+EMBEDDING_SIZE = 300
 
 import logging
 logging.basicConfig(level=logging.INFO)
@@ -81,6 +84,7 @@ def write_vectors(word2id, id2vec, out_file):
 
 def load_corpus(input_file):
     print('Loading corpus...')
+    print(input_file)
     t1 = time.time()
     data = open(input_file, 'r', encoding='utf-8')
     corpus = data.readlines()
@@ -144,7 +148,12 @@ if __name__ == '__main__':
             word2id_filtered[key] = len(word2id_filtered)
             divisor = len(id2vec[value])
             vector = torch.stack(id2vec[value], dim=0).sum(dim=0) / divisor
-            id2vec_filtered.append(vector)
+            id2vec_filtered.append(vector.tolist())
+
+    # Dimensionality reduction
+    pca = PCA(n_components=EMBEDDING_SIZE)
+    pca.fit(np.array(id2vec_filtered))
+    id2vec_filtered = pca.transform(id2vec_filtered)
 
     print("Number of unique words after filtering: ", len(word2id_filtered))
 
