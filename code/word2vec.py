@@ -9,18 +9,20 @@ logging.basicConfig(format="%(levelname)s - %(asctime)s: %(message)s", datefmt= 
 
 # PARAMETER
 EMBEDDING_SIZE = 300
-EMBEDDING_EPOCH = 20
+EMBEDDING_WINDOW = 5
+EMBEDDING_EPOCH = 5
 EMBEDDING_MIN_COUNT = 5
-SAMPLE = 6e-5
-ALPHA = 0.03
-MIN_ALPHA = 0.0007
-NEGATIVE_SAMPLING = 20
+SAMPLE = 1e-5
+ALPHA = 0.025
+SG = 1
+NEGATIVE_SAMPLING = 15
+NS_EXPONENT = 0.75
 
 # DATA PATH
 ROOT_CORPUS = '../data/corpus/'
 ROOT_DATA = '../data/'
 ROOT_VECTOR = '../data/vectors/'
-CORPUS_PATH = ROOT_CORPUS + 'jvwiki_50.txt'
+CORPUS_PATH = ROOT_CORPUS + 'suwiki_78.txt'
 
 class Corpus:
     def __iter__(self):
@@ -69,8 +71,9 @@ if __name__ == '__main__':
                          vector_size=EMBEDDING_SIZE,
                          sample=SAMPLE,
                          alpha=ALPHA,
-                         min_alpha=MIN_ALPHA,
+                         sg=SG,
                          negative=NEGATIVE_SAMPLING,
+                         ns_exponent=NS_EXPONENT,
                          workers=cores-1,
                          compute_loss=True)
     

@@ -1,0 +1,138 @@
+Pair translation for k=1
+1309 [16683]
+damel ['damelan']
+
+6973 [39841]
+kelinci ['kelenci']
+
+9004 [46783]
+keju ['kiju']
+
+12562 [9236]
+soklat ['coklat']
+
+30268 [1247]
+pengakuan ['pangakuan']
+
+30284 [26349]
+pelanggaran ['palanggaran']
+
+39866 [11453]
+pekan ['minggu']
+
+42155 [8540]
+trowongan ['torowongan']
+
+60389 [2412]
+penutup ['panutup']
+
+70039 [14091]
+kerusakan ['karusakan']
+
+
+
+Pair translation for k=5
+1309 [16683, 10572, 22036, 52637, 17137]
+damel ['damelan', 'ngedol', 'ngenal', 'damelipun', 'ngramal']
+
+5244 [33796, 5073, 5192, 17518, 14457]
+pambuka ['pambukaan', 'pambukane', 'kabuka', 'bebuka', 'bubuka']
+
+5437 [20956, 1022, 1064, 97704, 20221]
+turunane ['turune', 'terusane', 'turunan', 'arahane', 'tatarane']
+
+5836 [5519, 5188, 54345, 1032, 52391]
+putra ['putri', 'putrane', 'putraning', 'anak', 'putranya']
+
+6973 [39841, 85758, 46068, 103120, 109930]
+kelinci ['kelenci', 'kecipir', 'keciput', 'kelin', 'kelinthing']
+
+8151 [18194, 3770, 1555, 11583, 56720]
+kontak ['contact', 'hubungan', 'dialog', 'kontrol', 'contacts']
+
+9004 [46783, 66703, 97240, 91417, 75969]
+keju ['kiju', 'keji', 'soju', 'kebab', 'anju']
+
+12562 [9236, 17141, 91191, 13017, 69747]
+soklat ['coklat', 'bulat', 'coklatan', 'bulet', 'patlot']
+
+30268 [1247, 13050, 84477, 62010, 84799]
+pengakuan ['pangakuan', 'perlakuan', 'pengaduan', 'pengamanan', 'pengajuan']
+
+30284 [26349, 28597, 13390, 98831, 48379]
+pelanggaran ['palanggaran', 'paninggaran', 'penanggalan', 'melanggar', 'dilanggar']
+
+39866 [11453, 22191, 34195, 5879, 10556]
+pekan ['minggu', 'musim', 'pesta', 'bulan', 'week']
+
+42155 [8540, 9744, 81591, 24170, 37132]
+trowongan ['torowongan', 'pawongan', 'panjeblugan', 'kreteg', 'grujugan']
+
+60389 [2412, 32473, 22130, 20079, 11751]
+penutup ['panutup', 'penutupan', 'panutuping', 'tinutup', 'penutur']
+
+70039 [14091, 14419, 27124, 25352, 22539]
+kerusakan ['karusakan', 'damage', 'damaged', 'trauma', 'korban']
+
+
+
+Pair translation for k=10
+142 [17653, 41125, 990, 10215, 2019, 5267, 21480, 2666, 174, 17467]
+tembung ['tembunge', 'tembungipun', 'tembang', 'tembe', 'teges', 'tembange', 'pengucapan', 'tembok', 'kecap', 'pangertian']
+
+862 [15558, 63371, 71609, 29152, 82241, 31322, 3795, 10849, 5038, 64257]
+kaisar ['emperor', 'kekaisaran', 'imperator', 'tsar', 'kaisare', 'shogun', 'sultan', 'dinasti', 'raja', 'emperors']
+
+1309 [16683, 10572, 22036, 52637, 17137, 50713, 60835, 94181, 1455, 32922]
+damel ['damelan', 'ngedol', 'ngenal', 'damelipun', 'ngramal', 'mbucal', 'nglairaken', 'nyediakaken', 'nyiptakaken', 'medhal']
+
+1876 [3143, 4836, 1687, 1643, 3489, 11175, 100677, 5796, 922, 3072]
+tradisi ['ritual', 'tradition', 'tradisional', 'budaya', 'traditions', 'legenda', 'tradisine', 'sejarah', 'adat', 'upacara']
+
+5244 [33796, 5073, 5192, 17518, 14457, 74692, 20008, 57560, 41156, 27639]
+pambuka ['pambukaan', 'pambukane', 'kabuka', 'bebuka', 'bubuka', 'pambukaning', 'pamriksa', 'pamicara', 'pamirsa', 'pambiyantu']
+
+5437 [20956, 1022, 1064, 97704, 20221, 95861, 53873, 5811, 93482, 104345]
+turunane ['turune', 'terusane', 'turunan', 'arahane', 'tatarane', 'tampilane', 'tinggalane', 'akehane', 'jenengane', 'bentukane']
+
+5836 [5519, 5188, 54345, 1032, 52391, 5904, 103138, 40377, 22579, 51066]
+putra ['putri', 'putrane', 'putraning', 'anak', 'putranya', 'putrana', 'putraku', 'putran', 'anaknya', 'anakipun']
+
+6973 [39841, 85758, 46068, 103120, 109930, 19557, 27841, 83038, 45744, 9060]
+kelinci ['kelenci', 'kecipir', 'keciput', 'kelin', 'kelinthing', 'kecik', 'kerinci', 'kecrik', 'keluak', 'kecing']
+
+8151 [18194, 3770, 1555, 11583, 56720, 3192, 1500, 8840, 15986, 17937]
+kontak ['contact', 'hubungan', 'dialog', 'kontrol', 'contacts', 'komunikasi', 'konflik', 'interaction', 'proximity', 'perlawanan']
+
+9004 [46783, 66703, 97240, 91417, 75969, 1693, 102374, 86720, 9060, 3719]
+keju ['kiju', 'keji', 'soju', 'kebab', 'anju', 'baju', 'ranju', 'caju', 'kecing', 'kebo']
+
+12562 [9236, 17141, 91191, 13017, 69747, 94858, 40405, 58075, 18023, 50131]
+soklat ['coklat', 'bulat', 'coklatan', 'bulet', 'patlot', 'kasoklatan', 'pekat', 'berlekuk', 'cokot', 'diklat']
+
+30268 [1247, 13050, 84477, 62010, 84799, 39331, 70056, 86759, 11792, 67430]
+pengakuan ['pangakuan', 'perlakuan', 'pengaduan', 'pengamanan', 'pengajuan', 'pengertian', 'pengujian', 'pengadaan', 'pangujian', 'pangajuan']
+
+30284 [26349, 28597, 13390, 98831, 48379, 92999, 104063, 97200, 65784, 73430]
+pelanggaran ['palanggaran', 'paninggaran', 'penanggalan', 'melanggar', 'dilanggar', 'pelarangan', 'pananggaran', 'pelacuran', 'persengketaan', 'pelanggan']
+
+34307 [15182, 73275, 41688, 63398, 88977, 41106, 88833, 47239, 10228, 34979]
+bungkus ['bungkusan', 'bungkil', 'bungbung', 'bungker', 'bungkuk', 'bungbu', 'bunghak', 'bungkul', 'kukus', 'mungkus']
+
+39866 [11453, 22191, 34195, 5879, 10556, 5433, 14904, 276, 1285, 13749]
+pekan ['minggu', 'musim', 'pesta', 'bulan', 'week', 'seminggu', 'tahun', 'taun', 'pekanbaru', 'festival']
+
+42155 [8540, 9744, 81591, 24170, 37132, 23971, 86924, 56416, 55458, 19638]
+trowongan ['torowongan', 'pawongan', 'panjeblugan', 'kreteg', 'grujugan', 'genggeman', 'ledhokan', 'grebeg', 'grojokan', 'tlundhag']
+
+45122 [44072, 9238, 6434, 12702, 5361, 9961, 71869, 10167, 45640, 46772]
+kapak ['kapuk', 'kapas', 'umpak', 'kapang', 'tulak', 'kapok', 'nepak', 'kerak', 'pekak', 'kampak']
+
+60389 [2412, 32473, 22130, 20079, 11751, 366, 32405, 82316, 80379, 92127]
+penutup ['panutup', 'penutupan', 'panutuping', 'tinutup', 'penutur', 'katutup', 'panutupan', 'panyedhep', 'penuture', 'peniup']
+
+70039 [14091, 14419, 27124, 25352, 22539, 2503, 49777, 7608, 32331, 43848]
+kerusakan ['karusakan', 'damage', 'damaged', 'trauma', 'korban', 'masalah', 'perubahan', 'rupture', 'tewas', 'injuries']
+
+
+
