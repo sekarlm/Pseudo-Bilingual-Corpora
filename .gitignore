@@ -28,5 +28,5 @@ data/corpus/
 *.jar
 *.rar
 *.tar
-*.zip
+#*.zip
 *.bz2
