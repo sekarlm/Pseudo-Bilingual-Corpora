@@ -1,0 +1,4440 @@
+Pair translation for k=1
+20 [17933]
+pucuk ['pucuking']
+
+62 [94]
+dina ['jeung']
+
+119 [47354]
+dadi ['dadine']
+
+125 [670]
+kanggo ['kanggone']
+
+125 [670]
+kanggo ['kanggone']
+
+142 [17657]
+tembung ['tembunge']
+
+182 [26499]
+kaca ['kacana']
+
+193 [18914]
+anggota ['member']
+
+210 [33864]
+dalem ['daleme']
+
+213 [5741]
+kidul ['selatan']
+
+216 [5410]
+wong ['wonge']
+
+216 [5410]
+wong ['wonge']
+
+216 [5410]
+wong ['wonge']
+
+216 [5410]
+wong ['wonge']
+
+244 [2856]
+aksara ['huruf']
+
+244 [2856]
+aksara ['huruf']
+
+273 [10918]
+populasi ['penduduk']
+
+276 [14913]
+taun ['tahun']
+
+276 [14913]
+taun ['tahun']
+
+281 [1623]
+islam ['muslim']
+
+314 [52765]
+dewan ['majlis']
+
+401 [35161]
+posisi ['kedudukan']
+
+402 [13716]
+pungkasan ['pungkasaning']
+
+503 [42825]
+warta ['wasta']
+
+721 [46896]
+durung ['durunge']
+
+752 [26349]
+perang ['peperangan']
+
+799 [28708]
+cathetan ['cathatan']
+
+800 [64526]
+suku ['sukune']
+
+803 [3791]
+sumber ['sumbering']
+
+862 [15547]
+kaisar ['emperor']
+
+862 [15547]
+kaisar ['emperor']
+
+872 [6808]
+panggonan ['panggonane']
+
+872 [6808]
+panggonan ['panggonane']
+
+875 [624]
+candhi ['candi']
+
+887 [4977]
+wakil ['wakile']
+
+888 [2481]
+usaha ['upaya']
+
+956 [937]
+komunis ['sosialis']
+
+966 [32802]
+alesan ['alesanna']
+
+976 [62559]
+warga ['warganing']
+
+976 [62559]
+warga ['warganing']
+
+976 [62559]
+warga ['warganing']
+
+1070 [35790]
+saiki ['saikine']
+
+1087 [54949]
+istana ['palazzo']
+
+1143 [44238]
+ukara ['ukura']
+
+1164 [15403]
+hak ['hakikat']
+
+1181 [3958]
+tiyang ['tiyangipun']
+
+1192 [71448]
+cariyos ['criyos']
+
+1277 [49490]
+ide ['ideu']
+
+1277 [49490]
+ide ['ideu']
+
+1284 [27826]
+padang ['padangpanjang']
+
+1284 [27826]
+padang ['padangpanjang']
+
+1304 [38471]
+perasaan ['siksaan']
+
+1304 [38471]
+perasaan ['siksaan']
+
+1305 [14958]
+pribadi ['pribadine']
+
+1305 [14958]
+pribadi ['pribadine']
+
+1305 [14958]
+pribadi ['pribadine']
+
+1393 [66731]
+upah ['opah']
+
+1400 [1960]
+karangan ['karangane']
+
+1400 [1960]
+karangan ['karangane']
+
+1418 [17701]
+sedoyo ['supoyo']
+
+1424 [38831]
+mata ['matanya']
+
+1527 [10760]
+lemah ['lemahe']
+
+1527 [10760]
+lemah ['lemahe']
+
+1538 [5027]
+seni ['seniman']
+
+1551 [3894]
+karakter ['character']
+
+1554 [40339]
+nomer ['nomerna']
+
+1563 [93360]
+kopi ['kopine']
+
+1608 [44418]
+obah ['obahe']
+
+1641 [11183]
+rupa ['rupaning']
+
+1648 [14554]
+carita ['cerita']
+
+1713 [34416]
+dhusun ['dhistrik']
+
+1723 [50744]
+medali ['penghargaan']
+
+1735 [6906]
+sapi ['babi']
+
+1876 [3143]
+tradisi ['ritual']
+
+1876 [3143]
+tradisi ['ritual']
+
+1884 [21480]
+kembang ['kembangan']
+
+1884 [21480]
+kembang ['kembangan']
+
+1895 [49304]
+dhuwit ['dhuwite']
+
+1908 [80454]
+lanang ['lanag']
+
+1908 [80454]
+lanang ['lanag']
+
+1909 [55290]
+wadon ['wadone']
+
+1909 [55290]
+wadon ['wadone']
+
+1921 [109237]
+bengi ['bengen']
+
+1962 [18343]
+pinter ['pintere']
+
+1992 [23251]
+tata ['tatacara']
+
+2012 [17086]
+mutlak ['muter']
+
+2063 [936]
+bagean ['deukeut']
+
+2081 [10382]
+omah ['omahe']
+
+2081 [10382]
+omah ['omahe']
+
+2108 [6998]
+oksigen ['nitrogen']
+
+2150 [3569]
+logam ['metals']
+
+2178 [5816]
+mlebu ['mlayu']
+
+2204 [19861]
+ratu ['ratuning']
+
+2318 [1651]
+rama ['ramayana']
+
+2318 [1651]
+rama ['ramayana']
+
+2340 [53446]
+sirkuit ['biskuit']
+
+2367 [17352]
+dokter ['physician']
+
+2405 [28274]
+gawe ['gawa']
+
+2434 [13965]
+pilihan ['pilihane']
+
+2434 [13965]
+pilihan ['pilihane']
+
+2482 [9942]
+sandi ['sandhi']
+
+2482 [9942]
+sandi ['sandhi']
+
+2519 [7112]
+banyu ['banyune']
+
+2544 [55768]
+takdir ['takbir']
+
+2562 [49281]
+padu ['padhu']
+
+2583 [46640]
+tumindak ['tumindakan']
+
+2596 [24078]
+asih ['asihan']
+
+2596 [24078]
+asih ['asihan']
+
+2666 [19680]
+tembok ['temboke']
+
+2706 [17840]
+situs ['sito']
+
+2706 [17840]
+situs ['sito']
+
+2804 [87195]
+lare ['lere']
+
+2804 [87195]
+lare ['lere']
+
+2851 [5333]
+biru ['kuning']
+
+2859 [56131]
+tambahan ['optional']
+
+2977 [1948]
+sekolah ['sekolahan']
+
+3095 [106858]
+nglakoni ['nglakoke']
+
+3102 [48715]
+ukuran ['ukuranipun']
+
+3180 [19027]
+mbengi ['sawengi']
+
+3181 [107524]
+lintang ['lintan']
+
+3194 [5230]
+joged ['joget']
+
+3226 [3203]
+dna ['rna']
+
+3360 [3607]
+dalu ['wengi']
+
+3720 [20852]
+wedhus ['wedhuse']
+
+3770 [8160]
+hubungan ['kontak']
+
+3869 [22043]
+paguyuban ['paguron']
+
+4202 [89]
+april ['maret']
+
+4277 [9231]
+jagad ['jagat']
+
+4594 [93698]
+emak ['norak']
+
+4594 [93698]
+emak ['norak']
+
+4594 [93698]
+emak ['norak']
+
+4594 [93698]
+emak ['norak']
+
+4595 [6496]
+mbak ['mbah']
+
+4642 [20277]
+pelabuhan ['port']
+
+4688 [18849]
+bocah ['bocahe']
+
+4698 [4854]
+sarapan ['sarap']
+
+4820 [27505]
+utek ['uteuk']
+
+4849 [93656]
+wedok ['wedoke']
+
+4891 [42729]
+bledug ['blegudreg']
+
+4926 [46895]
+toko ['tokone']
+
+5244 [33799]
+pambuka ['pambukaan']
+
+5300 [79783]
+penonton ['panonton']
+
+5323 [1301]
+wayahe ['wayah']
+
+5325 [18269]
+alon ['alot']
+
+5329 [56390]
+sekar ['sekat']
+
+5329 [56390]
+sekar ['sekat']
+
+5344 [9540]
+tamu ['tatu']
+
+5407 [91880]
+arahe ['gerakane']
+
+5437 [20963]
+turunane ['turune']
+
+5527 [27798]
+pak ['pakpak']
+
+5570 [10589]
+titik ['titikan']
+
+5570 [10589]
+titik ['titikan']
+
+5670 [82212]
+kali ['kalinga']
+
+5670 [82212]
+kali ['kalinga']
+
+5670 [82212]
+kali ['kalinga']
+
+5694 [675]
+kuli ['kulina']
+
+5694 [675]
+kuli ['kulina']
+
+5734 [23054]
+utusan ['putusan']
+
+5827 [5519]
+putra ['putri']
+
+5827 [5519]
+putra ['putri']
+
+5960 [49833]
+nyambut ['nyambi']
+
+6029 [11645]
+cahya ['cahyaning']
+
+6095 [6062]
+dolanan ['dolanane']
+
+6103 [69900]
+serangan ['menyerang']
+
+6139 [9094]
+tutuk ['tutup']
+
+6141 [19223]
+tali ['talingan']
+
+6200 [2924]
+wesi ['sawi']
+
+6211 [8863]
+bukti ['evidence']
+
+6280 [24276]
+pesen ['pesenan']
+
+6288 [104816]
+musuh ['musuhipun']
+
+6318 [21483]
+omongan ['omong']
+
+6436 [4642]
+pantai ['pelabuhan']
+
+6465 [54991]
+buah ['buahan']
+
+6477 [72645]
+piano ['cello']
+
+6603 [33471]
+rawa ['rawan']
+
+6608 [1915]
+bojo ['bojone']
+
+6621 [6672]
+kuburan ['kubur']
+
+6621 [6672]
+kuburan ['kubur']
+
+6624 [44076]
+kapur ['kapuk']
+
+6647 [43917]
+cah ['cawuh']
+
+6647 [43917]
+cah ['cawuh']
+
+6647 [43917]
+cah ['cawuh']
+
+6647 [43917]
+cah ['cawuh']
+
+6647 [43917]
+cah ['cawuh']
+
+6650 [24154]
+musisi ['komposer']
+
+6653 [28233]
+seda ['meninggal']
+
+6657 [11047]
+jantung ['jantunge']
+
+6720 [40337]
+ksatria ['ksatriya']
+
+6727 [21677]
+tresna ['tresno']
+
+6836 [103558]
+mambu ['mambet']
+
+6836 [103558]
+mambu ['mambet']
+
+6853 [7643]
+faktor ['factors']
+
+6877 [12101]
+asu ['susu']
+
+6890 [7471]
+informasi ['information']
+
+6891 [28980]
+macan ['pandan']
+
+6915 [46791]
+karang ['karangsari']
+
+6928 [19954]
+sikil ['sikile']
+
+6934 [67958]
+udan ['udane']
+
+6960 [88037]
+pacet ['silet']
+
+6961 [4717]
+pitik ['iwak']
+
+6971 [39231]
+walang ['bagong']
+
+7088 [8276]
+gedang ['wedang']
+
+7093 [45685]
+boso ['bondo']
+
+7114 [1901]
+bapak ['bapake']
+
+7119 [109226]
+warung ['warunge']
+
+7656 [24430]
+rencang ['rencangipun']
+
+7656 [24430]
+rencang ['rencangipun']
+
+7657 [17633]
+kanca ['kancane']
+
+7657 [17633]
+kanca ['kancane']
+
+7657 [17633]
+kanca ['kancane']
+
+7657 [17633]
+kanca ['kancane']
+
+7657 [17633]
+kanca ['kancane']
+
+7657 [17633]
+kanca ['kancane']
+
+7707 [23954]
+ekspedisi ['ekspedhisi']
+
+7888 [61747]
+crita ['gurita']
+
+7959 [21964]
+raka ['rak']
+
+7977 [38068]
+budhal ['bidhal']
+
+7986 [6089]
+pager ['siter']
+
+8005 [42659]
+ping ['pingping']
+
+8025 [46829]
+bos ['gaur']
+
+8068 [18397]
+dluwang ['mbuwang']
+
+8069 [62116]
+blabak ['gerobak']
+
+8074 [23237]
+awak ['awakna']
+
+8074 [23237]
+awak ['awakna']
+
+8076 [17788]
+lambe ['lambene']
+
+8079 [18464]
+lengen ['lengan']
+
+8079 [18464]
+lengen ['lengan']
+
+8123 [41510]
+racun ['racunan']
+
+8123 [41510]
+racun ['racunan']
+
+8160 [18184]
+kontak ['contact']
+
+8198 [91484]
+rangkep ['rangkap']
+
+8251 [2052]
+farmasi ['farmakologi']
+
+8268 [71623]
+godhong ['godhongan']
+
+8268 [71623]
+godhong ['godhongan']
+
+8274 [88899]
+kas ['kase']
+
+8357 [37836]
+angin ['angine']
+
+8424 [9423]
+wiji ['wijine']
+
+8483 [48311]
+kandhang ['kandhung']
+
+8537 [9146]
+gelombang ['spektrum']
+
+8537 [9146]
+gelombang ['spektrum']
+
+8560 [74306]
+rai ['raihan']
+
+8894 [96582]
+ingon ['engon']
+
+8894 [96582]
+ingon ['engon']
+
+8935 [7492]
+got ['get']
+
+8935 [7492]
+got ['get']
+
+8941 [2545]
+puluhan ['puluh']
+
+9092 [17806]
+kuping ['kupinge']
+
+9116 [11495]
+penyakit ['disease']
+
+9120 [18286]
+pakar ['pacar']
+
+9164 [6910]
+irung ['irunge']
+
+9248 [35670]
+coklat ['cokelat']
+
+9249 [71047]
+salju ['saljuan']
+
+9250 [12047]
+kapas ['napas']
+
+9489 [33814]
+studi ['penelitian']
+
+9543 [17783]
+bisul ['bisu']
+
+9623 [7724]
+panuntun ['panuwun']
+
+9680 [68108]
+nyawang ['ngawang']
+
+9824 [9931]
+endhas ['endhog']
+
+9824 [9931]
+endhas ['endhog']
+
+9904 [37873]
+geni ['genine']
+
+10055 [27541]
+sungu ['sungut']
+
+10098 [28251]
+untu ['unta']
+
+10323 [16697]
+bandha ['bendha']
+
+10433 [5269]
+wedi ['lagi']
+
+10433 [5269]
+wedi ['lagi']
+
+10588 [90025]
+rega ['rego']
+
+10599 [66232]
+panggon ['panggona']
+
+10738 [44156]
+awu ['apu']
+
+10738 [44156]
+awu ['apu']
+
+10835 [66959]
+tim ['timnas']
+
+10998 [10968]
+pasar ['pasarean']
+
+11320 [1434]
+produk ['produksi']
+
+11531 [14539]
+kuliah ['kuliyah']
+
+11531 [14539]
+kuliah ['kuliyah']
+
+11533 [3386]
+urusan ['rumusan']
+
+11671 [47201]
+asosiasi ['agensi']
+
+12013 [8138]
+griya ['kriya']
+
+12013 [8138]
+griya ['kriya']
+
+12013 [8138]
+griya ['kriya']
+
+12023 [65764]
+spesialis ['spesial']
+
+12101 [23972]
+susu ['sagu']
+
+12468 [56741]
+bolongan ['bolonganipun']
+
+12579 [63892]
+santa ['sainte']
+
+12666 [22900]
+kadal ['kadali']
+
+12677 [56580]
+sinyal ['sinyalna']
+
+12699 [112063]
+roti ['rotisserie']
+
+12770 [16257]
+standar ['standarisasi']
+
+12949 [62255]
+serikat ['unidos']
+
+13047 [39212]
+berkas ['beruk']
+
+13081 [22142]
+kedokteran ['kadokteran']
+
+13118 [46656]
+nafsu ['nafkah']
+
+13402 [10493]
+alternatif ['alternative']
+
+13402 [10493]
+alternatif ['alternative']
+
+13469 [74709]
+isin ['isini']
+
+13469 [74709]
+isin ['isini']
+
+13539 [63382]
+tukaran ['tuker']
+
+13812 [1766]
+pedang ['kendang']
+
+13832 [89537]
+pos ['posko']
+
+13969 [74612]
+pabrik ['pabrike']
+
+14035 [17938]
+pimpinan ['pemimpin']
+
+14182 [1158]
+hakim ['mahkamah']
+
+14302 [34652]
+patemon ['patemone']
+
+14946 [43759]
+karir ['karire']
+
+15001 [936]
+orbit ['deukeut']
+
+15070 [53284]
+guyon ['guyonan']
+
+15591 [9730]
+busur ['busuk']
+
+15610 [7114]
+bapa ['bapak']
+
+15773 [15682]
+bates ['batesan']
+
+15821 [15010]
+dulur ['dulurna']
+
+15821 [15010]
+dulur ['dulurna']
+
+16091 [1907]
+sedulur ['sedulure']
+
+16091 [1907]
+sedulur ['sedulure']
+
+16091 [1907]
+sedulur ['sedulure']
+
+16381 [30961]
+pegawai ['pejabat']
+
+16764 [3692]
+dinten ['dintenipun']
+
+17367 [45381]
+lomba ['lomban']
+
+17417 [57458]
+perpustakaan ['biblioteca']
+
+17527 [6064]
+gendhis ['gendhing']
+
+17667 [69969]
+pita ['pitapak']
+
+18010 [88970]
+langgeng ['cengeng']
+
+18347 [66852]
+bayaran ['bayar']
+
+18390 [48344]
+sumpah ['sumpahe']
+
+18390 [48344]
+sumpah ['sumpahe']
+
+18642 [77368]
+salad ['salade']
+
+18718 [46206]
+tato ['toga']
+
+18872 [1215]
+wali ['walikota']
+
+18889 [4528]
+internal ['interior']
+
+18971 [493]
+mahasiswa ['pelajar']
+
+19046 [98421]
+purnama ['purnamasari']
+
+19202 [21541]
+lawang ['lawange']
+
+19202 [21541]
+lawang ['lawange']
+
+19202 [21541]
+lawang ['lawange']
+
+19217 [42877]
+asta ['astagina']
+
+19273 [23464]
+biksu ['biksuni']
+
+19329 [42899]
+kitha ['ibukutha']
+
+19609 [76831]
+pedhes ['pedhet']
+
+19741 [13948]
+palemahan ['paimahan']
+
+19788 [11552]
+pandeleng ['pandelengan']
+
+19823 [38147]
+mempeng ['memulang']
+
+19876 [220]
+antik ['klasik']
+
+19876 [220]
+antik ['klasik']
+
+20099 [8808]
+bom ['bomb']
+
+20170 [6536]
+mangkok ['mangkuk']
+
+20266 [46288]
+prau ['prahu']
+
+20586 [93847]
+wedhok ['wedhoke']
+
+20613 [110130]
+gelut ['gelud']
+
+20613 [110130]
+gelut ['gelud']
+
+20687 [102363]
+nuwun ['suwun']
+
+21232 [64813]
+marinir ['infanteri']
+
+21233 [70339]
+pangkalan ['pangkalanbun']
+
+21275 [106072]
+noda ['nodo']
+
+21319 [23865]
+wot ['wok']
+
+21320 [13972]
+menara ['tower']
+
+21583 [56664]
+blumbang ['blumbangan']
+
+21635 [45754]
+tong ['tongkol']
+
+21645 [45640]
+mentok ['botok']
+
+21798 [99458]
+mayit ['mayite']
+
+21905 [28693]
+syarat ['syarate']
+
+21925 [58459]
+sulap ['sulam']
+
+22167 [29025]
+ruh ['rah']
+
+22927 [44662]
+kekuasaan ['kekuasaannya']
+
+22967 [73481]
+kunjungan ['kunjunganipun']
+
+23002 [14232]
+petani ['farmers']
+
+23157 [27054]
+aneh ['anehe']
+
+23212 [16817]
+generator ['generators']
+
+23277 [49447]
+peti ['petir']
+
+23486 [94062]
+wargi ['wargo']
+
+23553 [102545]
+pin ['pinch']
+
+23621 [41626]
+beluk ['belut']
+
+23621 [41626]
+beluk ['belut']
+
+23776 [31451]
+sigar ['sigaran']
+
+23919 [83750]
+gupernur ['gupitan']
+
+24042 [38695]
+abrit ['abrik']
+
+24365 [27186]
+satelit ['satelite']
+
+24832 [30876]
+wabah ['musibah']
+
+25277 [18492]
+dolar ['dollar']
+
+26829 [8079]
+cincin ['lengen']
+
+27089 [3640]
+lembar ['lembaran']
+
+28186 [684]
+pepadha ['sapadha']
+
+28239 [35740]
+dhukun ['dhuku']
+
+28467 [38666]
+eyang ['eyange']
+
+28530 [97024]
+persimpangan ['persinggahan']
+
+28614 [55480]
+doro ['dolo']
+
+28740 [1391]
+peraturan ['undang']
+
+28775 [12315]
+pasokan ['patokan']
+
+29002 [49608]
+laksamana ['brigadir']
+
+29602 [73732]
+moyang ['moyange']
+
+29685 [8035]
+delta ['gamma']
+
+29805 [31963]
+robot ['robots']
+
+29899 [65634]
+pidato ['pidatona']
+
+31061 [52887]
+anugrah ['anugraha']
+
+31166 [5243]
+sidang ['ajang']
+
+31171 [1947]
+usia ['umur']
+
+32010 [103357]
+bir ['biryani']
+
+32010 [103357]
+bir ['biryani']
+
+32953 [100833]
+direktur ['direktor']
+
+33040 [31583]
+akun ['idin']
+
+33154 [96341]
+dowo ['ponyo']
+
+33676 [48186]
+kesenengan ['kasenengan']
+
+34314 [15194]
+bungkus ['bungkusan']
+
+34443 [17850]
+pamit ['pamitan']
+
+34904 [92845]
+ciu ['cium']
+
+35136 [25464]
+pegatan ['gugatan']
+
+35451 [30549]
+karung ['sarung']
+
+35456 [44151]
+plat ['spons']
+
+35697 [6805]
+satria ['satriya']
+
+35717 [44300]
+wangsulan ['wangsulane']
+
+37872 [11567]
+uwuh ['uwoh']
+
+38781 [31689]
+kasir ['kasur']
+
+38851 [77417]
+ranjang ['rantang']
+
+39070 [14505]
+kru ['krungu']
+
+40131 [9933]
+mustaka ['duraka']
+
+40131 [9933]
+mustaka ['duraka']
+
+40131 [9933]
+mustaka ['duraka']
+
+40726 [66113]
+toto ['totok']
+
+40922 [39449]
+lemu ['hipu']
+
+41195 [23028]
+agenda ['kebijakan']
+
+41267 [34683]
+amplop ['ampel']
+
+42427 [91871]
+hobi ['hoby']
+
+42462 [100910]
+beruang ['beruwang']
+
+42462 [100910]
+beruang ['beruwang']
+
+42656 [17710]
+jiwo ['kiwo']
+
+42917 [6641]
+perkakas ['perhiasan']
+
+44249 [89655]
+ngelu ['ngeden']
+
+44694 [24006]
+keranjang ['kranjang']
+
+44948 [89788]
+leren ['lerene']
+
+44999 [60233]
+mriyang ['mriem']
+
+45126 [44076]
+kapak ['kapuk']
+
+45194 [106783]
+graji ['goji']
+
+45194 [106783]
+graji ['goji']
+
+45655 [88676]
+japa ['tripa']
+
+45692 [46778]
+nongko ['dongko']
+
+45768 [95998]
+moto ['motocross']
+
+46704 [5304]
+kekal ['nakal']
+
+46756 [88356]
+ampeyan ['laweyan']
+
+47186 [45124]
+maklumat ['maklum']
+
+47661 [34320]
+pil ['pel']
+
+47954 [19371]
+kathok ['menthok']
+
+48056 [34420]
+metik ['metot']
+
+49359 [112902]
+ambulan ['ambula']
+
+49489 [101950]
+jadwal ['jadwale']
+
+49489 [101950]
+jadwal ['jadwale']
+
+49642 [23143]
+formulir ['formulasi']
+
+50850 [91874]
+tanduran ['tandurane']
+
+52522 [93679]
+pageblug ['pagebluk']
+
+53224 [13548]
+laci ['guci']
+
+53283 [54631]
+toyan ['tapian']
+
+53284 [15070]
+guyonan ['guyon']
+
+54323 [28782]
+lobi ['lobang']
+
+54469 [31001]
+landasan ['landas']
+
+55264 [54724]
+sopir ['sipir']
+
+56661 [109140]
+ganja ['ganje']
+
+56807 [51034]
+sanding ['banding']
+
+57010 [56182]
+taneman ['tanem']
+
+57651 [47482]
+hamba ['hambali']
+
+58783 [53082]
+gaun ['bran']
+
+60021 [59854]
+rojo ['blanco']
+
+60079 [23031]
+hukuman ['tahanan']
+
+60957 [25466]
+kekajengan ['kemajengan']
+
+60957 [25466]
+kekajengan ['kemajengan']
+
+61362 [40249]
+krikil ['kerikil']
+
+64572 [21322]
+gerbong ['gerbang']
+
+65666 [79247]
+suntikan ['suntik']
+
+66588 [9935]
+senengi ['senenge']
+
+69140 [47355]
+lungo ['tuo']
+
+71607 [14591]
+bokong ['bokor']
+
+71607 [14591]
+bokong ['bokor']
+
+73489 [8283]
+ambisi ['ambisius']
+
+73489 [8283]
+ambisi ['ambisius']
+
+76827 [83623]
+kampret ['retret']
+
+78740 [22387]
+pandamel ['pandamelan']
+
+78740 [22387]
+pandamel ['pandamelan']
+
+78766 [27083]
+guo ['guoqing']
+
+80411 [18388]
+bujangan ['bajingan']
+
+80723 [32203]
+kesepian ['kesaktian']
+
+80808 [45725]
+prayaan ['perayaan']
+
+80808 [45725]
+prayaan ['perayaan']
+
+82697 [2558]
+elingan ['eling']
+
+83218 [41448]
+kenduri ['kenduren']
+
+83684 [34450]
+roso ['rodo']
+
+83867 [110592]
+menungso ['menungsa']
+
+83867 [110592]
+menungso ['menungsa']
+
+87405 [44814]
+jiwit ['jijik']
+
+88440 [98402]
+persidangan ['pamidangan']
+
+89659 [99125]
+simah ['saidah']
+
+89659 [99125]
+simah ['saidah']
+
+91358 [85142]
+pelatian ['pelarian']
+
+92171 [81675]
+bedhilan ['sedotan']
+
+99134 [93289]
+lilo ['calo']
+
+99819 [52018]
+demit ['lulut']
+
+101664 [95423]
+penthung ['munthu']
+
+103308 [92117]
+pitunjuk ['patunjuk']
+
+103523 [17943]
+ngentut ['ngenut']
+
+104245 [16678]
+kebetahan ['kabetahan']
+
+104245 [16678]
+kebetahan ['kabetahan']
+
+106397 [19946]
+pipo ['pipa']
+
+107823 [60030]
+ndukung ['kadukung']
+
+
+
+Pair translation for k=5
+20 [17933, 19942, 30248, 13009, 93759]
+pucuk ['pucuking', 'pucukan', 'pucukipun', 'pucuke', 'pucukane']
+
+62 [94, 1856, 248, 199, 24830]
+dina ['jeung', 'anu', 'nyaeta', 'sarta', 'mangrupakeun']
+
+119 [47354, 1264, 4, 52, 58]
+dadi ['dadine', 'dados', 'iku', 'minangka', 'karo']
+
+125 [670, 1139, 920, 119, 49]
+kanggo ['kanggone', 'kangge', 'sajeroning', 'dadi', 'lan']
+
+125 [670, 1139, 920, 119, 49]
+kanggo ['kanggone', 'kangge', 'sajeroning', 'dadi', 'lan']
+
+142 [17657, 41127, 990, 10224, 2019]
+tembung ['tembunge', 'tembungipun', 'tembang', 'tembe', 'teges']
+
+182 [26499, 16670, 43692, 78852, 54728]
+kaca ['kacana', 'kaku', 'waca', 'kacane', 'kabaca']
+
+193 [18914, 4781, 5866, 57504, 62351]
+anggota ['member', 'members', 'ketua', 'anggotanya', 'anggotaning']
+
+210 [33864, 10097, 19342, 97180, 22145]
+dalem ['daleme', 'malem', 'silem', 'polem', 'kalam']
+
+213 [5741, 204, 23951, 41913, 1067]
+kidul ['selatan', 'lor', 'kidule', 'kidulipun', 'kiduling']
+
+216 [5410, 94824, 61413, 4134, 755]
+wong ['wonge', 'wongan', 'wongsal', 'orang', 'urang']
+
+216 [5410, 94824, 61413, 4134, 755]
+wong ['wonge', 'wongan', 'wongsal', 'orang', 'urang']
+
+216 [5410, 94824, 61413, 4134, 755]
+wong ['wonge', 'wongan', 'wongsal', 'orang', 'urang']
+
+216 [5410, 94824, 61413, 4134, 755]
+wong ['wonge', 'wongan', 'wongsal', 'orang', 'urang']
+
+244 [2856, 10295, 12160, 23949, 1]
+aksara ['huruf', 'alfabet', 'aksarane', 'aksarana', 'basa']
+
+244 [2856, 10295, 12160, 23949, 1]
+aksara ['huruf', 'alfabet', 'aksarane', 'aksarana', 'basa']
+
+273 [10918, 7554, 53684, 15987, 1850]
+populasi ['penduduk', 'population', 'penduduknya', 'populations', 'jumlah']
+
+276 [14913, 54637, 9415, 82406, 1852]
+taun ['tahun', 'taunanu', 'taunan', 'taunipun', 'taunna']
+
+276 [14913, 54637, 9415, 82406, 1852]
+taun ['tahun', 'taunanu', 'taunan', 'taunipun', 'taunna']
+
+281 [1623, 104538, 32362, 38464, 38605]
+islam ['muslim', 'islamisme', 'islamiyah', 'muslims', 'islami']
+
+314 [52765, 864, 35851, 21235, 25107]
+dewan ['majlis', 'komite', 'conseil', 'kongres', 'senat']
+
+401 [35161, 5223, 83900, 8409, 24239]
+posisi ['kedudukan', 'position', 'posisinya', 'lokasi', 'positions']
+
+402 [13716, 12235, 40938, 53375, 3518]
+pungkasan ['pungkasaning', 'pungkasane', 'pungkas', 'pungkase', 'pungkasanipun']
+
+503 [42825, 14070, 80348, 15221, 35791]
+warta ['wasta', 'warata', 'wartel', 'wara', 'dhata']
+
+721 [46896, 13511, 3407, 3321, 13467]
+durung ['durunge', 'wurung', 'kapungkur', 'asring', 'sanggup']
+
+752 [26349, 30717, 60512, 2659, 1500]
+perang ['peperangan', 'pertempuran', 'guerre', 'war', 'konflik']
+
+799 [28708, 94610, 22276, 103249, 70709]
+cathetan ['cathatan', 'chathetan', 'cathethan', 'cathrtan', 'cthetan']
+
+800 [64526, 43615, 27444, 25191, 38281]
+suku ['sukune', 'tribe', 'sukuna', 'klan', 'sukubangsa']
+
+803 [3791, 7023, 17323, 3827, 3562]
+sumber ['sumbering', 'source', 'sources', 'sumberipun', 'sumbere']
+
+862 [15547, 63381, 71625, 29157, 82255]
+kaisar ['emperor', 'kekaisaran', 'imperator', 'tsar', 'kaisare']
+
+862 [15547, 63381, 71625, 29157, 82255]
+kaisar ['emperor', 'kekaisaran', 'imperator', 'tsar', 'kaisare']
+
+872 [6808, 16162, 66232, 52616, 10599]
+panggonan ['panggonane', 'panganggonan', 'panggona', 'sapanggonan', 'panggon']
+
+872 [6808, 16162, 66232, 52616, 10599]
+panggonan ['panggonane', 'panganggonan', 'panggona', 'sapanggonan', 'panggon']
+
+875 [624, 10404, 109103, 28893, 81324]
+candhi ['candi', 'candhu', 'candhine', 'candhisari', 'sendhi']
+
+887 [4977, 87861, 14439, 30961, 5866]
+wakil ['wakile', 'wakilipun', 'sekretaris', 'pejabat', 'ketua']
+
+888 [2481, 9181, 35029, 8850, 9530]
+usaha ['upaya', 'kerja', 'usahane', 'efforts', 'usahana']
+
+956 [937, 973, 455, 25644, 63940]
+komunis ['sosialis', 'komunisme', 'nasionalis', 'kapitalis', 'stalinis']
+
+966 [32802, 16521, 69704, 13921, 16882]
+alesan ['alesanna', 'alesane', 'alesanana', 'tantangan', 'pamadosan']
+
+976 [62559, 17908, 23833, 110926, 10918]
+warga ['warganing', 'wargane', 'wargana', 'warganet', 'penduduk']
+
+976 [62559, 17908, 23833, 110926, 10918]
+warga ['warganing', 'wargane', 'wargana', 'warganet', 'penduduk']
+
+976 [62559, 17908, 23833, 110926, 10918]
+warga ['warganing', 'wargane', 'wargana', 'warganet', 'penduduk']
+
+1070 [35790, 52583, 111, 23366, 91568]
+saiki ['saikine', 'saiku', 'kiwari', 'sapuniki', 'saiket']
+
+1087 [54949, 21350, 89528, 54078, 59552]
+istana ['palazzo', 'palace', 'paleis', 'palais', 'palacio']
+
+1143 [44238, 362, 19566, 7036, 30651]
+ukara ['ukura', 'swara', 'ukiran', 'ukarane', 'ukar']
+
+1164 [15403, 60866, 64077, 17069, 71965]
+hak ['hakikat', 'hakekat', 'haki', 'hakipun', 'hakiki']
+
+1181 [3958, 29602, 90775, 108906, 75531]
+tiyang ['tiyangipun', 'moyang', 'penyayang', 'tiyange', 'tiwi']
+
+1192 [71448, 3367, 104283, 3947, 16878]
+cariyos ['criyos', 'cariyosipun', 'cariyosaken', 'rumiyin', 'kapitadosan']
+
+1277 [49490, 2057, 7919, 8286, 6315]
+ide ['ideu', 'konsep', 'ideologi', 'proposal', 'pandangan']
+
+1277 [49490, 2057, 7919, 8286, 6315]
+ide ['ideu', 'konsep', 'ideologi', 'proposal', 'pandangan']
+
+1284 [27826, 22407, 18479, 765, 38]
+padang ['padangpanjang', 'padangan', 'sumatera', 'lampung', 'sumatra']
+
+1284 [27826, 22407, 18479, 765, 38]
+padang ['padangpanjang', 'padangan', 'sumatera', 'lampung', 'sumatra']
+
+1304 [38471, 14573, 11618, 57943, 65055]
+perasaan ['siksaan', 'perasaane', 'rarasaan', 'kebiasaan', 'paksaan']
+
+1304 [38471, 14573, 11618, 57943, 65055]
+perasaan ['siksaan', 'perasaane', 'rarasaan', 'kebiasaan', 'paksaan']
+
+1305 [14958, 24837, 18826, 21987, 98854]
+pribadi ['pribadine', 'pribadina', 'privat', 'keluarga', 'keluarganya']
+
+1305 [14958, 24837, 18826, 21987, 98854]
+pribadi ['pribadine', 'pribadina', 'privat', 'keluarga', 'keluarganya']
+
+1305 [14958, 24837, 18826, 21987, 98854]
+pribadi ['pribadine', 'pribadina', 'privat', 'keluarga', 'keluarganya']
+
+1393 [66731, 11657, 109121, 29489, 40197]
+upah ['opah', 'upas', 'upadi', 'upih', 'upa']
+
+1400 [1960, 16621, 86805, 53854, 36663]
+karangan ['karangane', 'penulisan', 'karanganana', 'caritaan', 'penerbitan']
+
+1400 [1960, 16621, 86805, 53854, 36663]
+karangan ['karangane', 'penulisan', 'karanganana', 'caritaan', 'penerbitan']
+
+1418 [17701, 41720, 111178, 20519, 36789]
+sedoyo ['supoyo', 'sedo', 'lodoyo', 'bedo', 'seko']
+
+1424 [38831, 18850, 74267, 17769, 33980]
+mata ['matanya', 'matamu', 'matan', 'matane', 'matana']
+
+1527 [10760, 28757, 29461, 14905, 32766]
+lemah ['lemahe', 'celah', 'basah', 'limbah', 'kolah']
+
+1527 [10760, 28757, 29461, 14905, 32766]
+lemah ['lemahe', 'celah', 'basah', 'limbah', 'kolah']
+
+1538 [5027, 74426, 1580, 1699, 3886]
+seni ['seniman', 'seniwati', 'musik', 'olahraga', 'art']
+
+1551 [3894, 3307, 31471, 88091, 1860]
+karakter ['character', 'watak', 'karakterisasi', 'karaktere', 'figur']
+
+1554 [40339, 8221, 218, 95269, 1473]
+nomer ['nomerna', 'nomor', 'kaping', 'jumlahipun', 'angka']
+
+1563 [93360, 12699, 96839, 1564, 41469]
+kopi ['kopine', 'roti', 'kopik', 'karet', 'cabe']
+
+1608 [44418, 7506, 8075, 3346, 2081]
+obah ['obahe', 'obahan', 'obahing', 'owah', 'omah']
+
+1641 [11183, 8183, 43935, 8461, 92136]
+rupa ['rupaning', 'rupana', 'rupak', 'rupane', 'rupae']
+
+1648 [14554, 19536, 19751, 5515, 53854]
+carita ['cerita', 'kisah', 'caritaning', 'caritane', 'caritaan']
+
+1713 [34416, 43376, 16438, 45804, 134]
+dhusun ['dhistrik', 'dhinas', 'dhosen', 'dhukuh', 'laladan']
+
+1723 [50744, 65759, 5938, 9424, 2244]
+medali ['penghargaan', 'medals', 'gelar', 'medalists', 'hadiah']
+
+1735 [6906, 2924, 41774, 4716, 45756]
+sapi ['babi', 'sawi', 'sapu', 'teri', 'cumi']
+
+1876 [3143, 4836, 1687, 1643, 3489]
+tradisi ['ritual', 'tradition', 'tradisional', 'budaya', 'traditions']
+
+1876 [3143, 4836, 1687, 1643, 3489]
+tradisi ['ritual', 'tradition', 'tradisional', 'budaya', 'traditions']
+
+1884 [21480, 18477, 18488, 42395, 46437]
+kembang ['kembangan', 'kembung', 'kembange', 'kembangna', 'kemuning']
+
+1884 [21480, 18477, 18488, 42395, 46437]
+kembang ['kembangan', 'kembung', 'kembange', 'kembangna', 'kemuning']
+
+1895 [49304, 56653, 8973, 2469, 9066]
+dhuwit ['dhuwite', 'dhuwung', 'kaluwihan', 'linuwih', 'kaluwihane']
+
+1908 [80454, 79219, 101588, 2968, 39021]
+lanang ['lanag', 'lanange', 'lanangan', 'sulung', 'lanan']
+
+1908 [80454, 79219, 101588, 2968, 39021]
+lanang ['lanag', 'lanange', 'lanangan', 'sulung', 'lanan']
+
+1909 [55290, 5346, 6724, 19068, 26331]
+wadon ['wadone', 'wadhon', 'wajar', 'wadana', 'wajan']
+
+1909 [55290, 5346, 6724, 19068, 26331]
+wadon ['wadone', 'wadhon', 'wajar', 'wadana', 'wajan']
+
+1921 [109237, 66317, 61928, 44323, 47344]
+bengi ['bengen', 'bengine', 'bengis', 'benget', 'bengek']
+
+1962 [18343, 37837, 110, 36821, 15247]
+pinter ['pintere', 'banter', 'pinuh', 'pindo', 'pinten']
+
+1992 [23251, 19997, 12299, 3380, 563]
+tata ['tatacara', 'tatanan', 'tatabasa', 'tatamba', 'tatanen']
+
+2012 [17086, 67452, 91904, 34626, 12166]
+mutlak ['muter', 'mutakhir', 'mutah', 'mulus', 'mutakir']
+
+2063 [936, 971, 38157, 66, 74]
+bagean ['deukeut', 'tina', 'nganjrek', 'mangrupa', 'hiji']
+
+2081 [10382, 108950, 6748, 1608, 91933]
+omah ['omahe', 'omahing', 'imah', 'obah', 'omat']
+
+2081 [10382, 108950, 6748, 1608, 91933]
+omah ['omahe', 'omahing', 'imah', 'obah', 'omat']
+
+2108 [6998, 7020, 2107, 2091, 42183]
+oksigen ['nitrogen', 'oxygen', 'hidrogen', 'karbon', 'oksigenna']
+
+2150 [3569, 12446, 3967, 7004, 42608]
+logam ['metals', 'aluminium', 'metal', 'mineral', 'logamna']
+
+2178 [5816, 2248, 3410, 44246, 43482]
+mlebu ['mlayu', 'mlebune', 'mlebet', 'klebu', 'melebu']
+
+2204 [19861, 5038, 30664, 91453, 4328]
+ratu ['ratuning', 'raja', 'puteri', 'ratuna', 'dewi']
+
+2318 [1651, 7692, 24140, 28924, 4334]
+rama ['ramayana', 'ramawijaya', 'krishna', 'ramadhan', 'indra']
+
+2318 [1651, 7692, 24140, 28924, 4334]
+rama ['ramayana', 'ramawijaya', 'krishna', 'ramadhan', 'indra']
+
+2340 [53446, 2295, 29076, 28660, 12049]
+sirkuit ['biskuit', 'serat', 'sirkus', 'sirkit', 'sirkulasi']
+
+2367 [17352, 25281, 10601, 52931, 24776]
+dokter ['physician', 'doctors', 'klinik', 'surgeon', 'physicians']
+
+2405 [28274, 30406, 10287, 10402, 6302]
+gawe ['gawa', 'ngawe', 'gawean', 'gawene', 'nggawe']
+
+2434 [13965, 53125, 31387, 318, 60910]
+pilihan ['pilihane', 'kandidat', 'pemilihan', 'dipilih', 'pilihanipun']
+
+2434 [13965, 53125, 31387, 318, 60910]
+pilihan ['pilihane', 'kandidat', 'pemilihan', 'dipilih', 'pilihanipun']
+
+2482 [9942, 41734, 75448, 4226, 32556]
+sandi ['sandhi', 'mandi', 'dasi', 'budi', 'sendi']
+
+2482 [9942, 41734, 75448, 4226, 32556]
+sandi ['sandhi', 'mandi', 'dasi', 'budi', 'sendi']
+
+2519 [7112, 92943, 95594, 42314, 39622]
+banyu ['banyune', 'banyunan', 'banyon', 'banyol', 'banyan']
+
+2544 [55768, 73733, 34707, 93905, 3914]
+takdir ['takbir', 'takdirna', 'taklim', 'takhir', 'tak']
+
+2562 [49281, 1737, 12463, 15611, 13495]
+padu ['padhu', 'adu', 'lucu', 'mangu', 'dangu']
+
+2583 [46640, 52528, 30990, 8733, 77275]
+tumindak ['tumindakan', 'tumindaking', 'tumindakipun', 'tumindake', 'bertindak']
+
+2596 [24078, 25555, 2652, 37759, 32765]
+asih ['asihan', 'asah', 'sih', 'icih', 'asik']
+
+2596 [24078, 25555, 2652, 37759, 32765]
+asih ['asihan', 'asah', 'sih', 'icih', 'asik']
+
+2666 [19680, 96003, 105812, 64947, 31748]
+tembok ['temboke', 'tembokipun', 'tembokan', 'gembok', 'tembak']
+
+2706 [17840, 8954, 3247, 8827, 91949]
+situs ['sito', 'website', 'portal', 'site', 'pagina']
+
+2706 [17840, 8954, 3247, 8827, 91949]
+situs ['sito', 'website', 'portal', 'site', 'pagina']
+
+2804 [87195, 21563, 7115, 2853, 29514]
+lare ['lere', 'lawe', 'sare', 'sore', 'sere']
+
+2804 [87195, 21563, 7115, 2853, 29514]
+lare ['lere', 'lawe', 'sare', 'sore', 'sere']
+
+2851 [5333, 5203, 28709, 24168, 38820]
+biru ['kuning', 'putih', 'hijau', 'merah', 'berwarna']
+
+2859 [56131, 13652, 70220, 104005, 5350]
+tambahan ['optional', 'tambahanna', 'bonus', 'tambahanipun', 'ekstra']
+
+2977 [1948, 9462, 88036, 12438, 50607]
+sekolah ['sekolahan', 'school', 'escola', 'pendidikan', 'szkoła']
+
+3095 [106858, 10194, 45350, 32233, 7746]
+nglakoni ['nglakoke', 'nglakokake', 'nglaksanakake', 'nglakokaken', 'ngleboni']
+
+3102 [48715, 5537, 8770, 96396, 7126]
+ukuran ['ukuranipun', 'diameter', 'ukurane', 'ukurannya', 'ukuranana']
+
+3180 [19027, 41006, 66588, 23527, 99852]
+mbengi ['sawengi', 'mbengok', 'senengi', 'kadenge', 'mboseni']
+
+3181 [107524, 32777, 27111, 27395, 62707]
+lintang ['lintan', 'lintangipun', 'antarlintang', 'lintange', 'antarbentang']
+
+3194 [5230, 15802, 6201, 79940, 43009]
+joged ['joget', 'jogetan', 'jogedan', 'jog', 'joglo']
+
+3226 [3203, 8823, 8054, 34767, 26893]
+dna ['rna', 'genome', 'genetik', 'chromosome', 'genom']
+
+3360 [3607, 29124, 11458, 43706, 45895]
+dalu ['wengi', 'pukul', 'minggu', 'sejam', 'sabendina']
+
+3720 [20852, 92620, 20586, 26561, 10408]
+wedhus ['wedhuse', 'kaldhu', 'wedhok', 'dhadhu', 'wudhu']
+
+3770 [8160, 3033, 25581, 7739, 2029]
+hubungan ['kontak', 'relations', 'hubungannana', 'relationship', 'interaksi']
+
+3869 [22043, 93819, 28999, 16759, 74189]
+paguyuban ['paguron', 'panyaluyuan', 'prusahaan', 'pawiyaran', 'perundhingan']
+
+4202 [89, 3860, 107, 8006, 10002]
+april ['maret', 'februari', 'mei', 'juni', 'march']
+
+4277 [9231, 93383, 19737, 19973, 43931]
+jagad ['jagat', 'jagading', 'jagating', 'ragad', 'jagate']
+
+4594 [93698, 44787, 40865, 103491, 60569]
+emak ['norak', 'yuk', 'luluk', 'amak', 'esok']
+
+4594 [93698, 44787, 40865, 103491, 60569]
+emak ['norak', 'yuk', 'luluk', 'amak', 'esok']
+
+4594 [93698, 44787, 40865, 103491, 60569]
+emak ['norak', 'yuk', 'luluk', 'amak', 'esok']
+
+4594 [93698, 44787, 40865, 103491, 60569]
+emak ['norak', 'yuk', 'luluk', 'amak', 'esok']
+
+4595 [6496, 66409, 17541, 7061, 14413]
+mbak ['mbah', 'mpok', 'kak', 'umak', 'mbako']
+
+4642 [20277, 623, 51454, 6436, 6294]
+pelabuhan ['port', 'kapal', 'ports', 'pantai', 'teluk']
+
+4688 [18849, 6647, 30619, 14829, 44680]
+bocah ['bocahe', 'cah', 'buruh', 'panah', 'bolah']
+
+4698 [4854, 12726, 6086, 2163, 103662]
+sarapan ['sarap', 'serapan', 'garapan', 'saragam', 'sasapan']
+
+4820 [27505, 12055, 45257, 96306, 16101]
+utek ['uteuk', 'otak', 'utak', 'uteke', 'orok']
+
+4849 [93656, 106790, 20586, 8276, 39479]
+wedok ['wedoke', 'wedokan', 'wedhok', 'wedang', 'weduk']
+
+4891 [42729, 43110, 10429, 70065, 43932]
+bledug ['blegudreg', 'bledheg', 'gedebog', 'bleg', 'gedheg']
+
+4926 [46895, 66348, 11469, 46606, 81294]
+toko ['tokone', 'tokona', 'bako', 'toke', 'poro']
+
+5300 [79783, 67062, 9169, 90719, 20837]
+penonton ['panonton', 'penontone', 'panon', 'pengontrol', 'pangon']
+
+5323 [1301, 89487, 105185, 53413, 4829]
+wayahe ['wayah', 'sawahe', 'turahe', 'wilahe', 'sirahe']
+
+5325 [18269, 53424, 17365, 39388, 90570]
+alon ['alot', 'aloy', 'alum', 'alo', 'aloi']
+
+5329 [56390, 7169, 4859, 54449, 19540]
+sekar ['sekat', 'sekaran', 'sekang', 'sekam', 'sekak']
+
+5329 [56390, 7169, 4859, 54449, 19540]
+sekar ['sekat', 'sekaran', 'sekang', 'sekam', 'sekak']
+
+5344 [9540, 30980, 16479, 7113, 32356]
+tamu ['tatu', 'latu', 'mutu', 'tamune', 'regu']
+
+5407 [91880, 96166, 102698, 39094, 9828]
+arahe ['gerakane', 'arahipun', 'ujunge', 'tekanane', 'jarake']
+
+5527 [27798, 83848, 91539, 41766, 44204]
+pak ['pakpak', 'pakdhe', 'paklik', 'pek', 'pakwan']
+
+5570 [10589, 8558, 4089, 13022, 11435]
+titik ['titikan', 'garis', 'point', 'nilai', 'titikane']
+
+5570 [10589, 8558, 4089, 13022, 11435]
+titik ['titikan', 'garis', 'point', 'nilai', 'titikane']
+
+5670 [82212, 99442, 5423, 37514, 1582]
+kali ['kalinga', 'kaliki', 'kalimah', 'kaligrafi', 'kalimat']
+
+5670 [82212, 99442, 5423, 37514, 1582]
+kali ['kalinga', 'kaliki', 'kalimah', 'kaligrafi', 'kalimat']
+
+5670 [82212, 99442, 5423, 37514, 1582]
+kali ['kalinga', 'kaliki', 'kalimah', 'kaligrafi', 'kalimat']
+
+5694 [675, 13548, 23510, 29415, 3187]
+kuli ['kulina', 'guci', 'ragi', 'kulo', 'uji']
+
+5694 [675, 13548, 23510, 29415, 3187]
+kuli ['kulina', 'guci', 'ragi', 'kulo', 'uji']
+
+5734 [23054, 18905, 11533, 88799, 100283]
+utusan ['putusan', 'utusane', 'urusan', 'utusaning', 'utus']
+
+5827 [5519, 54351, 5188, 1032, 52399]
+putra ['putri', 'putraning', 'putrane', 'anak', 'putranya']
+
+5960 [49833, 28280, 61336, 12373, 104924]
+nyambut ['nyambi', 'disambut', 'nyambutgawe', 'nyambung', 'nyadhung']
+
+6029 [11645, 45251, 18053, 972, 81690]
+cahya ['cahyaning', 'cahyana', 'cahyane', 'bahya', 'cahyaan']
+
+6095 [6062, 1499, 9739, 39563, 89267]
+dolanan ['dolanane', 'kaanan', 'janganan', 'dolan', 'busanan']
+
+6103 [69900, 36958, 30717, 15270, 22346]
+serangan ['menyerang', 'attacks', 'pertempuran', 'attack', 'bombing']
+
+6139 [9094, 27687, 30195, 10130, 72365]
+tutuk ['tutup', 'tutuke', 'tutul', 'sunduk', 'tutung']
+
+6141 [19223, 44364, 69849, 41154, 4892]
+tali ['talingan', 'talian', 'talina', 'taline', 'tela']
+
+6200 [2924, 2585, 6838, 29662, 75448]
+wesi ['sawi', 'muni', 'wangi', 'gisi', 'dasi']
+
+6211 [8863, 19618, 35147, 41276, 11579]
+bukti ['evidence', 'buktina', 'buktine', 'indikasi', 'laporan']
+
+6280 [24276, 82936, 16488, 5832, 49287]
+pesen ['pesenan', 'piken', 'paten', 'ilen', 'mesen']
+
+6288 [104816, 31502, 19588, 38483, 6289]
+musuh ['musuhipun', 'rival', 'musuhe', 'musuhan', 'musuhna']
+
+6318 [21483, 4807, 15069, 29946, 3317]
+omongan ['omong', 'omonge', 'omongane', 'tunangan', 'iringan']
+
+6436 [4642, 6294, 42480, 42597, 70551]
+pantai ['pelabuhan', 'teluk', 'playa', 'danau', 'fjord']
+
+6465 [54991, 45190, 47923, 11610, 41301]
+buah ['buahan', 'buahnya', 'buahna', 'tanaman', 'pohon']
+
+6477 [72645, 6478, 81570, 24155, 48047]
+piano ['cello', 'gitar', 'violin', 'orgel', 'flute']
+
+6603 [33471, 6941, 18107, 10279, 73815]
+rawa ['rawan', 'lawa', 'toya', 'rawe', 'rawayan']
+
+6608 [1915, 55549, 81294, 37883, 91097]
+bojo ['bojone', 'bojona', 'poro', 'poto', 'podo']
+
+6621 [6672, 33414, 5459, 27093, 14209]
+kuburan ['kubur', 'kuburane', 'hiburan', 'semburan', 'kukum']
+
+6621 [6672, 33414, 5459, 27093, 14209]
+kuburan ['kubur', 'kuburane', 'hiburan', 'semburan', 'kukum']
+
+6624 [44076, 27729, 8246, 9659, 31689]
+kapur ['kapuk', 'kaput', 'tabur', 'catur', 'kasur']
+
+6647 [43917, 18848, 2652, 4570, 81229]
+cah ['cawuh', 'cahe', 'sih', 'kah', 'cag']
+
+6647 [43917, 18848, 2652, 4570, 81229]
+cah ['cawuh', 'cahe', 'sih', 'kah', 'cag']
+
+6647 [43917, 18848, 2652, 4570, 81229]
+cah ['cawuh', 'cahe', 'sih', 'kah', 'cag']
+
+6647 [43917, 18848, 2652, 4570, 81229]
+cah ['cawuh', 'cahe', 'sih', 'kah', 'cag']
+
+6647 [43917, 18848, 2652, 4570, 81229]
+cah ['cawuh', 'cahe', 'sih', 'kah', 'cag']
+
+6650 [24154, 24292, 6203, 31053, 30732]
+musisi ['komposer', 'komponis', 'penyanyi', 'musikus', 'pianis']
+
+6653 [28233, 912, 30411, 4874, 32899]
+seda ['meninggal', 'mati', 'wafat', 'died', 'kematian']
+
+6657 [11047, 45583, 12075, 29426, 85925]
+jantung ['jantunge', 'jantungna', 'ginjal', 'janin', 'jantan']
+
+6720 [40337, 85682, 74379, 95075, 90837]
+ksatria ['ksatriya', 'kesatria', 'ksatrian', 'kasatria', 'kshatriya']
+
+6727 [21677, 89640, 27669, 914, 4016]
+tresna ['tresno', 'tresnani', 'tresnane', 'sirna', 'musna']
+
+6836 [103558, 5377, 26276, 13655, 44656]
+mambu ['mambet', 'ngambu', 'mambune', 'mampet', 'bubu']
+
+6836 [103558, 5377, 26276, 13655, 44656]
+mambu ['mambet', 'ngambu', 'mambune', 'mampet', 'bubu']
+
+6853 [7643, 11370, 29504, 18640, 7903]
+faktor ['factors', 'factor', 'faktorial', 'risiko', 'parameter']
+
+6877 [12101, 100417, 38903, 44156, 28337]
+asu ['susu', 'jasu', 'wasu', 'apu', 'kadu']
+
+6890 [7471, 40418, 1798, 13979, 67137]
+informasi ['information', 'informations', 'data', 'berita', 'informasine']
+
+6891 [28980, 3916, 85881, 7936, 78687]
+macan ['pandan', 'jaran', 'patin', 'setan', 'balin']
+
+6915 [46791, 46612, 47819, 46054, 102730]
+karang ['karangsari', 'karangjati', 'karangjaya', 'karangrejo', 'karangipun']
+
+6928 [19954, 70450, 42598, 24051, 7157]
+sikil ['sikile', 'sikir', 'sikat', 'sikep', 'siklus']
+
+6934 [67958, 3182, 41512, 79058, 74402]
+udan ['udane', 'awan', 'udang', 'udar', 'udani']
+
+6960 [88037, 78278, 94543, 42852, 88878]
+pacet ['silet', 'bakut', 'milet', 'condet', 'putat']
+
+6961 [4717, 6925, 6548, 43959, 101224]
+pitik ['iwak', 'bebek', 'lauk', 'papak', 'arik']
+
+6971 [39231, 101587, 83193, 46421, 24015]
+walang ['bagong', 'lamang', 'beri', 'maja', 'noong']
+
+7088 [8276, 1759, 1766, 41624, 13812]
+gedang ['wedang', 'gendang', 'kendang', 'pindang', 'pedang']
+
+7093 [45685, 67587, 56437, 1787, 55480]
+boso ['bondo', 'bobo', 'boro', 'baso', 'dolo']
+
+7114 [1901, 85719, 33680, 48354, 109500]
+bapak ['bapake', 'kakak', 'bapakke', 'bapakne', 'bapakan']
+
+7119 [109226, 83474, 18277, 14871, 67047]
+warung ['warunge', 'waring', 'waru', 'payung', 'warok']
+
+7656 [24430, 102650, 6887, 34953, 94031]
+rencang ['rencangipun', 'rengan', 'rancang', 'reng', 'guncang']
+
+7656 [24430, 102650, 6887, 34953, 94031]
+rencang ['rencangipun', 'rengan', 'rancang', 'reng', 'guncang']
+
+7657 [17633, 25376, 78852, 182, 43119]
+kanca ['kancane', 'kancanipun', 'kacane', 'kaca', 'kancah']
+
+7657 [17633, 25376, 78852, 182, 43119]
+kanca ['kancane', 'kancanipun', 'kacane', 'kaca', 'kancah']
+
+7657 [17633, 25376, 78852, 182, 43119]
+kanca ['kancane', 'kancanipun', 'kacane', 'kaca', 'kancah']
+
+7657 [17633, 25376, 78852, 182, 43119]
+kanca ['kancane', 'kancanipun', 'kacane', 'kaca', 'kancah']
+
+7657 [17633, 25376, 78852, 182, 43119]
+kanca ['kancane', 'kancanipun', 'kacane', 'kaca', 'kancah']
+
+7657 [17633, 25376, 78852, 182, 43119]
+kanca ['kancane', 'kancanipun', 'kacane', 'kaca', 'kancah']
+
+7707 [23954, 7708, 8620, 37400, 43177]
+ekspedisi ['ekspedhisi', 'eksplorasi', 'eksperimen', 'ekspansi', 'ekskavasi']
+
+7888 [61747, 10578, 112311, 73971, 28403]
+crita ['gurita', 'critane', 'cemita', 'critakake', 'cri']
+
+7959 [21964, 1465, 81263, 51701, 12233]
+raka ['rak', 'reka', 'rakana', 'dira', 'karta']
+
+7977 [38068, 27672, 45023, 96954, 45105]
+budhal ['bidhal', 'budhak', 'modhal', 'rudhal', 'mudheng']
+
+7986 [6089, 49447, 100010, 41217, 9581]
+pager ['siter', 'petir', 'ider', 'pelor', 'putar']
+
+8005 [42659, 98801, 17325, 9192, 79669]
+ping ['pingping', 'pingin', 'pingan', 'pinggang', 'pingpingna']
+
+8025 [46829, 37101, 7093, 44248, 20246]
+bos ['gaur', 'bih', 'boso', 'bosa', 'bas']
+
+8068 [18397, 109037, 81006, 43507, 91398]
+dluwang ['mbuwang', 'dlujur', 'krudung', 'diguwang', 'kluwarga']
+
+8069 [62116, 10226, 14329, 52595, 11149]
+blabak ['gerobak', 'blarak', 'lobak', 'blanja', 'blak']
+
+8074 [23237, 2035, 3182, 102679, 12825]
+awak ['awakna', 'awake', 'awan', 'awakke', 'awang']
+
+8074 [23237, 2035, 3182, 102679, 12825]
+awak ['awakna', 'awake', 'awan', 'awakke', 'awang']
+
+8076 [17788, 19192, 21563, 71528, 9413]
+lambe ['lambene', 'lamba', 'lawe', 'ubenge', 'pange']
+
+8079 [18464, 18066, 44031, 26829, 20551]
+lengen ['lengan', 'lengene', 'pilin', 'cincin', 'tenun']
+
+8079 [18464, 18066, 44031, 26829, 20551]
+lengen ['lengan', 'lengene', 'pilin', 'cincin', 'tenun']
+
+8123 [41510, 8988, 43643, 45779, 77422]
+racun ['racunan', 'racune', 'racunna', 'racikan', 'bihun']
+
+8123 [41510, 8988, 43643, 45779, 77422]
+racun ['racunan', 'racune', 'racunna', 'racikan', 'bihun']
+
+8198 [91484, 85558, 11932, 6063, 20467]
+rangkep ['rangkap', 'rangkepan', 'jangkep', 'rangka', 'rangkah']
+
+8251 [2052, 83393, 31610, 86178, 82522]
+farmasi ['farmakologi', 'farmakologis', 'koperasi', 'instrumentasi', 'fabrikasi']
+
+8268 [71623, 9414, 21634, 82898, 56926]
+godhong ['godhongan', 'godhonge', 'godong', 'endhong', 'godhongipun']
+
+8268 [71623, 9414, 21634, 82898, 56926]
+godhong ['godhongan', 'godhonge', 'godong', 'endhong', 'godhongipun']
+
+8274 [88899, 68594, 6700, 18992, 98413]
+kas ['kase', 'kasasi', 'kasta', 'kasa', 'kasting']
+
+8357 [37836, 45854, 39704, 7552, 8537]
+angin ['angine', 'angina', 'winds', 'hujan', 'gelombang']
+
+8424 [9423, 35685, 64935, 82389, 7252]
+wiji ['wijine', 'wijen', 'ruji', 'wijian', 'wewiji']
+
+8483 [48311, 10058, 70205, 37813, 32557]
+kandhang ['kandhung', 'kandhange', 'kandhane', 'kandhel', 'kandung']
+
+8537 [9146, 48221, 41025, 71892, 9139]
+gelombang ['spektrum', 'waves', 'gelombangna', 'gelombange', 'sinar']
+
+8537 [9146, 48221, 41025, 71892, 9139]
+gelombang ['spektrum', 'waves', 'gelombangna', 'gelombange', 'sinar']
+
+8560 [74306, 45161, 105425, 60625, 44163]
+rai ['raihan', 'raih', 'raita', 'rau', 'gori']
+
+8894 [96582, 44129, 19164, 79258, 11443]
+ingon ['engon', 'ingone', 'weton', 'ingonan', 'babon']
+
+8894 [96582, 44129, 19164, 79258, 11443]
+ingon ['engon', 'ingone', 'weton', 'ingonan', 'babon']
+
+8935 [7492, 19766, 66515, 19354, 99401]
+got ['get', 'getting', 'gotta', 'gets', 'gotcha']
+
+8935 [7492, 19766, 66515, 19354, 99401]
+got ['get', 'getting', 'gotta', 'gets', 'gotcha']
+
+8941 [2545, 15832, 974, 74936, 48290]
+puluhan ['puluh', 'jutaan', 'ratusan', 'belasan', 'ribuan']
+
+9092 [17806, 17104, 19244, 45261, 58374]
+kuping ['kupinge', 'keping', 'guling', 'wahing', 'giling']
+
+9116 [11495, 14097, 5260, 24730, 26886]
+penyakit ['disease', 'karusakan', 'diseases', 'illness', 'tumor']
+
+9120 [18286, 23682, 1799, 37452, 10197]
+pakar ['pacar', 'pakarang', 'pakaryan', 'pakarya', 'pakarti']
+
+9164 [6910, 44298, 10233, 32718, 14049]
+irung ['irunge', 'irungna', 'irus', 'irungipun', 'surung']
+
+9248 [35670, 12565, 18023, 17144, 91202]
+coklat ['cokelat', 'soklat', 'cokot', 'bulat', 'coklatan']
+
+9249 [71047, 41300, 97259, 97189, 29951]
+salju ['saljuan', 'tuju', 'soju', 'saldo', 'tinju']
+
+9250 [12047, 41087, 56293, 12700, 45126]
+kapas ['napas', 'ampas', 'kapasan', 'kapang', 'kapak']
+
+9489 [33814, 59985, 16576, 16633, 49505]
+studi ['penelitian', 'studine', 'kajian', 'studie', 'studina']
+
+9543 [17783, 39937, 96739, 58449, 95716]
+bisul ['bisu', 'ateul', 'gateul', 'macul', 'ketul']
+
+9623 [7724, 65161, 18018, 92468, 74069]
+panuntun ['panuwun', 'penuntun', 'panunjuk', 'penuntut', 'panunjang']
+
+9680 [68108, 27445, 53942, 79732, 20285]
+nyawang ['ngawang', 'nyabak', 'nyabut', 'nyalukan', 'nyangga']
+
+9824 [9931, 82898, 20383, 44676, 42360]
+endhas ['endhog', 'endhong', 'endhase', 'endhut', 'ndhas']
+
+9824 [9931, 82898, 20383, 44676, 42360]
+endhas ['endhog', 'endhong', 'endhase', 'endhut', 'ndhas']
+
+9904 [37873, 82066, 77224, 26878, 94364]
+geni ['genine', 'genitri', 'genin', 'gen', 'proteine']
+
+10055 [27541, 71585, 19479, 11685, 1782]
+sungu ['sungut', 'sungune', 'gulu', 'rungu', 'sangu']
+
+10098 [28251, 3792, 82531, 45546, 44922]
+untu ['unta', 'untung', 'untai', 'untir', 'kutu']
+
+10323 [16697, 74603, 48364, 91543, 23690]
+bandha ['bendha', 'bandhing', 'bandhane', 'bandhe', 'gadha']
+
+10433 [5269, 6835, 3133, 6815, 103656]
+wedi ['lagi', 'tenan', 'mampu', 'metu', 'sagen']
+
+10433 [5269, 6835, 3133, 6815, 103656]
+wedi ['lagi', 'tenan', 'mampu', 'metu', 'sagen']
+
+10588 [90025, 10357, 71765, 9990, 83660]
+rega ['rego', 'jaga', 'gena', 'beya', 'regas']
+
+10599 [66232, 9827, 43011, 5013, 42429]
+panggon ['panggona', 'panggone', 'panggen', 'panggung', 'nggon']
+
+10738 [44156, 5400, 23558, 72326, 6877]
+awu ['apu', 'ambu', 'awi', 'panu', 'asu']
+
+10738 [44156, 5400, 23558, 72326, 6877]
+awu ['apu', 'ambu', 'awi', 'panu', 'asu']
+
+10835 [66959, 29074, 94020, 48864, 84555]
+tim ['timnas', 'klub', 'timipun', 'timnya', 'timna']
+
+10998 [10968, 68186, 58833, 5834, 24909]
+pasar ['pasarean', 'pasarturi', 'pasaraya', 'pasaran', 'pasaratan']
+
+11320 [1434, 2901, 103418, 3496, 1826]
+produk ['produksi', 'products', 'produkipun', 'barang', 'diproduksi']
+
+11531 [14539, 59937, 48983, 88501, 38177]
+kuliah ['kuliyah', 'kuliahe', 'kuliahipun', 'kuliahna', 'kuliyahe']
+
+11531 [14539, 59937, 48983, 88501, 38177]
+kuliah ['kuliyah', 'kuliahe', 'kuliahipun', 'kuliahna', 'kuliyahe']
+
+11533 [3386, 23054, 5734, 232, 85025]
+urusan ['rumusan', 'putusan', 'utusan', 'urutan', 'urunan']
+
+11671 [47201, 54612, 35825, 49393, 13257]
+asosiasi ['agensi', 'konsorsium', 'konfederasi', 'afiliasi', 'federasi']
+
+12013 [8138, 111734, 49862, 28284, 28422]
+griya ['kriya', 'grija', 'driya', 'griyanipun', 'griyane']
+
+12013 [8138, 111734, 49862, 28284, 28422]
+griya ['kriya', 'grija', 'driya', 'griyanipun', 'griyane']
+
+12013 [8138, 111734, 49862, 28284, 28422]
+griya ['kriya', 'grija', 'driya', 'griyanipun', 'griyane']
+
+12023 [65764, 66076, 87173, 38461, 87319]
+spesialis ['spesial', 'spesialisasi', 'spesialiasi', 'spesialisasine', 'terspesialisasi']
+
+12101 [23972, 7424, 6877, 32945, 18255]
+susu ['sagu', 'jamu', 'asu', 'susuh', 'susuna']
+
+12468 [56741, 19655, 17778, 19223, 8976]
+bolongan ['bolonganipun', 'bolong', 'bolongane', 'talingan', 'kurungan']
+
+12579 [63892, 34889, 13323, 3629, 16243]
+santa ['sainte', 'sant', 'san', 'saint', 'santo']
+
+12666 [22900, 93763, 108143, 24564, 38818]
+kadal ['kadali', 'mamal', 'pandal', 'quail', 'ketel']
+
+12677 [56580, 84711, 4800, 10009, 19865]
+sinyal ['sinyalna', 'riyal', 'partikel', 'signal', 'signals']
+
+12699 [112063, 23624, 109604, 24654, 29269]
+roti ['rotisserie', 'rotis', 'rotini', 'pasta', 'makanan']
+
+12770 [16257, 8843, 10768, 90040, 17837]
+standar ['standarisasi', 'standard', 'standards', 'standart', 'norma']
+
+12949 [62255, 3253, 14374, 904, 8604]
+serikat ['unidos', 'states', 'usa', 'amerika', 'sarekat']
+
+13047 [39212, 103293, 85693, 60842, 75416]
+berkas ['beruk', 'berputra', 'bercorak', 'bersambung', 'minangla']
+
+13081 [22142, 33781, 108757, 16719, 34205]
+kedokteran ['kadokteran', 'kedhokteran', 'keteknikan', 'kadhokteran', 'kesusasteraan']
+
+13118 [46656, 32559, 108835, 24907, 19378]
+nafsu ['nafkah', 'nafas', 'nafsul', 'tafsiran', 'tafsir']
+
+13402 [10493, 20783, 2859, 8265, 25967]
+alternatif ['alternative', 'alternatives', 'tambahan', 'gratis', 'options']
+
+13402 [10493, 20783, 2859, 8265, 25967]
+alternatif ['alternative', 'alternatives', 'tambahan', 'gratis', 'options']
+
+13469 [74709, 22285, 9232, 8485, 11213]
+isin ['isini', 'salin', 'isinan', 'temen', 'angen']
+
+13469 [74709, 22285, 9232, 8485, 11213]
+isin ['isini', 'salin', 'isinan', 'temen', 'angen']
+
+13539 [63382, 50945, 18658, 8001, 7108]
+tukaran ['tuker', 'tukan', 'tukak', 'tugel', 'tuku']
+
+13812 [1766, 8276, 1759, 7088, 41624]
+pedang ['kendang', 'wedang', 'gendang', 'gedang', 'pindang']
+
+13832 [89537, 39982, 3702, 48356, 58276]
+pos ['posko', 'pospat', 'post', 'pospor', 'posh']
+
+13969 [74612, 43672, 41079, 96424, 31291]
+pabrik ['pabrike', 'pabrikasi', 'rubrik', 'jabrik', 'firma']
+
+14035 [17938, 56878, 31695, 62974, 12838]
+pimpinan ['pemimpin', 'chairman', 'pimpinanipun', 'pimpinane', 'kepala']
+
+14182 [1158, 64887, 3447, 110768, 28097]
+hakim ['mahkamah', 'tribunal', 'judge', 'hakimi', 'judges']
+
+14302 [34652, 90107, 32436, 19754, 13318]
+patemon ['patemone', 'patemonan', 'partemon', 'tetemon', 'patemonane']
+
+14946 [43759, 31563, 60654, 84790, 80511]
+karir ['karire', 'karirna', 'kariripun', 'berkarir', 'kariere']
+
+15001 [936, 44396, 971, 2092, 60157]
+orbit ['deukeut', 'orbitna', 'tina', 'sedengkeun', 'magnitudo']
+
+15070 [53284, 32853, 93438, 21101, 80204]
+guyon ['guyonan', 'nanaon', 'playon', 'payon', 'bombong']
+
+15591 [9730, 81105, 81806, 41033, 9659]
+busur ['busuk', 'busak', 'busung', 'janur', 'catur']
+
+15610 [7114, 109500, 35140, 48354, 22873]
+bapa ['bapak', 'bapakan', 'ayah', 'bapakne', 'bapana']
+
+15773 [15682, 78468, 84211, 65392, 18213]
+bates ['batesan', 'batese', 'malet', 'modis', 'higgins']
+
+15821 [15010, 8191, 38843, 13981, 6768]
+dulur ['dulurna', 'dulure', 'dulu', 'kaluhur', 'sakur']
+
+15821 [15010, 8191, 38843, 13981, 6768]
+dulur ['dulurna', 'dulure', 'dulu', 'kaluhur', 'sakur']
+
+16091 [1907, 29615, 95379, 15420, 84802]
+sedulur ['sedulure', 'seduluran', 'seduluripun', 'sedhulure', 'sedhulur']
+
+16091 [1907, 29615, 95379, 15420, 84802]
+sedulur ['sedulure', 'seduluran', 'seduluripun', 'sedhulure', 'sedhulur']
+
+16091 [1907, 29615, 95379, 15420, 84802]
+sedulur ['sedulure', 'seduluran', 'seduluripun', 'sedhulure', 'sedhulur']
+
+16381 [30961, 18869, 31319, 31560, 5862]
+pegawai ['pejabat', 'officer', 'pekerja', 'pengarah', 'kapten']
+
+16764 [3692, 26453, 3408, 90688, 82125]
+dinten ['dintenipun', 'swanten', 'kinten', 'dintenna', 'dintenan']
+
+17367 [45381, 38509, 44718, 44719, 96939]
+lomba ['lomban', 'lombang', 'lompat', 'lompatan', 'lelomban']
+
+17417 [57458, 49710, 35386, 8267, 487]
+perpustakaan ['biblioteca', 'bibliotheque', 'bibliotheca', 'library', 'buku']
+
+17527 [6064, 2003, 103119, 95039, 101922]
+gendhis ['gendhing', 'gendheng', 'gendhisipun', 'kudhis', 'gendhang']
+
+17667 [69969, 19789, 23277, 74329, 23114]
+pita ['pitapak', 'pitakon', 'peti', 'pitarubak', 'pista']
+
+18010 [88970, 56788, 39567, 21028, 9709]
+langgeng ['cengeng', 'ganggeng', 'rengeng', 'sugeng', 'bengkong']
+
+18347 [66852, 98078, 90823, 79939, 31451]
+bayaran ['bayar', 'bayarane', 'penasaran', 'penalaran', 'sigaran']
+
+18390 [48344, 45033, 63653, 45206, 9551]
+sumpah ['sumpahe', 'tumpah', 'sumpahna', 'bersumpah', 'sampah']
+
+18390 [48344, 45033, 63653, 45206, 9551]
+sumpah ['sumpahe', 'tumpah', 'sumpahna', 'bersumpah', 'sampah']
+
+18642 [77368, 43374, 84998, 103715, 91812]
+salad ['salade', 'salat', 'salada', 'salata', 'spiced']
+
+18718 [46206, 92114, 4831, 80895, 19234]
+tato ['toga', 'legato', 'telo', 'pose', 'teken']
+
+18872 [1215, 7027, 101278, 98987, 87544]
+wali ['walikota', 'walikan', 'walibi', 'waline', 'walikat']
+
+18889 [4528, 32248, 9339, 87517, 25482]
+internal ['interior', 'internally', 'external', 'interna', 'intern']
+
+18971 [493, 63155, 14656, 12153, 16903]
+mahasiswa ['pelajar', 'mahasiswane', 'students', 'siswa', 'student']
+
+19046 [98421, 44641, 56862, 19126, 6220]
+purnama ['purnamasari', 'purna', 'purnima', 'purwana', 'purnawarman']
+
+19202 [21541, 1615, 6883, 78322, 225]
+lawang ['lawange', 'lawakan', 'lapang', 'lawangan', 'lawas']
+
+19202 [21541, 1615, 6883, 78322, 225]
+lawang ['lawange', 'lawakan', 'lapang', 'lawangan', 'lawas']
+
+19202 [21541, 1615, 6883, 78322, 225]
+lawang ['lawange', 'lawakan', 'lapang', 'lawangan', 'lawas']
+
+19217 [42877, 18044, 30753, 19098, 79931]
+asta ['astagina', 'astane', 'astani', 'ehe', 'astacala']
+
+19273 [23464, 23390, 27707, 83710, 3384]
+biksu ['biksuni', 'bhiksu', 'bikang', 'biku', 'bibit']
+
+19329 [42899, 19297, 16697, 36853, 981]
+kitha ['ibukutha', 'guha', 'bendha', 'petha', 'tlatah']
+
+19609 [76831, 44865, 94061, 44960, 6475]
+pedhes ['pedhet', 'pemanis', 'pedhese', 'ludhes', 'pedes']
+
+19741 [13948, 36590, 9023, 26035, 45143]
+palemahan ['paimahan', 'pomahan', 'kalemahan', 'lumahan', 'perumahan']
+
+19788 [11552, 83895, 108766, 25143, 95843]
+pandeleng ['pandelengan', 'panyandhang', 'pandengan', 'pandhang', 'pandelengane']
+
+19823 [38147, 5903, 31586, 4490, 61859]
+mempeng ['memulang', 'nyepeng', 'kacepeng', 'ngomong', 'cepeng']
+
+19876 [220, 24592, 8488, 1687, 14295]
+antik ['klasik', 'antique', 'kuno', 'tradisional', 'pottery']
+
+19876 [220, 24592, 8488, 1687, 14295]
+antik ['klasik', 'antique', 'kuno', 'tradisional', 'pottery']
+
+20099 [8808, 6103, 22346, 57733, 57313]
+bom ['bomb', 'serangan', 'bombing', 'bombs', 'bomber']
+
+20170 [6536, 94766, 18491, 79729, 95706]
+mangkok ['mangkuk', 'manggang', 'cangkok', 'mangkak', 'mangko']
+
+20266 [46288, 59487, 75285, 6877, 32356]
+prau ['prahu', 'ruu', 'praune', 'asu', 'regu']
+
+20586 [93847, 3720, 5346, 4849, 74339]
+wedhok ['wedhoke', 'wedhus', 'wadhon', 'wedok', 'gondhok']
+
+20613 [110130, 10133, 17661, 18613, 79357]
+gelut ['gelud', 'gelung', 'emut', 'kerut', 'mecut']
+
+20613 [110130, 10133, 17661, 18613, 79357]
+gelut ['gelud', 'gelung', 'emut', 'kerut', 'mecut']
+
+20687 [102363, 3400, 88293, 29046, 74738]
+nuwun ['suwun', 'nyuwun', 'maturnuwun', 'panyuwun', 'muwun']
+
+21232 [64813, 53138, 9000, 73671, 32469]
+marinir ['infanteri', 'opsir', 'amatir', 'mariniyah', 'infantri']
+
+21233 [70339, 66232, 1289, 10599, 5013]
+pangkalan ['pangkalanbun', 'panggona', 'pangkal', 'panggon', 'panggung']
+
+21275 [106072, 54827, 37209, 58257, 29592]
+noda ['nodo', 'nod', 'wada', 'nodong', 'danda']
+
+21319 [23865, 3300, 74828, 6612, 6589]
+wot ['wok', 'wod', 'wombat', 'sobat', 'huut']
+
+21320 [13972, 22613, 10931, 13984, 13585]
+menara ['tower', 'bangunan', 'masjid', 'gedung', 'towers']
+
+21583 [56664, 1884, 47921, 9749, 38509]
+blumbang ['blumbangan', 'kembang', 'barangbang', 'timbang', 'lombang']
+
+21635 [45754, 23522, 95167, 5836, 12120]
+tong ['tongkol', 'tongkat', 'tongkang', 'tongo', 'tonggong']
+
+21645 [45640, 78865, 94755, 104021, 45144]
+mentok ['botok', 'mento', 'mentol', 'ndok', 'porok']
+
+21798 [99458, 89856, 7931, 66296, 20192]
+mayit ['mayite', 'mayitna', 'wingit', 'mabit', 'rakit']
+
+21905 [28693, 50728, 87666, 66294, 958]
+syarat ['syarate', 'syaratipun', 'syaratna', 'syara', 'maksud']
+
+21925 [58459, 93122, 48610, 48388, 77687]
+sulap ['sulam', 'pesulap', 'salep', 'suap', 'sadap']
+
+22167 [29025, 90732, 2588, 17540, 94159]
+ruh ['rah', 'ruhani', 'reh', 'trah', 'rih']
+
+22927 [44662, 57694, 38847, 23714, 40010]
+kekuasaan ['kekuasaannya', 'kekuasaanipun', 'kuasa', 'pemerintahan', 'penguasa']
+
+22967 [73481, 40213, 60550, 57792, 89280]
+kunjungan ['kunjunganipun', 'mengunjungi', 'kunjung', 'berkunjung', 'pengunjunge']
+
+23002 [14232, 11009, 31319, 14184, 42098]
+petani ['farmers', 'pertanian', 'pekerja', 'farming', 'agraria']
+
+23157 [27054, 32473, 5713, 22990, 35046]
+aneh ['anehe', 'anem', 'adoh', 'parah', 'anehna']
+
+23212 [16817, 54905, 40321, 81935, 14342]
+generator ['generators', 'synthesizer', 'rotor', 'motore', 'kernel']
+
+23277 [49447, 40282, 48055, 6276, 29949]
+peti ['petir', 'petik', 'petikan', 'petingan', 'petinju']
+
+23486 [94062, 60788, 7119, 44224, 21329]
+wargi ['wargo', 'wargina', 'warung', 'waruga', 'margi']
+
+23553 [102545, 39686, 61326, 36645, 30015]
+pin ['pinch', 'pen', 'pinika', 'pint', 'pet']
+
+23621 [41626, 44703, 98346, 9730, 6139]
+beluk ['belut', 'belur', 'beluga', 'busuk', 'tutuk']
+
+23621 [41626, 44703, 98346, 9730, 6139]
+beluk ['belut', 'belur', 'beluga', 'busuk', 'tutuk']
+
+23776 [31451, 7776, 42175, 12599, 10828]
+sigar ['sigaran', 'sigra', 'sesar', 'cakar', 'medar']
+
+23919 [83750, 44357, 34968, 110571, 88157]
+gupernur ['gupitan', 'purwarupa', 'palopor', 'pebruwari', 'guguyon']
+
+24042 [38695, 32223, 9429, 100678, 91067]
+abrit ['abrik', 'abri', 'abrasi', 'abluk', 'abring']
+
+24365 [27186, 9368, 15134, 48642, 11976]
+satelit ['satelite', 'satellites', 'satellite', 'satelitipun', 'sensor']
+
+24832 [30876, 56557, 11065, 28379, 13922]
+wabah ['musibah', 'umbah', 'wacana', 'kabah', 'bencana']
+
+25277 [18492, 20690, 20006, 22814, 33664]
+dolar ['dollar', 'dollars', 'usd', 'pound', 'gulden']
+
+26829 [8079, 23581, 27499, 34281, 44031]
+cincin ['lengen', 'kolon', 'tigan', 'lilin', 'pilin']
+
+27089 [3640, 23855, 79430, 81986, 48028]
+lembar ['lembaran', 'lembur', 'lempar', 'lempit', 'lemper']
+
+28186 [684, 19391, 17179, 26027, 677]
+pepadha ['sapadha', 'pepadhang', 'pepadhan', 'pepadhane', 'tuladha']
+
+28239 [35740, 45804, 92339, 92471, 35741]
+dhukun ['dhuku', 'dhukuh', 'dhugderan', 'dhipan', 'dhuwet']
+
+28467 [38666, 97537, 18775, 7854, 35061]
+eyang ['eyange', 'eyangipun', 'ewon', 'iya', 'hiyang']
+
+28530 [97024, 35884, 59382, 84310, 58877]
+persimpangan ['persinggahan', 'pamungpangan', 'perpanjangan', 'sampangan', 'pertandhingan']
+
+28614 [55480, 44000, 83403, 56437, 51152]
+doro ['dolo', 'goro', 'koro', 'boro', 'soro']
+
+28740 [1391, 28150, 26157, 2608, 37960]
+peraturan ['undang', 'regulations', 'keputusan', 'laws', 'akta']
+
+28775 [12315, 77285, 50446, 71490, 5663]
+pasokan ['patokan', 'desakan', 'pasarujukan', 'ejekan', 'tarikan']
+
+29002 [49608, 14851, 35891, 34503, 14519]
+laksamana ['brigadir', 'gandamana', 'marsekal', 'wira', 'duta']
+
+29602 [73732, 101875, 43360, 1181, 35638]
+moyang ['moyange', 'moyangipun', 'moyangna', 'tiyang', 'moyan']
+
+29685 [8035, 16961, 10536, 27392, 16854]
+delta ['gamma', 'alpha', 'beta', 'epsilon', 'zeta']
+
+29805 [31963, 106535, 107882, 71889, 11863]
+robot ['robots', 'robotis', 'robotcup', 'robotik', 'robotics']
+
+29899 [65634, 71992, 32511, 1206, 2506]
+pidato ['pidatona', 'pidatone', 'pidhato', 'pikir', 'pawarta']
+
+31061 [52887, 14827, 108251, 73549, 4972]
+anugrah ['anugraha', 'nugraha', 'inganugraha', 'dianugrahi', 'sugih']
+
+31166 [5243, 88440, 9095, 5596, 48504]
+sidang ['ajang', 'persidangan', 'sarang', 'daring', 'tiang']
+
+31171 [1947, 42203, 110780, 89684, 11191]
+usia ['umur', 'berusia', 'usiane', 'umuran', 'kelahiran']
+
+32010 [103357, 111833, 65023, 12699, 29117]
+bir ['biryani', 'birria', 'biri', 'roti', 'biraki']
+
+32010 [103357, 111833, 65023, 12699, 29117]
+bir ['biryani', 'birria', 'biri', 'roti', 'biraki']
+
+32953 [100833, 31560, 14439, 63223, 12838]
+direktur ['direktor', 'pengarah', 'sekretaris', 'ceo', 'kepala']
+
+33040 [31583, 38955, 87306, 25502, 85578]
+akun ['idin', 'firman', 'anon', 'konten', 'informan']
+
+33154 [96341, 91097, 17701, 10091, 56437]
+dowo ['ponyo', 'podo', 'supoyo', 'maido', 'boro']
+
+33676 [48186, 18330, 72405, 1965, 26336]
+kesenengan ['kasenengan', 'kesenengane', 'kesenangan', 'kasenengane', 'kasenangan']
+
+34314 [15194, 73290, 41692, 63408, 88987]
+bungkus ['bungkusan', 'bungkil', 'bungbung', 'bungker', 'bungkuk']
+
+34443 [17850, 19424, 92637, 20804, 6607]
+pamit ['pamitan', 'kapit', 'pamati', 'paman', 'pamer']
+
+34904 [92845, 83273, 104083, 31819, 93054]
+ciu ['cium', 'kou', 'saeu', 'keu', 'yau']
+
+35136 [25464, 55163, 92536, 21611, 96518]
+pegatan ['gugatan', 'pepegatan', 'pembatalan', 'pegat', 'pemberkatan']
+
+35451 [30549, 9684, 43520, 8014, 9164]
+karung ['sarung', 'kalung', 'sirung', 'gulung', 'irung']
+
+35456 [44151, 24996, 40061, 40318, 6920]
+plat ['spons', 'flat', 'plak', 'piso', 'lapisan']
+
+35697 [6805, 15120, 90458, 89704, 43574]
+satria ['satriya', 'satru', 'satrya', 'satrio', 'satra']
+
+35717 [44300, 23451, 38214, 1276, 52662]
+wangsulan ['wangsulane', 'wangsul', 'wangsulipun', 'ungkapan', 'wangsulanipun']
+
+37872 [11567, 10253, 19904, 8190, 89441]
+uwuh ['uwoh', 'uwur', 'kawuwuhan', 'tuwuhan', 'tuwung']
+
+38781 [31689, 423, 26618, 44116, 12270]
+kasir ['kasur', 'kasar', 'kusir', 'kaset', 'kasile']
+
+38851 [77417, 102400, 102460, 6887, 12372]
+ranjang ['rantang', 'ranju', 'ranjam', 'rancang', 'jangjang']
+
+39070 [14505, 62305, 16500, 59487, 63368]
+kru ['krungu', 'kro', 'kra', 'ruu', 'kri']
+
+40131 [9933, 42477, 23634, 39226, 30667]
+mustaka ['duraka', 'suaka', 'salaka', 'mustakane', 'padika']
+
+40131 [9933, 42477, 23634, 39226, 30667]
+mustaka ['duraka', 'suaka', 'salaka', 'mustakane', 'padika']
+
+40131 [9933, 42477, 23634, 39226, 30667]
+mustaka ['duraka', 'suaka', 'salaka', 'mustakane', 'padika']
+
+40726 [66113, 40630, 41202, 100316, 12354]
+toto ['totok', 'nono', 'oto', 'totoh', 'tomo']
+
+40922 [39449, 7250, 19479, 19458, 13510]
+lemu ['hipu', 'semu', 'gulu', 'ungu', 'lembut']
+
+41195 [23028, 21226, 15539, 14809, 20918]
+agenda ['kebijakan', 'slogan', 'manifesto', 'rencana', 'objectives']
+
+41267 [34683, 46551, 112789, 21333, 27317]
+amplop ['ampel', 'ampibi', 'ampaw', 'amp', 'amplitudo']
+
+42427 [91871, 83844, 28388, 83260, 54323]
+hobi ['hoby', 'hobina', 'cobi', 'hobine', 'lobi']
+
+42462 [100910, 34394, 39212, 111396, 38277]
+beruang ['beruwang', 'berlian', 'beruk', 'mamuang', 'berhala']
+
+42462 [100910, 34394, 39212, 111396, 38277]
+beruang ['beruwang', 'berlian', 'beruk', 'mamuang', 'berhala']
+
+42656 [17710, 9313, 79403, 28342, 55715]
+jiwo ['kiwo', 'jowo', 'siwo', 'tuwo', 'wawo']
+
+42917 [6641, 44032, 61941, 105469, 94275]
+perkakas ['perhiasan', 'perkosa', 'pertanda', 'bikakan', 'ketangkasan']
+
+44249 [89655, 33042, 6583, 96050, 46037]
+ngelu ['ngeden', 'ngeling', 'ngingu', 'ngelem', 'ngelak']
+
+44694 [24006, 45892, 86849, 44515, 38146]
+keranjang ['kranjang', 'kerudung', 'krawang', 'memanjang', 'kerang']
+
+44948 [89788, 17260, 48052, 7859, 13316]
+leren ['lerene', 'leres', 'lerem', 'lereh', 'peken']
+
+44999 [60233, 75455, 17195, 3460, 33419]
+mriyang ['mriem', 'mriang', 'mriki', 'mriku', 'mroses']
+
+45126 [44076, 9250, 6454, 12700, 5361]
+kapak ['kapuk', 'kapas', 'umpak', 'kapang', 'tulak']
+
+45194 [106783, 44828, 18542, 64935, 83136]
+graji ['goji', 'gergaji', 'suji', 'ruji', 'baji']
+
+45194 [106783, 44828, 18542, 64935, 83136]
+graji ['goji', 'gergaji', 'suji', 'ruji', 'baji']
+
+45655 [88676, 47109, 66531, 19434, 4382]
+japa ['tripa', 'rapa', 'datta', 'bedhaya', 'sinta']
+
+45692 [46778, 95706, 92781, 55621, 70422]
+nongko ['dongko', 'mangko', 'ongko', 'ponco', 'jongko']
+
+45768 [95998, 30806, 48858, 21900, 58005]
+moto ['motocross', 'motogp', 'motorcycle', 'motor', 'honda']
+
+46704 [5304, 58111, 20014, 8618, 57578]
+kekal ['nakal', 'kenal', 'keker', 'kedal', 'dugal']
+
+46756 [88356, 6109, 30661, 19773, 55503]
+ampeyan ['laweyan', 'rakeyan', 'ampang', 'ampar', 'ampana']
+
+47186 [45124, 30790, 11527, 958, 1807]
+maklumat ['maklum', 'rapat', 'kaputusan', 'maksud', 'riwayat']
+
+47661 [34320, 34763, 59499, 49918, 46171]
+pil ['pel', 'pili', 'pilpres', 'pilm', 'pal']
+
+47954 [19371, 94487, 18540, 52278, 15813]
+kathok ['menthok', 'godhok', 'kethok', 'ndhodhok', 'kodhok']
+
+48056 [34420, 49689, 70097, 53509, 12472]
+metik ['metot', 'methik', 'kedik', 'ancik', 'meteng']
+
+49359 [112902, 41553, 71986, 58612, 24343]
+ambulan ['ambula', 'ambilan', 'ambalan', 'ambulans', 'ambul']
+
+49489 [101950, 65885, 94756, 26465, 18004]
+jadwal ['jadwale', 'jajak', 'jadul', 'sujud', 'mekrad']
+
+49489 [101950, 65885, 94756, 26465, 18004]
+jadwal ['jadwale', 'jajak', 'jadul', 'sujud', 'mekrad']
+
+49642 [23143, 69874, 12316, 16922, 40336]
+formulir ['formulasi', 'bagilir', 'tipologi', 'dalil', 'wulir']
+
+50850 [91874, 41401, 29270, 33740, 9109]
+tanduran ['tandurane', 'tandur', 'dhaharan', 'dhasaran', 'ombenan']
+
+52522 [93679, 100000, 18383, 99059, 81605]
+pageblug ['pagebluk', 'pagebug', 'njeblug', 'gemblung', 'panjeblugan']
+
+53224 [13548, 12517, 6838, 44859, 20607]
+laci ['guci', 'topi', 'wangi', 'lari', 'tangi']
+
+53283 [54631, 69877, 41812, 82836, 70315]
+toyan ['tapian', 'boyan', 'babakan', 'leran', 'painan']
+
+53284 [15070, 88850, 13683, 14095, 39445]
+guyonan ['guyon', 'guyonane', 'wetonan', 'guyub', 'boyongan']
+
+54323 [28782, 92665, 42427, 14329, 5736]
+lobi ['lobang', 'lobis', 'hobi', 'lobak', 'rabi']
+
+54469 [31001, 20425, 75806, 3069, 39486]
+landasan ['landas', 'kabisan', 'fondasi', 'gagasan', 'kasantosan']
+
+55264 [54724, 41662, 56525, 92565, 72841]
+sopir ['sipir', 'pipir', 'sampir', 'cipir', 'nyupir']
+
+56661 [109140, 45840, 21266, 23866, 37705]
+ganja ['ganje', 'ganjang', 'senja', 'jaja', 'ganjar']
+
+56807 [51034, 2482, 90709, 46746, 98983]
+sanding ['banding', 'sandi', 'mading', 'manding', 'keting']
+
+57010 [56182, 41401, 100758, 417, 110570]
+taneman ['tanem', 'tandur', 'tancang', 'tandha', 'pangeman']
+
+57651 [47482, 26490, 28266, 79134, 85912]
+hamba ['hambali', 'hampa', 'domba', 'hambal', 'hambat']
+
+58783 [53082, 14894, 44143, 41441, 79138]
+gaun ['bran', 'gaman', 'baon', 'ubin', 'baran']
+
+60021 [59854, 61578, 96286, 103001, 81240]
+rojo ['blanco', 'roja', 'azul', 'verdes', 'negra']
+
+60079 [23031, 1163, 53913, 104814, 48083]
+hukuman ['tahanan', 'hukum', 'undangan', 'balasan', 'kontrakan']
+
+60957 [25466, 66924, 8042, 25661, 59520]
+kekajengan ['kemajengan', 'kekajenganipun', 'kekarepan', 'kepentingan', 'kekosongan']
+
+60957 [25466, 66924, 8042, 25661, 59520]
+kekajengan ['kemajengan', 'kekajenganipun', 'kekarepan', 'kepentingan', 'kekosongan']
+
+61362 [40249, 3731, 28821, 72382, 19620]
+krikil ['kerikil', 'krucil', 'kripik', 'krikilan', 'krupuk']
+
+64572 [21322, 46143, 12704, 17711, 29857]
+gerbong ['gerbang', 'gembong', 'kendaraan', 'tembong', 'kobongan']
+
+65666 [79247, 32782, 94222, 81106, 94297]
+suntikan ['suntik', 'suntingan', 'suntak', 'sunting', 'sintesa']
+
+66588 [9935, 1958, 2004, 70863, 3180]
+senengi ['senenge', 'seneng', 'cenenge', 'ubengi', 'mbengi']
+
+69140 [47355, 4591, 26416, 80271, 84520]
+lungo ['tuo', 'lunga', 'matte', 'bijis', 'langsam']
+
+71607 [14591, 17792, 39614, 90896, 56666]
+bokong ['bokor', 'bokonge', 'obong', 'jocong', 'kopong']
+
+71607 [14591, 17792, 39614, 90896, 56666]
+bokong ['bokor', 'bokonge', 'obong', 'jocong', 'kopong']
+
+73489 [8283, 96757, 12765, 1816, 64709]
+ambisi ['ambisius', 'ambisine', 'presisi', 'prestasi', 'aktipitas']
+
+73489 [8283, 96757, 12765, 1816, 64709]
+ambisi ['ambisius', 'ambisine', 'presisi', 'prestasi', 'aktipitas']
+
+76827 [83623, 38765, 44714, 8335, 26180]
+kampret ['retret', 'kampuh', 'ceret', 'potret', 'motret']
+
+78740 [22387, 52667, 60959, 103018, 22397]
+pandamel ['pandamelan', 'pandamelipun', 'andamel', 'dhamel', 'ndamel']
+
+78740 [22387, 52667, 60959, 103018, 22397]
+pandamel ['pandamelan', 'pandamelipun', 'andamel', 'dhamel', 'ndamel']
+
+78766 [27083, 43696, 64522, 51349, 53449]
+guo ['guoqing', 'jing', 'ying', 'jie', 'sheng']
+
+80411 [18388, 41675, 60954, 77597, 70132]
+bujangan ['bajingan', 'bujang', 'dongengan', 'gedongan', 'bubungan']
+
+80723 [32203, 20633, 9652, 82239, 41571]
+kesepian ['kesaktian', 'kesurupan', 'kesusu', 'kepandaian', 'kedamaian']
+
+80808 [45725, 58041, 91096, 8080, 13682]
+prayaan ['perayaan', 'parayaan', 'preinan', 'praupan', 'prabot']
+
+80808 [45725, 58041, 91096, 8080, 13682]
+prayaan ['perayaan', 'parayaan', 'preinan', 'praupan', 'prabot']
+
+82697 [2558, 56573, 3317, 6318, 59751]
+elingan ['eling', 'elinga', 'iringan', 'omongan', 'elinge']
+
+83218 [41448, 41775, 109212, 60801, 72090]
+kenduri ['kenduren', 'widuri', 'kendur', 'berduri', 'kendor']
+
+83684 [34450, 33154, 147, 1787, 96341]
+roso ['rodo', 'dowo', 'ijo', 'baso', 'ponyo']
+
+83867 [110592, 1418, 91097, 35897, 20519]
+menungso ['menungsa', 'sedoyo', 'podo', 'bobojong', 'bedo']
+
+83867 [110592, 1418, 91097, 35897, 20519]
+menungso ['menungsa', 'sedoyo', 'podo', 'bobojong', 'bedo']
+
+87405 [44814, 1763, 112648, 40250, 44140]
+jiwit ['jijik', 'jidor', 'jujubes', 'jikuk', 'jirak']
+
+88440 [98402, 31166, 8666, 10798, 91991]
+persidangan ['pamidangan', 'sidang', 'persilangan', 'pemilu', 'perbincangan']
+
+89659 [99125, 40920, 2487, 20998, 60602]
+simah ['saidah', 'somah', 'temah', 'milah', 'resah']
+
+89659 [99125, 40920, 2487, 20998, 60602]
+simah ['saidah', 'somah', 'temah', 'milah', 'resah']
+
+91358 [85142, 107137, 81111, 81599, 97218]
+pelatian ['pelarian', 'pelatiyan', 'peladen', 'pelacakan', 'pelacuran']
+
+92171 [81675, 41441, 9328, 90091, 105647]
+bedhilan ['sedotan', 'ubin', 'bundheran', 'andhalan', 'bedilan']
+
+99134 [93289, 32887, 98947, 67587, 21384]
+lilo ['calo', 'tino', 'fio', 'bobo', 'yono']
+
+99819 [52018, 27750, 39125, 11485, 11570]
+demit ['lulut', 'tobat', 'enget', 'deet', 'reget']
+
+101664 [95423, 41235, 45152, 101633, 102583]
+penthung ['munthu', 'penthul', 'pundhung', 'penunggu', 'penyambung']
+
+103308 [92117, 50807, 18018, 36716, 41594]
+pitunjuk ['patunjuk', 'petunjuk', 'panunjuk', 'panunjukkan', 'tutunjuk']
+
+103523 [17943, 78107, 10188, 13521, 13087]
+ngentut ['ngenut', 'ngerut', 'ngemut', 'ngetung', 'ngentukake']
+
+104245 [16678, 25463, 98004, 79099, 1133]
+kebetahan ['kabetahan', 'keluhan', 'kecerahan', 'keutuhan', 'kaendahan']
+
+104245 [16678, 25463, 98004, 79099, 1133]
+kebetahan ['kabetahan', 'keluhan', 'kecerahan', 'keutuhan', 'kaendahan']
+
+106397 [19946, 41584, 87191, 105290, 28912]
+pipo ['pipa', 'pipi', 'pipiti', 'pimiento', 'pip']
+
+107823 [60030, 13945, 101120, 20103, 11470]
+ndukung ['kadukung', 'didukung', 'ndidik', 'ndhalangi', 'ndokok']
+
+
+
+Pair translation for k=10
+20 [17933, 19942, 30248, 13009, 93759, 83961, 48881, 72764, 8474, 81648]
+pucuk ['pucuking', 'pucukan', 'pucukipun', 'pucuke', 'pucukane', 'pupu', 'puhu', 'pucukna', 'pupuk', 'gacuk']
+
+62 [94, 1856, 248, 199, 24830, 448, 960, 272, 72, 70]
+dina ['jeung', 'anu', 'nyaeta', 'sarta', 'mangrupakeun', 'kana', 'keur', 'kalawan', 'pikeun', 'nu']
+
+119 [47354, 1264, 4, 52, 58, 1131, 125, 110784, 240, 103892]
+dadi ['dadine', 'dados', 'iku', 'minangka', 'karo', 'duwe', 'kanggo', 'dadiake', 'kanthi', 'dadikake']
+
+125 [670, 1139, 920, 119, 49, 8, 671, 18336, 240, 99990]
+kanggo ['kanggone', 'kangge', 'sajeroning', 'dadi', 'lan', 'kang', 'marang', 'supayane', 'kanthi', 'kanggoku']
+
+125 [670, 1139, 920, 119, 49, 8, 671, 18336, 240, 99990]
+kanggo ['kanggone', 'kangge', 'sajeroning', 'dadi', 'lan', 'kang', 'marang', 'supayane', 'kanthi', 'kanggoku']
+
+182 [26499, 16670, 43692, 78852, 54728, 30981, 17848, 96726, 44148, 33274]
+kaca ['kacana', 'kaku', 'waca', 'kacane', 'kabaca', 'kaco', 'kacu', 'kake', 'kacek', 'kacau']
+
+193 [18914, 4781, 5866, 57504, 62351, 83030, 7293, 17938, 39348, 14439]
+anggota ['member', 'members', 'ketua', 'anggotanya', 'anggotaning', 'anggotan', 'anggotane', 'pemimpin', 'peserta', 'sekretaris']
+
+210 [33864, 10097, 19342, 97180, 22145, 5730, 5883, 94397, 29822, 27815]
+dalem ['daleme', 'malem', 'silem', 'polem', 'kalam', 'hayam', 'anom', 'delem', 'silam', 'agam']
+
+213 [5741, 204, 23951, 41913, 1067, 60298, 23497, 25, 49820, 21]
+kidul ['selatan', 'lor', 'kidule', 'kidulipun', 'kiduling', 'kidulwetan', 'kiduleun', 'wetan', 'kidulna', 'kulon']
+
+216 [5410, 94824, 61413, 4134, 755, 976, 17908, 10918, 1624, 10944]
+wong ['wonge', 'wongan', 'wongsal', 'orang', 'urang', 'warga', 'wargane', 'penduduk', 'umat', 'umate']
+
+216 [5410, 94824, 61413, 4134, 755, 976, 17908, 10918, 1624, 10944]
+wong ['wonge', 'wongan', 'wongsal', 'orang', 'urang', 'warga', 'wargane', 'penduduk', 'umat', 'umate']
+
+216 [5410, 94824, 61413, 4134, 755, 976, 17908, 10918, 1624, 10944]
+wong ['wonge', 'wongan', 'wongsal', 'orang', 'urang', 'warga', 'wargane', 'penduduk', 'umat', 'umate']
+
+216 [5410, 94824, 61413, 4134, 755, 976, 17908, 10918, 1624, 10944]
+wong ['wonge', 'wongan', 'wongsal', 'orang', 'urang', 'warga', 'wargane', 'penduduk', 'umat', 'umate']
+
+244 [2856, 10295, 12160, 23949, 1, 15384, 1536, 11784, 1268, 13427]
+aksara ['huruf', 'alfabet', 'aksarane', 'aksarana', 'basa', 'alphabet', 'naskah', 'bahasa', 'teks', 'kanji']
+
+244 [2856, 10295, 12160, 23949, 1, 15384, 1536, 11784, 1268, 13427]
+aksara ['huruf', 'alfabet', 'aksarane', 'aksarana', 'basa', 'alphabet', 'naskah', 'bahasa', 'teks', 'kanji']
+
+273 [10918, 7554, 53684, 15987, 1850, 5770, 277, 1577, 275, 3148]
+populasi ['penduduk', 'population', 'penduduknya', 'populations', 'jumlah', 'populasine', 'populasina', 'sensus', 'jiwa', 'komunitas']
+
+276 [14913, 54637, 9415, 82406, 1852, 20037, 80470, 70347, 713, 47356]
+taun ['tahun', 'taunanu', 'taunan', 'taunipun', 'taunna', 'taune', 'taunieu', 'tauna', 'mangsa', 'taon']
+
+276 [14913, 54637, 9415, 82406, 1852, 20037, 80470, 70347, 713, 47356]
+taun ['tahun', 'taunanu', 'taunan', 'taunipun', 'taunna', 'taune', 'taunieu', 'tauna', 'mangsa', 'taon']
+
+281 [1623, 104538, 32362, 38464, 38605, 90666, 4480, 72464, 86786, 56911]
+islam ['muslim', 'islamisme', 'islamiyah', 'muslims', 'islami', 'islamis', 'islamic', 'islamisasi', 'islaman', 'islamism']
+
+314 [52765, 864, 35851, 21235, 25107, 1159, 1100, 52526, 58466, 1213]
+dewan ['majlis', 'komite', 'conseil', 'kongres', 'senat', 'komisi', 'majelis', 'raad', 'presidium', 'badan']
+
+401 [35161, 5223, 83900, 8409, 24239, 15369, 1169, 6345, 13797, 16102]
+posisi ['kedudukan', 'position', 'posisinya', 'lokasi', 'positions', 'posisine', 'status', 'peran', 'posisina', 'kondisi']
+
+402 [13716, 12235, 40938, 53375, 3518, 77820, 108215, 44181, 101275, 104151]
+pungkasan ['pungkasaning', 'pungkasane', 'pungkas', 'pungkase', 'pungkasanipun', 'kapungkasan', 'kawitaning', 'wekasaning', 'pungksan', 'pungkasing']
+
+503 [42825, 14070, 80348, 15221, 35791, 1558, 35037, 29786, 7119, 37586]
+warta ['wasta', 'warata', 'wartel', 'wara', 'dhata', 'nyata', 'waris', 'wartawan', 'warung', 'panata']
+
+721 [46896, 13511, 3407, 3321, 13467, 9872, 11278, 7594, 839, 98669]
+durung ['durunge', 'wurung', 'kapungkur', 'asring', 'sanggup', 'patut', 'kalorone', 'bingung', 'sanggeus', 'nangung']
+
+752 [26349, 30717, 60512, 2659, 1500, 37651, 22333, 6103, 13752, 22267]
+perang ['peperangan', 'pertempuran', 'guerre', 'war', 'konflik', 'guerra', 'battle', 'serangan', 'tentara', 'battles']
+
+799 [28708, 94610, 22276, 103249, 70709, 72434, 109317, 25973, 82368, 108974]
+cathetan ['cathatan', 'chathetan', 'cathethan', 'cathrtan', 'cthetan', 'cathetane', 'cathet', 'padhetan', 'catheten', 'cathetaning']
+
+800 [64526, 43615, 27444, 25191, 38281, 599, 186, 83759, 10819, 47961]
+suku ['sukune', 'tribe', 'sukuna', 'klan', 'sukubangsa', 'kelompok', 'kategori', 'tribus', 'sukuh', 'sukuan']
+
+803 [3791, 7023, 17323, 3827, 3562, 68396, 1451, 6561, 19617, 24886]
+sumber ['sumbering', 'source', 'sources', 'sumberipun', 'sumbere', 'fonte', 'bahan', 'saluran', 'sumberna', 'catatan']
+
+862 [15547, 63381, 71625, 29157, 82255, 31327, 10849, 5038, 3795, 64268]
+kaisar ['emperor', 'kekaisaran', 'imperator', 'tsar', 'kaisare', 'shogun', 'dinasti', 'raja', 'sultan', 'emperors']
+
+872 [6808, 16162, 66232, 52616, 10599, 96014, 19686, 1321, 8018, 48893]
+panggonan ['panggonane', 'panganggonan', 'panggona', 'sapanggonan', 'panggon', 'panggoan', 'enggonan', 'panggenan', 'panggunan', 'palataran']
+
+872 [6808, 16162, 66232, 52616, 10599, 96014, 19686, 1321, 8018, 48893]
+panggonan ['panggonane', 'panganggonan', 'panggona', 'sapanggonan', 'panggon', 'panggoan', 'enggonan', 'panggenan', 'panggunan', 'palataran']
+
+875 [624, 10404, 109103, 28893, 81324, 29542, 9942, 5056, 105221, 43083]
+candhi ['candi', 'candhu', 'candhine', 'candhisari', 'sendhi', 'candu', 'sandhi', 'candra', 'kadhi', 'brahu']
+
+887 [4977, 87861, 14439, 30961, 5866, 315, 317, 12838, 17938, 54476]
+wakil ['wakile', 'wakilipun', 'sekretaris', 'pejabat', 'ketua', 'perwakilan', 'presiden', 'kepala', 'pemimpin', 'senator']
+
+888 [2481, 9181, 35029, 8850, 9530, 54378, 18329, 8809, 3099, 68595]
+usaha ['upaya', 'kerja', 'usahane', 'efforts', 'usahana', 'berusaha', 'kegiatan', 'effort', 'tindakan', 'usahawan']
+
+956 [937, 973, 455, 25644, 63940, 22917, 63168, 32428, 70956, 83917]
+komunis ['sosialis', 'komunisme', 'nasionalis', 'kapitalis', 'stalinis', 'marxis', 'separatis', 'demokratis', 'imperialis', 'revisionis']
+
+966 [32802, 16521, 69704, 13921, 16882, 36301, 10589, 15682, 74949, 6497]
+alesan ['alesanna', 'alesane', 'alesanana', 'tantangan', 'pamadosan', 'anggepan', 'titikan', 'batesan', 'koncian', 'anggapan']
+
+976 [62559, 17908, 23833, 110926, 10918, 13696, 216, 27252, 316, 10971]
+warga ['warganing', 'wargane', 'wargana', 'warganet', 'penduduk', 'masyarakat', 'wong', 'residents', 'rakyat', 'warganagara']
+
+976 [62559, 17908, 23833, 110926, 10918, 13696, 216, 27252, 316, 10971]
+warga ['warganing', 'wargane', 'wargana', 'warganet', 'penduduk', 'masyarakat', 'wong', 'residents', 'rakyat', 'warganagara']
+
+976 [62559, 17908, 23833, 110926, 10918, 13696, 216, 27252, 316, 10971]
+warga ['warganing', 'wargane', 'wargana', 'warganet', 'penduduk', 'masyarakat', 'wong', 'residents', 'rakyat', 'warganagara']
+
+1087 [54949, 21350, 89528, 54078, 59552, 13984, 22613, 12420, 39944, 51038]
+istana ['palazzo', 'palace', 'paleis', 'palais', 'palacio', 'gedung', 'bangunan', 'hotel', 'pałac', 'schloss']
+
+1143 [44238, 362, 19566, 7036, 30651, 13372, 3605, 19222, 105336, 66294]
+ukara ['ukura', 'swara', 'ukiran', 'ukarane', 'ukar', 'ukir', 'ukaranipun', 'sikara', 'ukha', 'syara']
+
+1164 [15403, 60866, 64077, 17069, 71965, 23641, 15428, 25402, 48797, 5931]
+hak ['hakikat', 'hakekat', 'haki', 'hakipun', 'hakiki', 'hakna', 'rights', 'hake', 'legalitas', 'recht']
+
+1181 [3958, 29602, 90775, 108906, 75531, 91885, 101875, 35061, 28467, 1201]
+tiyang ['tiyangipun', 'moyang', 'penyayang', 'tiyange', 'tiwi', 'priyang', 'moyangipun', 'hiyang', 'eyang', 'masarakat']
+
+1192 [71448, 3367, 104283, 3947, 16878, 33481, 73031, 67460, 15063, 9182]
+cariyos ['criyos', 'cariyosipun', 'cariyosaken', 'rumiyin', 'kapitadosan', 'ukiyo', 'rumiyinipun', 'pawartos', 'kanyatan', 'kagiyatan']
+
+1277 [49490, 2057, 7919, 8286, 6315, 67814, 4758, 93857, 31863, 10914]
+ide ['ideu', 'konsep', 'ideologi', 'proposal', 'pandangan', 'ideuna', 'idea', 'idene', 'idena', 'premis']
+
+1277 [49490, 2057, 7919, 8286, 6315, 67814, 4758, 93857, 31863, 10914]
+ide ['ideu', 'konsep', 'ideologi', 'proposal', 'pandangan', 'ideuna', 'idea', 'idene', 'idena', 'premis']
+
+1284 [27826, 22407, 18479, 765, 38, 6389, 27838, 775, 1283, 323]
+padang ['padangpanjang', 'padangan', 'sumatera', 'lampung', 'sumatra', 'bogor', 'siak', 'aceh', 'medan', 'jakarta']
+
+1284 [27826, 22407, 18479, 765, 38, 6389, 27838, 775, 1283, 323]
+padang ['padangpanjang', 'padangan', 'sumatera', 'lampung', 'sumatra', 'bogor', 'siak', 'aceh', 'medan', 'jakarta']
+
+1304 [38471, 14573, 11618, 57943, 65055, 70755, 85859, 51520, 48114, 5467]
+perasaan ['siksaan', 'perasaane', 'rarasaan', 'kebiasaan', 'paksaan', 'kebinasaan', 'perasa', 'kakuasaan', 'kekuwasaan', 'peralatan']
+
+1304 [38471, 14573, 11618, 57943, 65055, 70755, 85859, 51520, 48114, 5467]
+perasaan ['siksaan', 'perasaane', 'rarasaan', 'kebiasaan', 'paksaan', 'kebinasaan', 'perasa', 'kakuasaan', 'kekuwasaan', 'peralatan']
+
+1305 [14958, 24837, 18826, 21987, 98854, 10799, 37231, 25542, 1790, 8265]
+pribadi ['pribadine', 'pribadina', 'privat', 'keluarga', 'keluarganya', 'personal', 'rasmi', 'publik', 'biografi', 'gratis']
+
+1305 [14958, 24837, 18826, 21987, 98854, 10799, 37231, 25542, 1790, 8265]
+pribadi ['pribadine', 'pribadina', 'privat', 'keluarga', 'keluarganya', 'personal', 'rasmi', 'publik', 'biografi', 'gratis']
+
+1305 [14958, 24837, 18826, 21987, 98854, 10799, 37231, 25542, 1790, 8265]
+pribadi ['pribadine', 'pribadina', 'privat', 'keluarga', 'keluarganya', 'personal', 'rasmi', 'publik', 'biografi', 'gratis']
+
+1393 [66731, 11657, 109121, 29489, 40197, 10385, 87870, 72368, 21649, 41550]
+upah ['opah', 'upas', 'upadi', 'upih', 'upa', 'ulah', 'kekah', 'udah', 'ogah', 'gabah']
+
+1400 [1960, 16621, 86805, 53854, 36663, 61210, 43682, 2704, 67175, 24854]
+karangan ['karangane', 'penulisan', 'karanganana', 'caritaan', 'penerbitan', 'karanganipun', 'ditulisan', 'anggitan', 'novelna', 'arahan']
+
+1400 [1960, 16621, 86805, 53854, 36663, 61210, 43682, 2704, 67175, 24854]
+karangan ['karangane', 'penulisan', 'karanganana', 'caritaan', 'penerbitan', 'karanganipun', 'ditulisan', 'anggitan', 'novelna', 'arahan']
+
+1418 [17701, 41720, 111178, 20519, 36789, 96341, 10091, 7749, 64977, 46658]
+sedoyo ['supoyo', 'sedo', 'lodoyo', 'bedo', 'seko', 'ponyo', 'maido', 'mboyong', 'sajodho', 'rido']
+
+1424 [38831, 18850, 74267, 17769, 33980, 40160, 23503, 59631, 1916, 22458]
+mata ['matanya', 'matamu', 'matan', 'matane', 'matana', 'matah', 'matakna', 'matador', 'bala', 'matahun']
+
+1527 [10760, 28757, 29461, 14905, 32766, 8331, 39006, 43647, 1138, 22640]
+lemah ['lemahe', 'celah', 'basah', 'limbah', 'kolah', 'lemak', 'abuh', 'lemari', 'endah', 'megah']
+
+1527 [10760, 28757, 29461, 14905, 32766, 8331, 39006, 43647, 1138, 22640]
+lemah ['lemahe', 'celah', 'basah', 'limbah', 'kolah', 'lemak', 'abuh', 'lemari', 'endah', 'megah']
+
+1538 [5027, 74426, 1580, 1699, 3886, 11463, 43497, 1643, 1646, 106860]
+seni ['seniman', 'seniwati', 'musik', 'olahraga', 'art', 'artistic', 'senine', 'budaya', 'kasenian', 'pittura']
+
+1551 [3894, 3307, 31471, 88091, 1860, 50924, 8153, 15364, 61254, 82944]
+karakter ['character', 'watak', 'karakterisasi', 'karaktere', 'figur', 'karakterna', 'karakteristik', 'characters', 'karakteripun', 'personagens']
+
+1554 [40339, 8221, 218, 95269, 1473, 871, 52, 73042, 1264, 27435]
+nomer ['nomerna', 'nomor', 'kaping', 'jumlahipun', 'angka', 'jeneng', 'minangka', 'alamatipun', 'dados', 'jenengipun']
+
+1563 [93360, 12699, 96839, 1564, 41469, 14298, 31496, 2617, 17623, 24654]
+kopi ['kopine', 'roti', 'kopik', 'karet', 'cabe', 'millet', 'kopian', 'gula', 'padi', 'pasta']
+
+1608 [44418, 7506, 8075, 3346, 2081, 15724, 3178, 46571, 10264, 58587]
+obah ['obahe', 'obahan', 'obahing', 'owah', 'omah', 'pilih', 'butuh', 'obahna', 'usah', 'obahake']
+
+1641 [11183, 8183, 43935, 8461, 92136, 3339, 13530, 610, 22926, 40405]
+rupa ['rupaning', 'rupana', 'rupak', 'rupane', 'rupae', 'maneka', 'sababara', 'sababaraha', 'berbagai', 'macam']
+
+1648 [14554, 19536, 19751, 5515, 53854, 38747, 11180, 441, 17535, 11179]
+carita ['cerita', 'kisah', 'caritaning', 'caritane', 'caritaan', 'caritana', 'legenda', 'novel', 'caritan', 'mitos']
+
+1713 [34416, 43376, 16438, 45804, 134, 101118, 7298, 2423, 56653, 688]
+dhusun ['dhistrik', 'dhinas', 'dhosen', 'dhukuh', 'laladan', 'laladanipun', 'dhindhing', 'dhiri', 'dhuwung', 'dhuwur']
+
+1723 [50744, 65759, 5938, 9424, 2244, 90265, 1725, 80724, 28694, 105703]
+medali ['penghargaan', 'medals', 'gelar', 'medalists', 'hadiah', 'memenangkan', 'olimpiade', 'premio', 'juara', 'pingat']
+
+1735 [6906, 2924, 41774, 4716, 45756, 23558, 94884, 18526, 12517, 21339]
+sapi ['babi', 'sawi', 'sapu', 'teri', 'cumi', 'awi', 'sapo', 'biji', 'topi', 'aci']
+
+1876 [3143, 4836, 1687, 1643, 3489, 11180, 100697, 5794, 922, 3072]
+tradisi ['ritual', 'tradition', 'tradisional', 'budaya', 'traditions', 'legenda', 'tradisine', 'sejarah', 'adat', 'upacara']
+
+1884 [21480, 18477, 18488, 42395, 46437, 28228, 38509, 18091, 47921, 40049]
+kembang ['kembangan', 'kembung', 'kembange', 'kembangna', 'kemuning', 'kambang', 'lombang', 'kombang', 'barangbang', 'kemben']
+
+1884 [21480, 18477, 18488, 42395, 46437, 28228, 38509, 18091, 47921, 40049]
+kembang ['kembangan', 'kembung', 'kembange', 'kembangna', 'kemuning', 'kambang', 'lombang', 'kombang', 'barangbang', 'kemben']
+
+1895 [49304, 56653, 8973, 2469, 9066, 44928, 7724, 35741, 34564, 103082]
+dhuwit ['dhuwite', 'dhuwung', 'kaluwihan', 'linuwih', 'kaluwihane', 'kluwung', 'panuwun', 'dhuwet', 'kaleuwihan', 'kaluwihanipun']
+
+1908 [80454, 79219, 101588, 2968, 39021, 101509, 53911, 32947, 8443, 7370]
+lanang ['lanag', 'lanange', 'lanangan', 'sulung', 'lanan', 'dading', 'sulunge', 'kakang', 'larang', 'abang']
+
+1908 [80454, 79219, 101588, 2968, 39021, 101509, 53911, 32947, 8443, 7370]
+lanang ['lanag', 'lanange', 'lanangan', 'sulung', 'lanan', 'dading', 'sulunge', 'kakang', 'larang', 'abang']
+
+1909 [55290, 5346, 6724, 19068, 26331, 21934, 52889, 43802, 37441, 104399]
+wadon ['wadone', 'wadhon', 'wajar', 'wadana', 'wajan', 'waja', 'wadhi', 'wado', 'wadah', 'wadan']
+
+1909 [55290, 5346, 6724, 19068, 26331, 21934, 52889, 43802, 37441, 104399]
+wadon ['wadone', 'wadhon', 'wajar', 'wadana', 'wajan', 'waja', 'wadhi', 'wado', 'wadah', 'wadan']
+
+1921 [109237, 66317, 61928, 44323, 47344, 38385, 9709, 64785, 88258, 69972]
+bengi ['bengen', 'bengine', 'bengis', 'benget', 'bengek', 'bengkah', 'bengkong', 'bengok', 'mengi', 'beng']
+
+1962 [18343, 37837, 110, 36821, 15247, 30836, 17988, 26078, 36597, 15581]
+pinter ['pintere', 'banter', 'pinuh', 'pindo', 'pinten', 'sameter', 'pinuji', 'saliter', 'saleter', 'bantere']
+
+1992 [23251, 19997, 12299, 3380, 563, 84861, 1178, 3635, 74410, 83391]
+tata ['tatacara', 'tatanan', 'tatabasa', 'tatamba', 'tatanen', 'tatapan', 'tatangga', 'tatahan', 'tataning', 'tatapi']
+
+2012 [17086, 67452, 91904, 34626, 12166, 16479, 5547, 102993, 23428, 48269]
+mutlak ['muter', 'mutakhir', 'mutah', 'mulus', 'mutakir', 'mutu', 'mulya', 'mutih', 'muterna', 'mulur']
+
+2063 [936, 971, 38157, 66, 74, 50464, 248, 2092, 2193, 15001]
+bagean ['deukeut', 'tina', 'nganjrek', 'mangrupa', 'hiji', 'bageanna', 'nyaeta', 'sedengkeun', 'teh', 'orbit']
+
+2081 [10382, 108950, 6748, 1608, 91933, 63834, 4689, 3346, 10115, 44822]
+omah ['omahe', 'omahing', 'imah', 'obah', 'omat', 'omahku', 'umah', 'owah', 'wadhah', 'bedah']
+
+2081 [10382, 108950, 6748, 1608, 91933, 63834, 4689, 3346, 10115, 44822]
+omah ['omahe', 'omahing', 'imah', 'obah', 'omat', 'omahku', 'umah', 'owah', 'wadhah', 'bedah']
+
+2108 [6998, 7020, 2107, 2091, 42183, 12487, 5446, 2233, 1518, 2815]
+oksigen ['nitrogen', 'oxygen', 'hidrogen', 'karbon', 'oksigenna', 'alkohol', 'helium', 'energi', 'gas', 'hydrogen']
+
+2150 [3569, 12446, 3967, 7004, 42608, 27274, 19557, 40312, 5601, 41894]
+logam ['metals', 'aluminium', 'metal', 'mineral', 'logamna', 'metaloid', 'plastik', 'platina', 'elektron', 'metalik']
+
+2178 [5816, 2248, 3410, 44246, 43482, 1911, 23338, 853, 50694, 7069]
+mlebu ['mlayu', 'mlebune', 'mlebet', 'klebu', 'melebu', 'melu', 'mlampah', 'milu', 'biyantu', 'mlaku']
+
+2204 [19861, 5038, 30664, 91453, 4328, 5519, 5142, 54935, 2466, 1996]
+ratu ['ratuning', 'raja', 'puteri', 'ratuna', 'dewi', 'putri', 'queen', 'princesse', 'ratune', 'pangeran']
+
+2318 [1651, 7692, 24140, 28924, 4334, 35000, 34609, 55938, 4329, 5895]
+rama ['ramayana', 'ramawijaya', 'krishna', 'ramadhan', 'indra', 'ramakien', 'ramaparasu', 'ramadan', 'sita', 'ramana']
+
+2318 [1651, 7692, 24140, 28924, 4334, 35000, 34609, 55938, 4329, 5895]
+rama ['ramayana', 'ramawijaya', 'krishna', 'ramadhan', 'indra', 'ramakien', 'ramaparasu', 'ramadan', 'sita', 'ramana']
+
+2340 [53446, 2295, 29076, 28660, 12049, 96083, 11993, 43279, 19291, 39929]
+sirkuit ['biskuit', 'serat', 'sirkus', 'sirkit', 'sirkulasi', 'remot', 'otot', 'mrt', 'koordinat', 'reungit']
+
+2367 [17352, 25281, 10601, 52931, 24776, 71457, 22186, 25572, 25421, 12015]
+dokter ['physician', 'doctors', 'klinik', 'surgeon', 'physicians', 'advokat', 'doktor', 'medecine', 'surgery', 'profesor']
+
+2405 [28274, 30406, 10287, 10402, 6302, 18125, 97769, 100158, 92415, 44324]
+gawe ['gawa', 'ngawe', 'gawean', 'gawene', 'nggawe', 'gaweane', 'gaweyan', 'gawane', 'mergawe', 'panggawe']
+
+2434 [13965, 53125, 31387, 318, 60910, 55555, 5723, 2244, 13402, 25967]
+pilihan ['pilihane', 'kandidat', 'pemilihan', 'dipilih', 'pilihanipun', 'memilih', 'calon', 'hadiah', 'alternatif', 'options']
+
+2434 [13965, 53125, 31387, 318, 60910, 55555, 5723, 2244, 13402, 25967]
+pilihan ['pilihane', 'kandidat', 'pemilihan', 'dipilih', 'pilihanipun', 'memilih', 'calon', 'hadiah', 'alternatif', 'options']
+
+2482 [9942, 41734, 75448, 4226, 32556, 56807, 22881, 55070, 97536, 19306]
+sandi ['sandhi', 'mandi', 'dasi', 'budi', 'sendi', 'sanding', 'korsi', 'sandina', 'bondi', 'redi']
+
+2482 [9942, 41734, 75448, 4226, 32556, 56807, 22881, 55070, 97536, 19306]
+sandi ['sandhi', 'mandi', 'dasi', 'budi', 'sendi', 'sanding', 'korsi', 'sandina', 'bondi', 'redi']
+
+2519 [7112, 92943, 95594, 42314, 39622, 8345, 42612, 6555, 19082, 29259]
+banyu ['banyune', 'banyunan', 'banyon', 'banyol', 'banyan', 'banjir', 'banji', 'penyu', 'ban', 'panyulingan']
+
+2544 [55768, 73733, 34707, 93905, 3914, 16612, 38791, 46750, 93916, 66683]
+takdir ['takbir', 'takdirna', 'taklim', 'takhir', 'tak', 'takwa', 'takut', 'tamsir', 'takkan', 'takbiratul']
+
+2562 [49281, 1737, 12463, 15611, 13495, 23376, 21887, 1911, 127, 21655]
+padu ['padhu', 'adu', 'lucu', 'mangu', 'dangu', 'estu', 'antu', 'melu', 'dudu', 'udu']
+
+2583 [46640, 52528, 30990, 8733, 77275, 3999, 5961, 82479, 24720, 2014]
+tumindak ['tumindakan', 'tumindaking', 'tumindakipun', 'tumindake', 'bertindak', 'tumrap', 'tumindhak', 'tumpuan', 'tumut', 'tumpang']
+
+2596 [24078, 25555, 2652, 37759, 32765, 24487, 1800, 44191, 90819, 20626]
+asih ['asihan', 'asah', 'sih', 'icih', 'asik', 'ajrih', 'manah', 'alah', 'apah', 'sayah']
+
+2596 [24078, 25555, 2652, 37759, 32765, 24487, 1800, 44191, 90819, 20626]
+asih ['asihan', 'asah', 'sih', 'icih', 'asik', 'ajrih', 'manah', 'alah', 'apah', 'sayah']
+
+2666 [19680, 96003, 105812, 64947, 31748, 40206, 990, 21864, 101017, 17711]
+tembok ['temboke', 'tembokipun', 'tembokan', 'gembok', 'tembak', 'tembokna', 'tembang', 'tembakan', 'tembor', 'tembong']
+
+2706 [17840, 8954, 3247, 8827, 91949, 10218, 26271, 92677, 31294, 83214]
+situs ['sito', 'website', 'portal', 'site', 'pagina', 'web', 'webpage', 'webcast', 'profil', 'situse']
+
+2706 [17840, 8954, 3247, 8827, 91949, 10218, 26271, 92677, 31294, 83214]
+situs ['sito', 'website', 'portal', 'site', 'pagina', 'web', 'webpage', 'webcast', 'profil', 'situse']
+
+2804 [87195, 21563, 7115, 2853, 29514, 36762, 79590, 44859, 26390, 105235]
+lare ['lere', 'lawe', 'sare', 'sore', 'sere', 'tere', 'tase', 'lari', 'tile', 'wale']
+
+2804 [87195, 21563, 7115, 2853, 29514, 36762, 79590, 44859, 26390, 105235]
+lare ['lere', 'lawe', 'sare', 'sore', 'sere', 'tere', 'tase', 'lari', 'tile', 'wale']
+
+2851 [5333, 5203, 28709, 24168, 38820, 35816, 96286, 796, 29755, 60021]
+biru ['kuning', 'putih', 'hijau', 'merah', 'berwarna', 'hitam', 'azul', 'emas', 'violet', 'rojo']
+
+2859 [56131, 13652, 70220, 104005, 5350, 2153, 1357, 16419, 13402, 20686]
+tambahan ['optional', 'tambahanna', 'bonus', 'tambahanipun', 'ekstra', 'khusus', 'campuran', 'supplement', 'alternatif', 'tambahane']
+
+2977 [1948, 9462, 88036, 12438, 50607, 18022, 14017, 3884, 43339, 15791]
+sekolah ['sekolahan', 'school', 'escola', 'pendidikan', 'szkoła', 'perguruan', 'smp', 'schools', 'sekolahe', 'sd']
+
+3095 [106858, 10194, 45350, 32233, 7746, 24836, 110106, 49187, 65579, 6187]
+nglakoni ['nglakoke', 'nglakokake', 'nglaksanakake', 'nglakokaken', 'ngleboni', 'ngalakonan', 'ngelakoni', 'nglaksanakaken', 'nglaksanaake', 'nglampahi']
+
+3102 [48715, 5537, 8770, 96396, 7126, 70226, 29595, 74548, 89215, 26456]
+ukuran ['ukuranipun', 'diameter', 'ukurane', 'ukurannya', 'ukuranana', 'ukurannana', 'ukuranna', 'ukurana', 'ukuranan', 'diameteripun']
+
+3180 [19027, 41006, 66588, 23527, 99852, 28211, 25604, 71528, 19480, 19911]
+mbengi ['sawengi', 'mbengok', 'senengi', 'kadenge', 'mboseni', 'ngenget', 'didenge', 'ubenge', 'mbeksa', 'mbeburu']
+
+3181 [107524, 32777, 27111, 27395, 62707, 83863, 9245, 47409, 12821, 26738]
+lintang ['lintan', 'lintangipun', 'antarlintang', 'lintange', 'antarbentang', 'antarbintang', 'konstelasi', 'protolintang', 'lintas', 'rasi']
+
+3194 [5230, 15802, 6201, 79940, 43009, 46082, 15040, 92154, 95084, 109642]
+joged ['joget', 'jogetan', 'jogedan', 'jog', 'joglo', 'gudeg', 'jogja', 'sledrek', 'jogging', 'watuwaled']
+
+3226 [3203, 8823, 8054, 34767, 26893, 26878, 35005, 17827, 3284, 13067]
+dna ['rna', 'genome', 'genetik', 'chromosome', 'genom', 'gen', 'mtdna', 'genes', 'protein', 'atp']
+
+3360 [3607, 29124, 11458, 43706, 45895, 44485, 5433, 13286, 22645, 15336]
+dalu ['wengi', 'pukul', 'minggu', 'sejam', 'sabendina', 'ajal', 'seminggu', 'natal', 'malam', 'wengis']
+
+3720 [20852, 92620, 20586, 26561, 10408, 36084, 29509, 82952, 89470, 4417]
+wedhus ['wedhuse', 'kaldhu', 'wedhok', 'dhadhu', 'wudhu', 'lendhut', 'tundhun', 'tandhuk', 'mendhut', 'pandhu']
+
+3770 [8160, 3033, 25581, 7739, 2029, 1318, 6764, 13577, 7302, 1500]
+hubungan ['kontak', 'relations', 'hubungannana', 'relationship', 'interaksi', 'hubunganipun', 'hubunganana', 'diplomatik', 'relationships', 'konflik']
+
+3869 [22043, 93819, 28999, 16759, 74189, 41573, 41177, 91417, 31707, 30524]
+paguyuban ['paguron', 'panyaluyuan', 'prusahaan', 'pawiyaran', 'perundhingan', 'paguyangan', 'paguneman', 'kapramukaan', 'kepandhuan', 'pakempalan']
+
+4202 [89, 3860, 107, 8006, 10002, 33455, 26230, 4228, 16139, 3374]
+april ['maret', 'februari', 'mei', 'juni', 'march', 'pebruari', 'february', 'januari', 'june', 'november']
+
+4277 [9231, 93383, 19737, 19973, 43931, 10357, 36602, 46443, 43254, 6991]
+jagad ['jagat', 'jagading', 'jagating', 'ragad', 'jagate', 'jaga', 'saabad', 'klad', 'jagoan', 'jagal']
+
+4594 [93698, 44787, 40865, 103491, 60569, 4595, 69609, 71094, 99109, 7061]
+emak ['norak', 'yuk', 'luluk', 'amak', 'esok', 'mbak', 'mamak', 'isak', 'colak', 'umak']
+
+4594 [93698, 44787, 40865, 103491, 60569, 4595, 69609, 71094, 99109, 7061]
+emak ['norak', 'yuk', 'luluk', 'amak', 'esok', 'mbak', 'mamak', 'isak', 'colak', 'umak']
+
+4594 [93698, 44787, 40865, 103491, 60569, 4595, 69609, 71094, 99109, 7061]
+emak ['norak', 'yuk', 'luluk', 'amak', 'esok', 'mbak', 'mamak', 'isak', 'colak', 'umak']
+
+4594 [93698, 44787, 40865, 103491, 60569, 4595, 69609, 71094, 99109, 7061]
+emak ['norak', 'yuk', 'luluk', 'amak', 'esok', 'mbak', 'mamak', 'isak', 'colak', 'umak']
+
+4595 [6496, 66409, 17541, 7061, 14413, 42591, 23795, 99123, 72016, 2326]
+mbak ['mbah', 'mpok', 'kak', 'umak', 'mbako', 'mbathik', 'nyak', 'mbake', 'piek', 'menak']
+
+4642 [20277, 623, 51454, 6436, 6294, 42597, 76732, 12800, 36183, 46394]
+pelabuhan ['port', 'kapal', 'ports', 'pantai', 'teluk', 'danau', 'shipping', 'bandara', 'harbour', 'aquarium']
+
+4688 [18849, 6647, 30619, 14829, 44680, 71780, 29461, 90372, 66105, 18654]
+bocah ['bocahe', 'cah', 'buruh', 'panah', 'bolah', 'budah', 'basah', 'ceh', 'papah', 'getah']
+
+4698 [4854, 12726, 6086, 2163, 103662, 42545, 69962, 8111, 85859, 109030]
+sarapan ['sarap', 'serapan', 'garapan', 'saragam', 'sasapan', 'celupan', 'asakan', 'saraf', 'perasa', 'persiyapan']
+
+4820 [27505, 12055, 45257, 96306, 16101, 9521, 45225, 12583, 27462, 53290]
+utek ['uteuk', 'otak', 'utak', 'uteke', 'orok', 'watuk', 'telek', 'sisik', 'torek', 'eluk']
+
+4849 [93656, 106790, 20586, 8276, 39479, 45209, 16077, 93847, 21037, 39088]
+wedok ['wedoke', 'wedokan', 'wedhok', 'wedang', 'weduk', 'wedus', 'wedhi', 'wedhoke', 'wedal', 'wekas']
+
+4891 [42729, 43110, 10429, 70065, 43932, 12356, 10024, 63226, 96949, 44825]
+bledug ['blegudreg', 'bledheg', 'gedebog', 'bleg', 'gedheg', 'jubleg', 'gludhug', 'beledugan', 'bebedhag', 'gogrog']
+
+4926 [46895, 66348, 11469, 46606, 81294, 77486, 44697, 25022, 80882, 32231]
+toko ['tokone', 'tokona', 'bako', 'toke', 'poro', 'disko', 'boto', 'gazebo', 'butik', 'token']
+
+5300 [79783, 67062, 9169, 90719, 20837, 54753, 11756, 97624, 72848, 52215]
+penonton ['panonton', 'penontone', 'panon', 'pengontrol', 'pangon', 'pangunjung', 'penutur', 'penyelam', 'panuntut', 'pengunjung']
+
+5323 [1301, 89487, 105185, 53413, 4829, 3919, 14992, 31790, 74419, 80398]
+wayahe ['wayah', 'sawahe', 'turahe', 'wilahe', 'sirahe', 'wayangan', 'wayange', 'wayahipun', 'lampahe', 'waya']
+
+5325 [18269, 53424, 17365, 39388, 90570, 6115, 5980, 87713, 8894, 111636]
+alon ['alot', 'aloy', 'alum', 'alo', 'aloi', 'alok', 'alona', 'emon', 'ingon', 'bakon']
+
+5329 [56390, 7169, 4859, 54449, 19540, 16830, 14920, 41738, 44255, 97378]
+sekar ['sekat', 'sekaran', 'sekang', 'sekam', 'sekak', 'sekawan', 'saur', 'satar', 'punar', 'sekati']
+
+5329 [56390, 7169, 4859, 54449, 19540, 16830, 14920, 41738, 44255, 97378]
+sekar ['sekat', 'sekaran', 'sekang', 'sekam', 'sekak', 'sekawan', 'saur', 'satar', 'punar', 'sekati']
+
+5344 [9540, 30980, 16479, 7113, 32356, 62923, 7424, 78040, 10055, 6939]
+tamu ['tatu', 'latu', 'mutu', 'tamune', 'regu', 'babu', 'jamu', 'tiu', 'sungu', 'kupu']
+
+5407 [91880, 96166, 102698, 39094, 9828, 6931, 97723, 71892, 52633, 98045]
+arahe ['gerakane', 'arahipun', 'ujunge', 'tekanane', 'jarake', 'tangane', 'arahane', 'gelombange', 'alirane', 'sinare']
+
+5527 [27798, 83848, 91539, 41766, 44204, 5988, 7394, 73283, 10197, 19221]
+pak ['pakpak', 'pakdhe', 'paklik', 'pek', 'pakwan', 'pakuan', 'pakis', 'paklike', 'pakarti', 'paksi']
+
+5570 [10589, 8558, 4089, 13022, 11435, 13691, 14624, 401, 8409, 10375]
+titik ['titikan', 'garis', 'point', 'nilai', 'titikane', 'puncak', 'points', 'posisi', 'lokasi', 'jarak']
+
+5570 [10589, 8558, 4089, 13022, 11435, 13691, 14624, 401, 8409, 10375]
+titik ['titikan', 'garis', 'point', 'nilai', 'titikane', 'puncak', 'points', 'posisi', 'lokasi', 'jarak']
+
+5670 [82212, 99442, 5423, 37514, 1582, 5901, 12796, 38677, 22697, 87097]
+kali ['kalinga', 'kaliki', 'kalimah', 'kaligrafi', 'kalimat', 'kalingga', 'kanal', 'kaline', 'kalian', 'kaligata']
+
+5670 [82212, 99442, 5423, 37514, 1582, 5901, 12796, 38677, 22697, 87097]
+kali ['kalinga', 'kaliki', 'kalimah', 'kaligrafi', 'kalimat', 'kalingga', 'kanal', 'kaline', 'kalian', 'kaligata']
+
+5670 [82212, 99442, 5423, 37514, 1582, 5901, 12796, 38677, 22697, 87097]
+kali ['kalinga', 'kaliki', 'kalimah', 'kaligrafi', 'kalimat', 'kalingga', 'kanal', 'kaline', 'kalian', 'kaligata']
+
+5694 [675, 13548, 23510, 29415, 3187, 12603, 19621, 109902, 18526, 69619]
+kuli ['kulina', 'guci', 'ragi', 'kulo', 'uji', 'pori', 'puli', 'kulik', 'biji', 'kulu']
+
+5694 [675, 13548, 23510, 29415, 3187, 12603, 19621, 109902, 18526, 69619]
+kuli ['kulina', 'guci', 'ragi', 'kulo', 'uji', 'pori', 'puli', 'kulik', 'biji', 'kulu']
+
+5734 [23054, 18905, 11533, 88799, 100283, 95789, 7167, 27742, 3386, 38043]
+utusan ['putusan', 'utusane', 'urusan', 'utusaning', 'utus', 'apusan', 'atusan', 'utun', 'rumusan', 'putusaning']
+
+5827 [5519, 54351, 5188, 1032, 52399, 5902, 103168, 40380, 22605, 51072]
+putra ['putri', 'putraning', 'putrane', 'anak', 'putranya', 'putrana', 'putraku', 'putran', 'anaknya', 'anakipun']
+
+5960 [49833, 28280, 61336, 12373, 104924, 37898, 38867, 41309, 100726, 46906]
+nyambut ['nyambi', 'disambut', 'nyambutgawe', 'nyambung', 'nyadhung', 'nyandhang', 'nyembur', 'nyumput', 'nyambungaken', 'nyambungke']
+
+6029 [11645, 45251, 18053, 972, 81690, 12984, 15854, 87041, 48644, 1081]
+cahya ['cahyaning', 'cahyana', 'cahyane', 'bahya', 'cahyaan', 'cawang', 'cavity', 'cawan', 'cahyanipun', 'caah']
+
+6095 [6062, 1499, 9739, 39563, 89267, 7286, 11455, 94598, 95438, 82793]
+dolanan ['dolanane', 'kaanan', 'janganan', 'dolan', 'busanan', 'panganan', 'pakanan', 'penganan', 'pangananan', 'antanan']
+
+6103 [69900, 36958, 30717, 15270, 22346, 78771, 17937, 20099, 1500, 4875]
+serangan ['menyerang', 'attacks', 'pertempuran', 'attack', 'bombing', 'seranganipun', 'perlawanan', 'bom', 'konflik', 'attacked']
+
+6139 [9094, 27687, 30195, 10130, 72365, 45955, 35236, 44001, 9649, 83788]
+tutuk ['tutup', 'tutuke', 'tutul', 'sunduk', 'tutung', 'tusuk', 'cucuk', 'tutug', 'tutur', 'lekuk']
+
+6141 [19223, 44364, 69849, 41154, 4892, 3338, 62791, 84063, 53827, 14830]
+tali ['talingan', 'talian', 'talina', 'taline', 'tela', 'kain', 'tart', 'talitina', 'kendi', 'tala']
+
+6200 [2924, 2585, 6838, 29662, 75448, 8194, 12785, 14753, 45529, 7228]
+wesi ['sawi', 'muni', 'wangi', 'gisi', 'dasi', 'endi', 'kaji', 'kasi', 'trasi', 'sepi']
+
+6211 [8863, 19618, 35147, 41276, 11579, 5586, 7895, 22657, 58217, 8420]
+bukti ['evidence', 'buktina', 'buktine', 'indikasi', 'laporan', 'contoh', 'hipotesis', 'kemungkinan', 'traces', 'alasan']
+
+6280 [24276, 82936, 16488, 5832, 49287, 22436, 24571, 42930, 35368, 89920]
+pesen ['pesenan', 'piken', 'paten', 'ilen', 'mesen', 'balen', 'aken', 'anten', 'tiron', 'meden']
+
+6288 [104816, 31502, 19588, 38483, 6289, 38475, 6103, 7198, 17937, 69900]
+musuh ['musuhipun', 'rival', 'musuhe', 'musuhan', 'musuhna', 'enemies', 'serangan', 'predator', 'perlawanan', 'menyerang']
+
+6318 [21483, 4807, 15069, 29946, 3317, 82697, 10316, 49381, 12200, 73448]
+omongan ['omong', 'omonge', 'omongane', 'tunangan', 'iringan', 'elingan', 'konangan', 'rojongan', 'larangan', 'katimpangan']
+
+6436 [4642, 6294, 42480, 42597, 70551, 7534, 95332, 578, 30353, 13878]
+pantai ['pelabuhan', 'teluk', 'playa', 'danau', 'fjord', 'coastal', 'plage', 'laut', 'praia', 'wisata']
+
+6465 [54991, 45190, 47923, 11610, 41301, 18635, 29511, 18561, 1469, 3362]
+buah ['buahan', 'buahnya', 'buahna', 'tanaman', 'pohon', 'daun', 'buahe', 'jus', 'minyak', 'wit']
+
+6477 [72645, 6478, 81570, 24155, 48047, 16639, 29064, 43252, 82162, 96977]
+piano ['cello', 'gitar', 'violin', 'orgel', 'flute', 'keyboard', 'guitar', 'trombone', 'clarinet', 'saxophone']
+
+6603 [33471, 6941, 18107, 10279, 73815, 48833, 9569, 40197, 27855, 47516]
+rawa ['rawan', 'lawa', 'toya', 'rawe', 'rawayan', 'rawi', 'paya', 'upa', 'rawas', 'wera']
+
+6608 [1915, 55549, 81294, 37883, 91097, 20519, 5083, 10839, 70207, 1787]
+bojo ['bojone', 'bojona', 'poro', 'poto', 'podo', 'bedo', 'jago', 'bojong', 'kado', 'baso']
+
+6621 [6672, 33414, 5459, 27093, 14209, 19784, 21784, 40186, 46352, 12600]
+kuburan ['kubur', 'kuburane', 'hiburan', 'semburan', 'kukum', 'kukuban', 'kubu', 'kubus', 'kukut', 'kuku']
+
+6621 [6672, 33414, 5459, 27093, 14209, 19784, 21784, 40186, 46352, 12600]
+kuburan ['kubur', 'kuburane', 'hiburan', 'semburan', 'kukum', 'kukuban', 'kubu', 'kubus', 'kukut', 'kuku']
+
+6624 [44076, 27729, 8246, 9659, 31689, 9649, 85527, 45734, 88935, 54811]
+kapur ['kapuk', 'kaput', 'tabur', 'catur', 'kasur', 'tutur', 'lamur', 'semur', 'kapar', 'tuur']
+
+6647 [43917, 18848, 2652, 4570, 81229, 17540, 10092, 90372, 9745, 20659]
+cah ['cawuh', 'cahe', 'sih', 'kah', 'cag', 'trah', 'cawe', 'ceh', 'cagak', 'bah']
+
+6647 [43917, 18848, 2652, 4570, 81229, 17540, 10092, 90372, 9745, 20659]
+cah ['cawuh', 'cahe', 'sih', 'kah', 'cag', 'trah', 'cawe', 'ceh', 'cagak', 'bah']
+
+6647 [43917, 18848, 2652, 4570, 81229, 17540, 10092, 90372, 9745, 20659]
+cah ['cawuh', 'cahe', 'sih', 'kah', 'cag', 'trah', 'cawe', 'ceh', 'cagak', 'bah']
+
+6647 [43917, 18848, 2652, 4570, 81229, 17540, 10092, 90372, 9745, 20659]
+cah ['cawuh', 'cahe', 'sih', 'kah', 'cag', 'trah', 'cawe', 'ceh', 'cagak', 'bah']
+
+6647 [43917, 18848, 2652, 4570, 81229, 17540, 10092, 90372, 9745, 20659]
+cah ['cawuh', 'cahe', 'sih', 'kah', 'cag', 'trah', 'cawe', 'ceh', 'cagak', 'bah']
+
+6650 [24154, 24292, 6203, 31053, 30732, 31829, 30671, 30946, 30691, 89578]
+musisi ['komposer', 'komponis', 'penyanyi', 'musikus', 'pianis', 'gitaris', 'panyanyi', 'vokalis', 'akademisi', 'pamusik']
+
+6653 [28233, 912, 30411, 4874, 32899, 7168, 32334, 85728, 63651, 23033]
+seda ['meninggal', 'mati', 'wafat', 'died', 'kematian', 'ilang', 'tewas', 'wafatnya', 'morir', 'kematiannya']
+
+6657 [11047, 45583, 12075, 29426, 85925, 21850, 42806, 30799, 29582, 45502]
+jantung ['jantunge', 'jantungna', 'ginjal', 'janin', 'jantan', 'tungtung', 'gintung', 'ginjel', 'jantungipun', 'janjang']
+
+6720 [40337, 85682, 74379, 95075, 90837, 39600, 35697, 80096, 53843, 39140]
+ksatria ['ksatriya', 'kesatria', 'ksatrian', 'kasatria', 'kshatriya', 'kesatrian', 'satria', 'kasatriaan', 'kasatrian', 'kasatriyan']
+
+6727 [21677, 89640, 27669, 914, 4016, 8244, 12326, 2807, 20735, 44641]
+tresna ['tresno', 'tresnani', 'tresnane', 'sirna', 'musna', 'pesona', 'pelana', 'srana', 'sumanak', 'purna']
+
+6836 [103558, 5377, 26276, 13655, 44656, 54874, 6484, 22183, 41110, 26973]
+mambu ['mambet', 'ngambu', 'mambune', 'mampet', 'bubu', 'kembu', 'embuh', 'memba', 'bungbu', 'sumbu']
+
+6836 [103558, 5377, 26276, 13655, 44656, 54874, 6484, 22183, 41110, 26973]
+mambu ['mambet', 'ngambu', 'mambune', 'mampet', 'bubu', 'kembu', 'embuh', 'memba', 'bungbu', 'sumbu']
+
+6853 [7643, 11370, 29504, 18640, 7903, 5532, 8762, 1993, 1448, 1205]
+faktor ['factors', 'factor', 'faktorial', 'risiko', 'parameter', 'komponen', 'pengaruh', 'prinsip', 'sifat', 'pola']
+
+6877 [12101, 100417, 38903, 44156, 28337, 10738, 7789, 41774, 24561, 50480]
+asu ['susu', 'jasu', 'wasu', 'apu', 'kadu', 'awu', 'asem', 'sapu', 'emu', 'iru']
+
+6890 [7471, 40418, 1798, 13979, 67137, 21424, 11579, 22686, 8497, 3192]
+informasi ['information', 'informations', 'data', 'berita', 'informasine', 'dokumentasi', 'laporan', 'mengetahui', 'statistik', 'komunikasi']
+
+6891 [28980, 3916, 85881, 7936, 78687, 106724, 56050, 1208, 40028, 9545]
+macan ['pandan', 'jaran', 'patin', 'setan', 'balin', 'pecan', 'toman', 'lesan', 'suman', 'tawon']
+
+6915 [46791, 46612, 47819, 46054, 102730, 83818, 28347, 46234, 47631, 6251]
+karang ['karangsari', 'karangjati', 'karangjaya', 'karangrejo', 'karangipun', 'karange', 'karangtengah', 'karangmalang', 'karangsembung', 'muara']
+
+6928 [19954, 70450, 42598, 24051, 7157, 19801, 21334, 39056, 2424, 41059]
+sikil ['sikile', 'sikir', 'sikat', 'sikep', 'siklus', 'sikiling', 'siklik', 'khasil', 'sikap', 'sikian']
+
+6934 [67958, 3182, 41512, 79058, 74402, 50943, 111028, 8343, 33471, 36723]
+udan ['udane', 'awan', 'udang', 'udar', 'udani', 'uda', 'udak', 'topan', 'rawan', 'ubengan']
+
+6960 [88037, 78278, 94543, 42852, 88878, 85070, 23723, 14259, 89307, 97678]
+pacet ['silet', 'bakut', 'milet', 'condet', 'putat', 'santet', 'betet', 'malut', 'copet', 'congot']
+
+6961 [4717, 6925, 6548, 43959, 101224, 636, 94440, 8331, 72746, 112753]
+pitik ['iwak', 'bebek', 'lauk', 'papak', 'arik', 'manuk', 'pitike', 'lemak', 'pauk', 'muktuk']
+
+6971 [39231, 101587, 83193, 46421, 24015, 55260, 14767, 2657, 43664, 29617]
+walang ['bagong', 'lamang', 'beri', 'maja', 'noong', 'walangsungsang', 'akar', 'ang', 'haur', 'ember']
+
+7088 [8276, 1759, 1766, 41624, 13812, 3363, 1084, 56351, 6193, 18192]
+gedang ['wedang', 'gendang', 'kendang', 'pindang', 'pedang', 'gedhang', 'gedong', 'gepak', 'geger', 'dandang']
+
+7093 [45685, 67587, 56437, 1787, 55480, 101705, 28614, 96341, 53748, 20495]
+boso ['bondo', 'bobo', 'boro', 'baso', 'dolo', 'jobo', 'doro', 'ponyo', 'bingo', 'boko']
+
+7114 [1901, 85719, 33680, 48354, 109500, 15610, 14479, 105688, 85692, 22873]
+bapak ['bapake', 'kakak', 'bapakke', 'bapakne', 'bapakan', 'bapa', 'bapane', 'bapakna', 'kakaknya', 'bapana']
+
+7119 [109226, 83474, 18277, 14871, 67047, 8014, 35451, 14049, 45575, 6474]
+warung ['warunge', 'waring', 'waru', 'payung', 'warok', 'gulung', 'karung', 'surung', 'dayung', 'patung']
+
+7656 [24430, 102650, 6887, 34953, 94031, 10030, 39859, 90597, 9384, 39567]
+rencang ['rencangipun', 'rengan', 'rancang', 'reng', 'guncang', 'pincang', 'renang', 'pancang', 'renyah', 'rengeng']
+
+7656 [24430, 102650, 6887, 34953, 94031, 10030, 39859, 90597, 9384, 39567]
+rencang ['rencangipun', 'rengan', 'rancang', 'reng', 'guncang', 'pincang', 'renang', 'pancang', 'renyah', 'rengeng']
+
+7657 [17633, 25376, 78852, 182, 43119, 12370, 6124, 43692, 99088, 6742]
+kanca ['kancane', 'kancanipun', 'kacane', 'kaca', 'kancah', 'kenca', 'kancana', 'waca', 'pambaca', 'cuaca']
+
+7657 [17633, 25376, 78852, 182, 43119, 12370, 6124, 43692, 99088, 6742]
+kanca ['kancane', 'kancanipun', 'kacane', 'kaca', 'kancah', 'kenca', 'kancana', 'waca', 'pambaca', 'cuaca']
+
+7657 [17633, 25376, 78852, 182, 43119, 12370, 6124, 43692, 99088, 6742]
+kanca ['kancane', 'kancanipun', 'kacane', 'kaca', 'kancah', 'kenca', 'kancana', 'waca', 'pambaca', 'cuaca']
+
+7657 [17633, 25376, 78852, 182, 43119, 12370, 6124, 43692, 99088, 6742]
+kanca ['kancane', 'kancanipun', 'kacane', 'kaca', 'kancah', 'kenca', 'kancana', 'waca', 'pambaca', 'cuaca']
+
+7657 [17633, 25376, 78852, 182, 43119, 12370, 6124, 43692, 99088, 6742]
+kanca ['kancane', 'kancanipun', 'kacane', 'kaca', 'kancah', 'kenca', 'kancana', 'waca', 'pambaca', 'cuaca']
+
+7657 [17633, 25376, 78852, 182, 43119, 12370, 6124, 43692, 99088, 6742]
+kanca ['kancane', 'kancanipun', 'kacane', 'kaca', 'kancah', 'kenca', 'kancana', 'waca', 'pambaca', 'cuaca']
+
+7707 [23954, 7708, 8620, 37400, 43177, 13919, 28213, 54478, 80457, 7877]
+ekspedisi ['ekspedhisi', 'eksplorasi', 'eksperimen', 'ekspansi', 'ekskavasi', 'penjelajahan', 'kolonisasi', 'expedition', 'eksposisi', 'eksploitasi']
+
+7888 [61747, 10578, 112311, 73971, 28403, 25963, 46079, 103389, 25240, 27326]
+crita ['gurita', 'critane', 'cemita', 'critakake', 'cri', 'crah', 'krida', 'grit', 'kapita', 'cr']
+
+7959 [21964, 1465, 81263, 51701, 12233, 73047, 97354, 6284, 89062, 40194]
+raka ['rak', 'reka', 'rakana', 'dira', 'karta', 'mase', 'puta', 'prawa', 'jap', 'serem']
+
+7977 [38068, 27672, 45023, 96954, 45105, 6936, 3074, 297, 42535, 2397]
+budhal ['bidhal', 'budhak', 'modhal', 'rudhal', 'mudheng', 'kadhal', 'budhi', 'tedhak', 'gadhang', 'tidha']
+
+7986 [6089, 49447, 100010, 41217, 9581, 45220, 41459, 32570, 80988, 82690]
+pager ['siter', 'petir', 'ider', 'pelor', 'putar', 'tampar', 'lilir', 'angler', 'bukur', 'lulur']
+
+8005 [42659, 98801, 17325, 9192, 79669, 62907, 88119, 54810, 91124, 6162]
+ping ['pingping', 'pingin', 'pingan', 'pinggang', 'pingpingna', 'pingsan', 'pingpin', 'pinggul', 'pinginggris', 'sak']
+
+8025 [46829, 37101, 7093, 44248, 20246, 61998, 58025, 4880, 32113, 73669]
+bos ['gaur', 'bih', 'boso', 'bosa', 'bas', 'boss', 'bod', 'blas', 'bosanski', 'bato']
+
+8068 [18397, 109037, 81006, 43507, 91398, 9412, 39855, 10222, 47910, 24006]
+dluwang ['mbuwang', 'dlujur', 'krudung', 'diguwang', 'kluwarga', 'polong', 'dhayung', 'lumpang', 'liwung', 'kranjang']
+
+8069 [62116, 10226, 14329, 52595, 11149, 98036, 11150, 56019, 56795, 27879]
+blabak ['gerobak', 'blarak', 'lobak', 'blanja', 'blak', 'tebak', 'blakan', 'lembak', 'belalang', 'lebak']
+
+8074 [23237, 2035, 3182, 102679, 12825, 24194, 99217, 78265, 8346, 2592]
+awak ['awakna', 'awake', 'awan', 'awakke', 'awang', 'awakmu', 'awahan', 'awakku', 'awet', 'awas']
+
+8074 [23237, 2035, 3182, 102679, 12825, 24194, 99217, 78265, 8346, 2592]
+awak ['awakna', 'awake', 'awan', 'awakke', 'awang', 'awakmu', 'awahan', 'awakku', 'awet', 'awas']
+
+8076 [17788, 19192, 21563, 71528, 9413, 73898, 18659, 10317, 45266, 1756]
+lambe ['lambene', 'lamba', 'lawe', 'ubenge', 'pange', 'lambunge', 'lambung', 'awe', 'wande', 'bende']
+
+8079 [18464, 18066, 44031, 26829, 20551, 6610, 43670, 27720, 6280, 34281]
+lengen ['lengan', 'lengene', 'pilin', 'cincin', 'tenun', 'dalan', 'linen', 'tendon', 'pesen', 'lilin']
+
+8079 [18464, 18066, 44031, 26829, 20551, 6610, 43670, 27720, 6280, 34281]
+lengen ['lengan', 'lengene', 'pilin', 'cincin', 'tenun', 'dalan', 'linen', 'tendon', 'pesen', 'lilin']
+
+8123 [41510, 8988, 43643, 45779, 77422, 111447, 45547, 95632, 9148, 65621]
+racun ['racunan', 'racune', 'racunna', 'racikan', 'bihun', 'prun', 'limun', 'harpun', 'rakun', 'katun']
+
+8123 [41510, 8988, 43643, 45779, 77422, 111447, 45547, 95632, 9148, 65621]
+racun ['racunan', 'racune', 'racunna', 'racikan', 'bihun', 'prun', 'limun', 'harpun', 'rakun', 'katun']
+
+8198 [91484, 85558, 11932, 6063, 20467, 38949, 97474, 28348, 8496, 111117]
+rangkep ['rangkap', 'rangkepan', 'jangkep', 'rangka', 'rangkah', 'rangsang', 'ranggah', 'rangking', 'lengkep', 'tangkep']
+
+8251 [2052, 83393, 31610, 86178, 82522, 29000, 7435, 82716, 83467, 35361]
+farmasi ['farmakologi', 'farmakologis', 'koperasi', 'instrumentasi', 'fabrikasi', 'farma', 'vegetasi', 'kosmetika', 'farmakognosi', 'literasi']
+
+8268 [71623, 9414, 21634, 82898, 56926, 10983, 73826, 92540, 91226, 35739]
+godhong ['godhongan', 'godhonge', 'godong', 'endhong', 'godhongipun', 'kanthong', 'godhog', 'genthong', 'godogan', 'dhondhong']
+
+8268 [71623, 9414, 21634, 82898, 56926, 10983, 73826, 92540, 91226, 35739]
+godhong ['godhongan', 'godhonge', 'godong', 'endhong', 'godhongipun', 'kanthong', 'godhog', 'genthong', 'godogan', 'dhondhong']
+
+8274 [88899, 68594, 6700, 18992, 98413, 91282, 14753, 15065, 102257, 43757]
+kas ['kase', 'kasasi', 'kasta', 'kasa', 'kasting', 'kasal', 'kasi', 'kasekten', 'kastor', 'kasab']
+
+8357 [37836, 45854, 39704, 7552, 8537, 5221, 14433, 9081, 8541, 29483]
+angin ['angine', 'angina', 'winds', 'hujan', 'gelombang', 'wind', 'erosi', 'tornado', 'listrik', 'anginake']
+
+8424 [9423, 35685, 64935, 82389, 7252, 18542, 93450, 28650, 83136, 2303]
+wiji ['wijine', 'wijen', 'ruji', 'wijian', 'wewiji', 'suji', 'wijil', 'beji', 'baji', 'panji']
+
+8483 [48311, 10058, 70205, 37813, 32557, 107180, 13638, 49228, 2760, 9043]
+kandhang ['kandhung', 'kandhange', 'kandhane', 'kandhel', 'kandung', 'kandhangipun', 'sandhang', 'bidhang', 'kadhang', 'padhang']
+
+8537 [9146, 48221, 41025, 71892, 9139, 8525, 19865, 47212, 8357, 20121]
+gelombang ['spektrum', 'waves', 'gelombangna', 'gelombange', 'sinar', 'cahaya', 'signals', 'impuls', 'angin', 'frequencies']
+
+8537 [9146, 48221, 41025, 71892, 9139, 8525, 19865, 47212, 8357, 20121]
+gelombang ['spektrum', 'waves', 'gelombangna', 'gelombange', 'sinar', 'cahaya', 'signals', 'impuls', 'angin', 'frequencies']
+
+8560 [74306, 45161, 105425, 60625, 44163, 21538, 2809, 42997, 52714, 42100]
+rai ['raihan', 'raih', 'raita', 'rau', 'gori', 'gur', 'giri', 'rami', 'rei', 'risi']
+
+8894 [96582, 44129, 19164, 79258, 11443, 5325, 20837, 9169, 33350, 78532]
+ingon ['engon', 'ingone', 'weton', 'ingonan', 'babon', 'alon', 'pangon', 'panon', 'inguan', 'inong']
+
+8894 [96582, 44129, 19164, 79258, 11443, 5325, 20837, 9169, 33350, 78532]
+ingon ['engon', 'ingone', 'weton', 'ingonan', 'babon', 'alon', 'pangon', 'panon', 'inguan', 'inong']
+
+8935 [7492, 19766, 66515, 19354, 99401, 24700, 30019, 5699, 64878, 71017]
+got ['get', 'getting', 'gotta', 'gets', 'gotcha', 'wanted', 'going', 'want', 'wanna', 'didn']
+
+8935 [7492, 19766, 66515, 19354, 99401, 24700, 30019, 5699, 64878, 71017]
+got ['get', 'getting', 'gotta', 'gets', 'gotcha', 'wanted', 'going', 'want', 'wanna', 'didn']
+
+8941 [2545, 15832, 974, 74936, 48290, 24380, 21176, 1061, 18776, 2037]
+puluhan ['puluh', 'jutaan', 'ratusan', 'belasan', 'ribuan', 'yutaan', 'ratus', 'rebuan', 'yutan', 'limang']
+
+9092 [17806, 17104, 19244, 45261, 58374, 6939, 109262, 97759, 1765, 9831]
+kuping ['kupinge', 'keping', 'guling', 'wahing', 'giling', 'kupu', 'keding', 'siling', 'suling', 'laring']
+
+9116 [11495, 14097, 5260, 24730, 26886, 2896, 25560, 85127, 24755, 8088]
+penyakit ['disease', 'karusakan', 'diseases', 'illness', 'tumor', 'virus', 'symptoms', 'penyakitipun', 'disorders', 'infeksi']
+
+9120 [18286, 23682, 1799, 37452, 10197, 9446, 85740, 35804, 25754, 80711]
+pakar ['pacar', 'pakarang', 'pakaryan', 'pakarya', 'pakarti', 'pakan', 'pambabar', 'gurubesar', 'pendekar', 'kokar']
+
+9164 [6910, 44298, 10233, 32718, 14049, 43520, 30549, 8014, 50480, 56331]
+irung ['irunge', 'irungna', 'irus', 'irungipun', 'surung', 'sirung', 'sarung', 'gulung', 'iru', 'tiung']
+
+9248 [35670, 12565, 18023, 17144, 91202, 73497, 13510, 112093, 7250, 40410]
+coklat ['cokelat', 'soklat', 'cokot', 'bulat', 'coklatan', 'kekuningan', 'lembut', 'cokelek', 'semu', 'pekat']
+
+9249 [71047, 41300, 97259, 97189, 29951, 18542, 46792, 1693, 54182, 6144]
+salju ['saljuan', 'tuju', 'soju', 'saldo', 'tinju', 'suji', 'kiju', 'baju', 'borju', 'nuju']
+
+9250 [12047, 41087, 56293, 12700, 45126, 5205, 11657, 1561, 46402, 61627]
+kapas ['napas', 'ampas', 'kapasan', 'kapang', 'kapak', 'kipas', 'upas', 'beas', 'kras', 'kapa']
+
+9489 [33814, 59985, 16576, 16633, 49505, 2709, 2461, 11722, 38064, 38583]
+studi ['penelitian', 'studine', 'kajian', 'studie', 'studina', 'study', 'sarjana', 'tesis', 'studhi', 'etudes']
+
+9543 [17783, 39937, 96739, 58449, 95716, 30195, 101433, 21565, 58593, 19467]
+bisul ['bisu', 'ateul', 'gateul', 'macul', 'ketul', 'tutul', 'bistik', 'mandul', 'bisik', 'mentul']
+
+9623 [7724, 65161, 18018, 92468, 74069, 27438, 72848, 42087, 77729, 78778]
+panuntun ['panuwun', 'penuntun', 'panunjuk', 'penuntut', 'panunjang', 'panyusun', 'panuntut', 'panuhun', 'pandukung', 'panunjukan']
+
+9680 [68108, 27445, 53942, 79732, 20285, 79994, 17153, 8855, 46016, 56668]
+nyawang ['ngawang', 'nyabak', 'nyabut', 'nyalukan', 'nyangga', 'nyewa', 'nyawisaken', 'nyawa', 'nyaangan', 'nyangkem']
+
+9824 [9931, 82898, 20383, 44676, 42360, 21642, 16215, 39308, 16590, 4694]
+endhas ['endhog', 'endhong', 'endhase', 'endhut', 'ndhas', 'endog', 'endhah', 'endhang', 'endha', 'endhi']
+
+9824 [9931, 82898, 20383, 44676, 42360, 21642, 16215, 39308, 16590, 4694]
+endhas ['endhog', 'endhong', 'endhase', 'endhut', 'ndhas', 'endog', 'endhah', 'endhang', 'endha', 'endhi']
+
+9904 [37873, 82066, 77224, 26878, 94364, 72391, 75120, 53827, 13555, 66487]
+geni ['genine', 'genitri', 'genin', 'gen', 'proteine', 'patri', 'genie', 'kendi', 'legi', 'maten']
+
+10055 [27541, 71585, 19479, 11685, 1782, 88092, 10738, 19458, 40922, 9714]
+sungu ['sungut', 'sungune', 'gulu', 'rungu', 'sangu', 'sudu', 'awu', 'ungu', 'lemu', 'bolu']
+
+10098 [28251, 3792, 82531, 45546, 44922, 102884, 106597, 14892, 43798, 13474]
+untu ['unta', 'untung', 'untai', 'untir', 'kutu', 'unti', 'untan', 'untune', 'kertu', 'mantu']
+
+10323 [16697, 74603, 48364, 91543, 23690, 66174, 7953, 34577, 6491, 2761]
+bandha ['bendha', 'bandhing', 'bandhane', 'bandhe', 'gadha', 'tendha', 'godha', 'rodha', 'randha', 'bedha']
+
+10433 [5269, 6835, 3133, 6815, 103656, 1401, 20057, 7225, 52799, 54378]
+wedi ['lagi', 'tenan', 'mampu', 'metu', 'sagen', 'perlu', 'niti', 'tega', 'denen', 'berusaha']
+
+10433 [5269, 6835, 3133, 6815, 103656, 1401, 20057, 7225, 52799, 54378]
+wedi ['lagi', 'tenan', 'mampu', 'metu', 'sagen', 'perlu', 'niti', 'tega', 'denen', 'berusaha']
+
+10588 [90025, 10357, 71765, 9990, 83660, 25049, 47137, 8486, 56699, 9619]
+rega ['rego', 'jaga', 'gena', 'beya', 'regas', 'wisa', 'serba', 'guna', 'tempa', 'trima']
+
+10599 [66232, 9827, 43011, 5013, 42429, 94849, 3337, 872, 85672, 7219]
+panggon ['panggona', 'panggone', 'panggen', 'panggung', 'nggon', 'panganggon', 'panganggo', 'panggonan', 'anggon', 'panganggone']
+
+10738 [44156, 5400, 23558, 72326, 6877, 92633, 44253, 41774, 10055, 1737]
+awu ['apu', 'ambu', 'awi', 'panu', 'asu', 'awune', 'awur', 'sapu', 'sungu', 'adu']
+
+10738 [44156, 5400, 23558, 72326, 6877, 92633, 44253, 41774, 10055, 1737]
+awu ['apu', 'ambu', 'awi', 'panu', 'asu', 'awune', 'awur', 'sapu', 'sungu', 'adu']
+
+10835 [66959, 29074, 94020, 48864, 84555, 8813, 59242, 59911, 27235, 82286]
+tim ['timnas', 'klub', 'timipun', 'timnya', 'timna', 'team', 'skuad', 'skuat', 'teams', 'timbalan']
+
+10998 [10968, 68186, 58833, 5834, 24909, 77764, 25443, 40747, 28190, 37059]
+pasar ['pasarean', 'pasarturi', 'pasaraya', 'pasaran', 'pasaratan', 'pasare', 'pasareyan', 'pasaribu', 'bursa', 'bazar']
+
+11320 [1434, 2901, 103418, 3496, 1826, 1451, 5532, 90144, 999, 21212]
+produk ['produksi', 'products', 'produkipun', 'barang', 'diproduksi', 'bahan', 'komponen', 'produke', 'hasil', 'produkna']
+
+11531 [14539, 59937, 48983, 88501, 38177, 79541, 11609, 29692, 106091, 1918]
+kuliah ['kuliyah', 'kuliahe', 'kuliahipun', 'kuliahna', 'kuliyahe', 'perkuliahan', 'matakuliah', 'ujian', 'sinahu', 'sinau']
+
+11531 [14539, 59937, 48983, 88501, 38177, 79541, 11609, 29692, 106091, 1918]
+kuliah ['kuliyah', 'kuliahe', 'kuliahipun', 'kuliahna', 'kuliyahe', 'perkuliahan', 'matakuliah', 'ujian', 'sinahu', 'sinau']
+
+11533 [3386, 23054, 5734, 232, 85025, 30284, 54617, 47970, 5821, 10406]
+urusan ['rumusan', 'putusan', 'utusan', 'urutan', 'urunan', 'urusane', 'kahususan', 'kekhususan', 'urut', 'urun']
+
+11671 [47201, 54612, 35825, 49393, 13257, 33005, 21142, 32813, 65545, 739]
+asosiasi ['agensi', 'konsorsium', 'konfederasi', 'afiliasi', 'federasi', 'kongregasi', 'asuransi', 'aliansi', 'korporasi', 'konvensi']
+
+12013 [8138, 111734, 49862, 28284, 28422, 108848, 43456, 12597, 104942, 23139]
+griya ['kriya', 'grija', 'driya', 'griyanipun', 'griyane', 'gril', 'kupiya', 'driji', 'resiya', 'nyiya']
+
+12013 [8138, 111734, 49862, 28284, 28422, 108848, 43456, 12597, 104942, 23139]
+griya ['kriya', 'grija', 'driya', 'griyanipun', 'griyane', 'gril', 'kupiya', 'driji', 'resiya', 'nyiya']
+
+12013 [8138, 111734, 49862, 28284, 28422, 108848, 43456, 12597, 104942, 23139]
+griya ['kriya', 'grija', 'driya', 'griyanipun', 'griyane', 'gril', 'kupiya', 'driji', 'resiya', 'nyiya']
+
+12023 [65764, 66076, 87173, 38461, 87319, 87172, 6854, 91916, 17627, 74173]
+spesialis ['spesial', 'spesialisasi', 'spesialiasi', 'spesialisasine', 'terspesialisasi', 'subspesialisasi', 'spesifik', 'spesipik', 'spesifikasi', 'propesional']
+
+12101 [23972, 7424, 6877, 32945, 18255, 6844, 41774, 11343, 77879, 88092]
+susu ['sagu', 'jamu', 'asu', 'susuh', 'susuna', 'madu', 'sapu', 'sushi', 'misu', 'sudu']
+
+12468 [56741, 19655, 17778, 19223, 8976, 15094, 35470, 21419, 69902, 29473]
+bolongan ['bolonganipun', 'bolong', 'bolongane', 'talingan', 'kurungan', 'tegangan', 'galengan', 'saringan', 'lengkungan', 'cadangan']
+
+12579 [63892, 34889, 13323, 3629, 16243, 75459, 75549, 52271, 58960, 60321]
+santa ['sainte', 'sant', 'san', 'saint', 'santo', 'sankt', 'santarem', 'sveti', 'santamaria', 'nuestra']
+
+12666 [22900, 93763, 108143, 24564, 38818, 10351, 91878, 8601, 43445, 5995]
+kadal ['kadali', 'mamal', 'pandal', 'quail', 'ketel', 'bakul', 'sabel', 'apel', 'agal', 'gamel']
+
+12677 [56580, 84711, 4800, 10009, 19865, 27004, 34311, 27793, 11812, 12874]
+sinyal ['sinyalna', 'riyal', 'partikel', 'signal', 'signals', 'sinkron', 'detektor', 'kodon', 'memori', 'telegraf']
+
+12699 [112063, 23624, 109604, 24654, 29269, 6874, 8767, 23516, 84838, 18322]
+roti ['rotisserie', 'rotis', 'rotini', 'pasta', 'makanan', 'daging', 'masakan', 'bread', 'soba', 'pizza']
+
+12770 [16257, 8843, 10768, 90040, 17837, 74979, 36427, 1946, 85975, 17085]
+standar ['standarisasi', 'standard', 'standards', 'standart', 'norma', 'standardisasi', 'standarna', 'normal', 'standare', 'standardized']
+
+12949 [62255, 3253, 14374, 904, 8604, 901, 62254, 8603, 7440, 109838]
+serikat ['unidos', 'states', 'usa', 'amerika', 'sarekat', 'sarikat', 'estados', 'amerikah', 'america', 'serekat']
+
+13047 [39212, 103293, 85693, 60842, 75416, 89758, 106330, 77348, 107443, 32885]
+berkas ['beruk', 'berputra', 'bercorak', 'bersambung', 'minangla', 'sinangkalan', 'eksukutip', 'berpapasan', 'cekdam', 'kasingkir']
+
+13081 [22142, 33781, 108757, 16719, 34205, 48283, 11011, 28603, 12842, 57610]
+kedokteran ['kadokteran', 'kedhokteran', 'keteknikan', 'kadhokteran', 'kesusasteraan', 'perikanan', 'perekonomian', 'keperawatan', 'penerangan', 'kesusastraan']
+
+13118 [46656, 32559, 108835, 24907, 19378, 67285, 10408, 9710, 60154, 48118]
+nafsu ['nafkah', 'nafas', 'nafsul', 'tafsiran', 'tafsir', 'sabuku', 'wudhu', 'lelaku', 'syaraf', 'tasawuf']
+
+13402 [10493, 20783, 2859, 8265, 25967, 78962, 8724, 14129, 84062, 14168]
+alternatif ['alternative', 'alternatives', 'tambahan', 'gratis', 'options', 'endemic', 'replacement', 'ornamental', 'sequel', 'optimal']
+
+13402 [10493, 20783, 2859, 8265, 25967, 78962, 8724, 14129, 84062, 14168]
+alternatif ['alternative', 'alternatives', 'tambahan', 'gratis', 'options', 'endemic', 'replacement', 'ornamental', 'sequel', 'optimal']
+
+13469 [74709, 22285, 9232, 8485, 11213, 39337, 15003, 31583, 4534, 41029]
+isin ['isini', 'salin', 'isinan', 'temen', 'angen', 'anangin', 'anan', 'idin', 'katon', 'manen']
+
+13469 [74709, 22285, 9232, 8485, 11213, 39337, 15003, 31583, 4534, 41029]
+isin ['isini', 'salin', 'isinan', 'temen', 'angen', 'anangin', 'anan', 'idin', 'katon', 'manen']
+
+13539 [63382, 50945, 18658, 8001, 7108, 81839, 56400, 17969, 23750, 70760]
+tukaran ['tuker', 'tukan', 'tukak', 'tugel', 'tuku', 'mekaran', 'tukar', 'tuwin', 'tukul', 'kaingkaran']
+
+13812 [1766, 8276, 1759, 7088, 41624, 38804, 45118, 34590, 60524, 90096]
+pedang ['kendang', 'wedang', 'gendang', 'gedang', 'pindang', 'pedas', 'pegas', 'sakadang', 'pedati', 'pedangdut']
+
+13832 [89537, 39982, 3702, 48356, 58276, 27983, 14782, 18693, 1869, 4187]
+pos ['posko', 'pospat', 'post', 'pospor', 'posh', 'poso', 'possum', 'pis', 'pra', 'pre']
+
+13969 [74612, 43672, 41079, 96424, 31291, 12535, 38678, 1484, 2506, 62536]
+pabrik ['pabrike', 'pabrikasi', 'rubrik', 'jabrik', 'firma', 'perusahaan', 'pabrikan', 'industri', 'pawarta', 'kilang']
+
+14035 [17938, 56878, 31695, 62974, 12838, 5866, 43288, 45706, 32953, 33784]
+pimpinan ['pemimpin', 'chairman', 'pimpinanipun', 'pimpinane', 'kepala', 'ketua', 'dipimpin', 'memimpin', 'direktur', 'rektor']
+
+14182 [1158, 64887, 3447, 110768, 28097, 8741, 31560, 60620, 35320, 1163]
+hakim ['mahkamah', 'tribunal', 'judge', 'hakimi', 'judges', 'polisi', 'pengarah', 'emir', 'juri', 'hukum']
+
+14302 [34652, 90107, 32436, 19754, 13318, 10387, 33859, 26896, 48455, 16488]
+patemon ['patemone', 'patemonan', 'partemon', 'tetemon', 'patemonane', 'pasemon', 'patenan', 'panemon', 'patepung', 'paten']
+
+14946 [43759, 31563, 60654, 84790, 80511, 75602, 77593, 80883, 33493, 10149]
+karir ['karire', 'karirna', 'kariripun', 'berkarir', 'kariere', 'karis', 'berkarier', 'kariernya', 'karier', 'mundur']
+
+15001 [936, 44396, 971, 2092, 60157, 27226, 378, 109, 66, 94]
+orbit ['deukeut', 'orbitna', 'tina', 'sedengkeun', 'magnitudo', 'eksentrisitas', 'ieu', 'jadi', 'mangrupa', 'jeung']
+
+15070 [53284, 32853, 93438, 21101, 80204, 45062, 71517, 21800, 18266, 87713]
+guyon ['guyonan', 'nanaon', 'playon', 'payon', 'bombong', 'turon', 'lawon', 'layon', 'kunaon', 'emon']
+
+15591 [9730, 81105, 81806, 41033, 9659, 10346, 44730, 39436, 7291, 44852]
+busur ['busuk', 'busak', 'busung', 'janur', 'catur', 'sumur', 'cucur', 'galur', 'jamur', 'susur']
+
+15610 [7114, 109500, 35140, 48354, 22873, 33680, 14479, 1901, 32, 44070]
+bapa ['bapak', 'bapakan', 'ayah', 'bapakne', 'bapana', 'bapakke', 'bapane', 'bapake', 'ibu', 'bapang']
+
+15773 [15682, 78468, 84211, 65392, 18213, 56660, 45772, 76311, 30213, 31901]
+bates ['batesan', 'batese', 'malet', 'modis', 'higgins', 'pesi', 'bateson', 'magas', 'hobbs', 'boyd']
+
+15821 [15010, 8191, 38843, 13981, 6768, 13013, 39457, 54811, 2209, 9649]
+dulur ['dulurna', 'dulure', 'dulu', 'kaluhur', 'sakur', 'alur', 'ancur', 'tuur', 'ukur', 'tutur']
+
+15821 [15010, 8191, 38843, 13981, 6768, 13013, 39457, 54811, 2209, 9649]
+dulur ['dulurna', 'dulure', 'dulu', 'kaluhur', 'sakur', 'alur', 'ancur', 'tuur', 'ukur', 'tutur']
+
+16091 [1907, 29615, 95379, 15420, 84802, 51087, 102345, 22599, 5327, 82662]
+sedulur ['sedulure', 'seduluran', 'seduluripun', 'sedhulure', 'sedhulur', 'duduluran', 'sedhot', 'sepupu', 'sedih', 'sediaan']
+
+16091 [1907, 29615, 95379, 15420, 84802, 51087, 102345, 22599, 5327, 82662]
+sedulur ['sedulure', 'seduluran', 'seduluripun', 'sedhulure', 'sedhulur', 'duduluran', 'sedhot', 'sepupu', 'sedih', 'sediaan']
+
+16091 [1907, 29615, 95379, 15420, 84802, 51087, 102345, 22599, 5327, 82662]
+sedulur ['sedulure', 'seduluran', 'seduluripun', 'sedhulure', 'sedhulur', 'duduluran', 'sedhot', 'sepupu', 'sedih', 'sediaan']
+
+16381 [30961, 18869, 31319, 31560, 5862, 54944, 37921, 8741, 5860, 12838]
+pegawai ['pejabat', 'officer', 'pekerja', 'pengarah', 'kapten', 'officers', 'administrator', 'polisi', 'diplomat', 'kepala']
+
+16764 [3692, 26453, 3408, 90688, 82125, 15247, 5639, 3412, 9236, 8216]
+dinten ['dintenipun', 'swanten', 'kinten', 'dintenna', 'dintenan', 'pinten', 'manten', 'samanten', 'janten', 'temanten']
+
+17367 [45381, 38509, 44718, 44719, 96939, 13893, 7206, 206, 96941, 10347]
+lomba ['lomban', 'lombang', 'lompat', 'lompatan', 'lelomban', 'kejuaraan', 'kompetisi', 'lombok', 'bebalapan', 'timba']
+
+17417 [57458, 49710, 35386, 8267, 487, 110690, 22613, 8146, 19669, 22398]
+perpustakaan ['biblioteca', 'bibliotheque', 'bibliotheca', 'library', 'buku', 'perpustakaane', 'bangunan', 'literatur', 'collections', 'penerbit']
+
+17527 [6064, 2003, 103119, 95039, 101922, 7292, 11323, 19609, 53829, 44851]
+gendhis ['gendhing', 'gendheng', 'gendhisipun', 'kudhis', 'gendhang', 'lendhir', 'tongseng', 'pedhes', 'gendis', 'jedhing']
+
+17667 [69969, 19789, 23277, 74329, 23114, 51118, 17672, 8938, 6295, 21307]
+pita ['pitapak', 'pitakon', 'peti', 'pitarubak', 'pista', 'tinta', 'pit', 'pari', 'lada', 'pai']
+
+18010 [88970, 56788, 39567, 21028, 9709, 41077, 25125, 37842, 15388, 47427]
+langgeng ['cengeng', 'ganggeng', 'rengeng', 'sugeng', 'bengkong', 'ronggeng', 'kenceng', 'lengkong', 'enteng', 'bingkeng']
+
+18347 [66852, 98078, 90823, 79939, 31451, 21180, 57905, 2274, 84312, 71683]
+bayaran ['bayar', 'bayarane', 'penasaran', 'penalaran', 'sigaran', 'kisaran', 'kesadharan', 'lambaran', 'ujaran', 'sandaran']
+
+18390 [48344, 45033, 63653, 45206, 9551, 9254, 40772, 41520, 2445, 45960]
+sumpah ['sumpahe', 'tumpah', 'sumpahna', 'bersumpah', 'sampah', 'sumbangan', 'sumbang', 'sumput', 'sumping', 'sumpil']
+
+18390 [48344, 45033, 63653, 45206, 9551, 9254, 40772, 41520, 2445, 45960]
+sumpah ['sumpahe', 'tumpah', 'sumpahna', 'bersumpah', 'sampah', 'sumbangan', 'sumbang', 'sumput', 'sumping', 'sumpil']
+
+18642 [77368, 43374, 84998, 103715, 91812, 57045, 111827, 46794, 109480, 23418]
+salad ['salade', 'salat', 'salada', 'salata', 'spiced', 'cooked', 'asado', 'curd', 'lard', 'salak']
+
+18718 [46206, 92114, 4831, 80895, 19234, 40318, 82275, 39058, 23666, 60851]
+tato ['toga', 'legato', 'telo', 'pose', 'teken', 'piso', 'leva', 'peso', 'logo', 'helm']
+
+18872 [1215, 7027, 101278, 98987, 87544, 3560, 7106, 74880, 40010, 21173]
+wali ['walikota', 'walikan', 'walibi', 'waline', 'walikat', 'walisanga', 'walikane', 'walikuthane', 'penguasa', 'waliking']
+
+18889 [4528, 32248, 9339, 87517, 25482, 4114, 34658, 30001, 26980, 7396]
+internal ['interior', 'internally', 'external', 'interna', 'intern', 'exterior', 'internalna', 'anterior', 'inside', 'informal']
+
+18971 [493, 63155, 14656, 12153, 16903, 89210, 18289, 72993, 22173, 2461]
+mahasiswa ['pelajar', 'mahasiswane', 'students', 'siswa', 'student', 'mahasiswana', 'alumni', 'semester', 'kampus', 'sarjana']
+
+19046 [98421, 44641, 56862, 19126, 6220, 3357, 53328, 16448, 43531, 102431]
+purnama ['purnamasari', 'purna', 'purnima', 'purwana', 'purnawarman', 'purwa', 'purwo', 'purwanto', 'purnawijaya', 'purwati']
+
+19202 [21541, 1615, 6883, 78322, 225, 2559, 32234, 38388, 6605, 93735]
+lawang ['lawange', 'lawakan', 'lapang', 'lawangan', 'lawas', 'lawan', 'lubang', 'lawasan', 'layang', 'lawung']
+
+19202 [21541, 1615, 6883, 78322, 225, 2559, 32234, 38388, 6605, 93735]
+lawang ['lawange', 'lawakan', 'lapang', 'lawangan', 'lawas', 'lawan', 'lubang', 'lawasan', 'layang', 'lawung']
+
+19202 [21541, 1615, 6883, 78322, 225, 2559, 32234, 38388, 6605, 93735]
+lawang ['lawange', 'lawakan', 'lapang', 'lawangan', 'lawas', 'lawan', 'lubang', 'lawasan', 'layang', 'lawung']
+
+19217 [42877, 18044, 30753, 19098, 79931, 2374, 42011, 44196, 84118, 6370]
+asta ['astagina', 'astane', 'astani', 'ehe', 'astacala', 'ala', 'bati', 'aba', 'astan', 'arca']
+
+19273 [23464, 23390, 27707, 83710, 3384, 94169, 10270, 21815, 38433, 58375]
+biksu ['biksuni', 'bhiksu', 'bikang', 'biku', 'bibit', 'guksu', 'bi', 'moksa', 'bibi', 'bimas']
+
+19329 [42899, 19297, 16697, 36853, 981, 674, 469, 38306, 5270, 77664]
+kitha ['ibukutha', 'guha', 'bendha', 'petha', 'tlatah', 'padha', 'tlatahe', 'katha', 'gandha', 'sepedha']
+
+19609 [76831, 44865, 94061, 44960, 6475, 53896, 96776, 19995, 42645, 26388]
+pedhes ['pedhet', 'pemanis', 'pedhese', 'ludhes', 'pedes', 'pemanas', 'pedo', 'gedhen', 'meres', 'direndhem']
+
+19741 [13948, 36590, 9023, 26035, 45143, 95907, 68110, 42398, 37262, 780]
+palemahan ['paimahan', 'pomahan', 'kalemahan', 'lumahan', 'perumahan', 'parkembangan', 'parumahan', 'patamanan', 'salumahing', 'palabuan']
+
+19788 [11552, 83895, 108766, 25143, 95843, 25125, 103015, 85736, 25454, 15144]
+pandeleng ['pandelengan', 'panyandhang', 'pandengan', 'pandhang', 'pandelengane', 'kenceng', 'pandengane', 'panulung', 'pandhangan', 'tinulung']
+
+19823 [38147, 5903, 31586, 4490, 61859, 31675, 17791, 48343, 48365, 86737]
+mempeng ['memulang', 'nyepeng', 'kacepeng', 'ngomong', 'cepeng', 'dipuncepeng', 'gepeng', 'mengkeret', 'nggalang', 'membengkak']
+
+19876 [220, 24592, 8488, 1687, 14295, 8596, 62260, 17401, 1019, 3701]
+antik ['klasik', 'antique', 'kuno', 'tradisional', 'pottery', 'elektronik', 'ancien', 'antiquity', 'modern', 'renaissance']
+
+19876 [220, 24592, 8488, 1687, 14295, 8596, 62260, 17401, 1019, 3701]
+antik ['klasik', 'antique', 'kuno', 'tradisional', 'pottery', 'elektronik', 'ancien', 'antiquity', 'modern', 'renaissance']
+
+20099 [8808, 6103, 22346, 57733, 57313, 14098, 57646, 22931, 68885, 9081]
+bom ['bomb', 'serangan', 'bombing', 'bombs', 'bomber', 'tsunami', 'blast', 'senjata', 'bomba', 'tornado']
+
+20170 [6536, 94766, 18491, 79729, 95706, 35086, 41274, 7165, 48251, 64946]
+mangkok ['mangkuk', 'manggang', 'cangkok', 'mangkak', 'mangko', 'bongkok', 'manggar', 'cengkok', 'mangkel', 'mangkokan']
+
+20266 [46288, 59487, 75285, 6877, 32356, 35085, 41774, 44156, 100417, 15910]
+prau ['prahu', 'ruu', 'praune', 'asu', 'regu', 'cupu', 'sapu', 'apu', 'jasu', 'hiu']
+
+20586 [93847, 3720, 5346, 4849, 74339, 20852, 33793, 10208, 48411, 19206]
+wedhok ['wedhoke', 'wedhus', 'wadhon', 'wedok', 'gondhok', 'wedhuse', 'pandhudhuk', 'pedhot', 'pendhudhuk', 'gedhong']
+
+20613 [110130, 10133, 17661, 18613, 79357, 56662, 16746, 101767, 45016, 69750]
+gelut ['gelud', 'gelung', 'emut', 'kerut', 'mecut', 'nunut', 'ciut', 'gendhut', 'kusut', 'hitut']
+
+20613 [110130, 10133, 17661, 18613, 79357, 56662, 16746, 101767, 45016, 69750]
+gelut ['gelud', 'gelung', 'emut', 'kerut', 'mecut', 'nunut', 'ciut', 'gendhut', 'kusut', 'hitut']
+
+20687 [102363, 3400, 88293, 29046, 74738, 2322, 19088, 48362, 50330, 33275]
+nuwun ['suwun', 'nyuwun', 'maturnuwun', 'panyuwun', 'muwun', 'sinuwun', 'suwung', 'ngawur', 'uwung', 'dipunsuwun']
+
+21232 [64813, 53138, 9000, 73671, 32469, 49723, 77937, 49608, 1079, 33722]
+marinir ['infanteri', 'opsir', 'amatir', 'mariniyah', 'infantri', 'selir', 'brigif', 'brigadir', 'basisir', 'marini']
+
+21233 [70339, 66232, 1289, 10599, 5013, 6842, 11104, 78619, 39008, 872]
+pangkalan ['pangkalanbun', 'panggona', 'pangkal', 'panggon', 'panggung', 'tatangkalan', 'bangkalan', 'dhangkalan', 'panggul', 'panggonan']
+
+21275 [106072, 54827, 37209, 58257, 29592, 13268, 87311, 75728, 99279, 2971]
+noda ['nodo', 'nod', 'wada', 'nodong', 'danda', 'yuda', 'nodus', 'iida', 'fida', 'no']
+
+21319 [23865, 3300, 74828, 6612, 6589, 40196, 64199, 87488, 101192, 11485]
+wot ['wok', 'wod', 'wombat', 'sobat', 'huut', 'woten', 'wut', 'sikut', 'wog', 'deet']
+
+21320 [13972, 22613, 10931, 13984, 13585, 53628, 12420, 76993, 1087, 6370]
+menara ['tower', 'bangunan', 'masjid', 'gedung', 'towers', 'menarane', 'hotel', 'basement', 'istana', 'arca']
+
+21583 [56664, 1884, 47921, 9749, 38509, 11033, 41641, 1776, 28782, 21322]
+blumbang ['blumbangan', 'kembang', 'barangbang', 'timbang', 'lombang', 'tambang', 'bangbang', 'lembang', 'lobang', 'gerbang']
+
+21635 [45754, 23522, 95167, 5836, 12120, 86506, 57590, 101740, 109690, 1761]
+tong ['tongkol', 'tongkat', 'tongkang', 'tongo', 'tonggong', 'tongsa', 'tongyong', 'tongzhi', 'khoi', 'gong']
+
+21645 [45640, 78865, 94755, 104021, 45144, 9541, 65986, 89406, 17640, 93075]
+mentok ['botok', 'mento', 'mentol', 'ndok', 'porok', 'borok', 'tolok', 'montok', 'medok', 'nyok']
+
+21798 [99458, 89856, 7931, 66296, 20192, 10683, 42723, 41663, 1300, 87487]
+mayit ['mayite', 'mayitna', 'wingit', 'mabit', 'rakit', 'kaapit', 'burit', 'leuit', 'gurit', 'tumit']
+
+21905 [28693, 50728, 87666, 66294, 958, 81050, 29438, 51084, 2384, 80592]
+syarat ['syarate', 'syaratipun', 'syaratna', 'syara', 'maksud', 'syarak', 'manfaat', 'syiar', 'syair', 'syar']
+
+21925 [58459, 93122, 48610, 48388, 77687, 6083, 44106, 86136, 33514, 45556]
+sulap ['sulam', 'pesulap', 'salep', 'suap', 'sadap', 'garap', 'sulak', 'celup', 'asap', 'serap']
+
+22167 [29025, 90732, 2588, 17540, 94159, 36955, 22199, 44281, 35315, 66618]
+ruh ['rah', 'ruhani', 'reh', 'trah', 'rih', 'rub', 'ruku', 'rubuh', 'nuh', 'duh']
+
+22927 [44662, 57694, 38847, 23714, 40010, 35161, 33089, 54376, 37275, 6356]
+kekuasaan ['kekuasaannya', 'kekuasaanipun', 'kuasa', 'pemerintahan', 'penguasa', 'kedudukan', 'kekuasaane', 'kekuatan', 'berkuasa', 'tahta']
+
+22967 [73481, 40213, 60550, 57792, 89280, 38513, 52215, 36716, 54753, 97973]
+kunjungan ['kunjunganipun', 'mengunjungi', 'kunjung', 'berkunjung', 'pengunjunge', 'munjungan', 'pengunjung', 'panunjukkan', 'pangunjung', 'junjungan']
+
+23002 [14232, 11009, 31319, 14184, 42098, 68793, 15429, 11610, 60382, 14212]
+petani ['farmers', 'pertanian', 'pekerja', 'farming', 'agraria', 'merchants', 'workers', 'tanaman', 'miners', 'farmer']
+
+23157 [27054, 32473, 5713, 22990, 35046, 1893, 13541, 302, 16665, 22640]
+aneh ['anehe', 'anem', 'adoh', 'parah', 'anehna', 'aneka', 'ramah', 'meh', 'ewah', 'megah']
+
+23212 [16817, 54905, 40321, 81935, 14342, 17213, 46163, 61245, 81372, 10888]
+generator ['generators', 'synthesizer', 'rotor', 'motore', 'kernel', 'reservoir', 'installer', 'turbine', 'supervisor', 'mesin']
+
+23277 [49447, 40282, 48055, 6276, 29949, 101965, 11166, 54321, 53827, 8938]
+peti ['petir', 'petik', 'petikan', 'petingan', 'petinju', 'petioles', 'petis', 'petisi', 'kendi', 'pari']
+
+23486 [94062, 60788, 7119, 44224, 21329, 14070, 1921, 13891, 1316, 100168]
+wargi ['wargo', 'wargina', 'warung', 'waruga', 'margi', 'warata', 'bengi', 'paragi', 'warni', 'tanggi']
+
+23553 [102545, 39686, 61326, 36645, 30015, 75935, 4693, 94646, 47661, 41624]
+pin ['pinch', 'pen', 'pinika', 'pint', 'pet', 'pinion', 'pan', 'pinball', 'pil', 'pindang']
+
+23621 [41626, 44703, 98346, 9730, 6139, 69880, 89885, 10290, 60453, 37233]
+beluk ['belut', 'belur', 'beluga', 'busuk', 'tutuk', 'curuk', 'beludru', 'bathuk', 'beduk', 'biluk']
+
+23621 [41626, 44703, 98346, 9730, 6139, 69880, 89885, 10290, 60453, 37233]
+beluk ['belut', 'belur', 'beluga', 'busuk', 'tutuk', 'curuk', 'beludru', 'bathuk', 'beduk', 'biluk']
+
+23776 [31451, 7776, 42175, 12599, 10828, 34286, 55561, 34955, 1967, 108003]
+sigar ['sigaran', 'sigra', 'sesar', 'cakar', 'medar', 'lapar', 'dokar', 'sigrak', 'nular', 'bugar']
+
+23919 [83750, 44357, 34968, 110571, 88157, 64724, 98082, 63886, 79443, 37707]
+gupernur ['gupitan', 'purwarupa', 'palopor', 'pebruwari', 'guguyon', 'pipilueun', 'penghancur', 'pardana', 'guppi', 'gugum']
+
+24042 [38695, 32223, 9429, 100678, 91067, 100217, 2842, 83407, 112473, 92932]
+abrit ['abrik', 'abri', 'abrasi', 'abluk', 'abring', 'abrasif', 'abjad', 'abrar', 'amriti', 'abris']
+
+24365 [27186, 9368, 15134, 48642, 11976, 24366, 8337, 12875, 12569, 56482]
+satelit ['satelite', 'satellites', 'satellite', 'satelitipun', 'sensor', 'satelitna', 'teleskop', 'telefon', 'kabel', 'kamera']
+
+24832 [30876, 56557, 11065, 28379, 13922, 88525, 19389, 43405, 55692, 37441]
+wabah ['musibah', 'umbah', 'wacana', 'kabah', 'bencana', 'gubah', 'simbah', 'rubah', 'hibah', 'wadah']
+
+25277 [18492, 20690, 20006, 22814, 33664, 15029, 63838, 1425, 12835, 1396]
+dolar ['dollar', 'dollars', 'usd', 'pound', 'gulden', 'miliar', 'shilling', 'uang', 'bank', 'dana']
+
+26829 [8079, 23581, 27499, 34281, 44031, 43670, 45469, 37147, 43039, 41441]
+cincin ['lengen', 'kolon', 'tigan', 'lilin', 'pilin', 'linen', 'albumen', 'gurun', 'tribun', 'ubin']
+
+27089 [3640, 23855, 79430, 81986, 48028, 20481, 13510, 42683, 70168, 3322]
+lembar ['lembaran', 'lembur', 'lempar', 'lempit', 'lemper', 'lempung', 'lembut', 'lembek', 'lembing', 'lembu']
+
+28186 [684, 19391, 17179, 26027, 677, 56864, 20880, 57905, 39697, 19129]
+pepadha ['sapadha', 'pepadhang', 'pepadhan', 'pepadhane', 'tuladha', 'pepadhangan', 'kasadharan', 'kesadharan', 'nuladha', 'swasana']
+
+28239 [35740, 45804, 92339, 92471, 35741, 77728, 28923, 26561, 26831, 92654]
+dhukun ['dhuku', 'dhukuh', 'dhugderan', 'dhipan', 'dhuwet', 'dhukungan', 'dhugdheran', 'dhadhu', 'pandhukung', 'pedhotan']
+
+28467 [38666, 97537, 18775, 7854, 35061, 43800, 53837, 8725, 62754, 105181]
+eyang ['eyange', 'eyangipun', 'ewon', 'iya', 'hiyang', 'ewe', 'eyd', 'ewu', 'iye', 'ewed']
+
+28530 [97024, 35884, 59382, 84310, 58877, 35222, 11029, 94275, 16162, 105208]
+persimpangan ['persinggahan', 'pamungpangan', 'perpanjangan', 'sampangan', 'pertandhingan', 'pamungkasan', 'pinggiran', 'ketangkasan', 'panganggonan', 'pamanggenan']
+
+28614 [55480, 44000, 83403, 56437, 51152, 27983, 71559, 102910, 55029, 46473]
+doro ['dolo', 'goro', 'koro', 'boro', 'soro', 'poso', 'suro', 'blado', 'dobo', 'doko']
+
+28740 [1391, 28150, 26157, 2608, 37960, 23028, 49586, 32491, 28038, 67976]
+peraturan ['undang', 'regulations', 'keputusan', 'laws', 'akta', 'kebijakan', 'besluit', 'statute', 'legislation', 'dekret']
+
+28775 [12315, 77285, 50446, 71490, 5663, 98139, 56746, 34243, 72007, 96502]
+pasokan ['patokan', 'desakan', 'pasarujukan', 'ejekan', 'tarikan', 'corekan', 'panolakan', 'selokan', 'penampakan', 'pelapukan']
+
+29002 [49608, 14851, 35891, 34503, 14519, 45741, 13576, 100763, 14550, 22464]
+laksamana ['brigadir', 'gandamana', 'marsekal', 'wira', 'duta', 'laksa', 'kapala', 'sarwadamana', 'udayana', 'letnan']
+
+29602 [73732, 101875, 43360, 1181, 35638, 102288, 90775, 22369, 35061, 73077]
+moyang ['moyange', 'moyangipun', 'moyangna', 'tiyang', 'moyan', 'moyangku', 'penyayang', 'sembahyang', 'hiyang', 'loyang']
+
+29685 [8035, 16961, 10536, 27392, 16854, 27128, 80156, 11139, 18755, 39498]
+delta ['gamma', 'alpha', 'beta', 'epsilon', 'zeta', 'kappa', 'theta', 'lambda', 'sigma', 'rotary']
+
+29805 [31963, 106535, 107882, 71889, 11863, 45331, 79934, 57153, 60466, 57294]
+robot ['robots', 'robotis', 'robotcup', 'robotik', 'robotics', 'robotika', 'robotic', 'robo', 'astronaut', 'transformers']
+
+29899 [65634, 71992, 32511, 1206, 2506, 52452, 9331, 2310, 19550, 50958]
+pidato ['pidatona', 'pidatone', 'pidhato', 'pikir', 'pawarta', 'pidana', 'komentar', 'wicara', 'wawancara', 'rekomendasi']
+
+31061 [52887, 14827, 108251, 73549, 4972, 39100, 40527, 109052, 58405, 83]
+anugrah ['anugraha', 'nugraha', 'inganugraha', 'dianugrahi', 'sugih', 'kasinugrahan', 'singgih', 'gagrage', 'pemanggih', 'pamanggih']
+
+31166 [5243, 88440, 9095, 5596, 48504, 7598, 20204, 8534, 30994, 7128]
+sidang ['ajang', 'persidangan', 'sarang', 'daring', 'tiang', 'neng', 'ilining', 'rohang', 'luang', 'balong']
+
+31171 [1947, 42203, 110780, 89684, 11191, 15920, 29208, 3990, 22016, 81613]
+usia ['umur', 'berusia', 'usiane', 'umuran', 'kelahiran', 'dewasa', 'umuripun', 'umure', 'childhood', 'aged']
+
+32010 [103357, 111833, 65023, 12699, 29117, 39383, 77971, 86746, 11802, 80729]
+bir ['biryani', 'birria', 'biri', 'roti', 'biraki', 'bun', 'wort', 'burger', 'es', 'birama']
+
+32010 [103357, 111833, 65023, 12699, 29117, 39383, 77971, 86746, 11802, 80729]
+bir ['biryani', 'birria', 'biri', 'roti', 'biraki', 'bun', 'wort', 'burger', 'es', 'birama']
+
+32953 [100833, 31560, 14439, 63223, 12838, 56878, 5866, 14035, 33784, 36158]
+direktur ['direktor', 'pengarah', 'sekretaris', 'ceo', 'kepala', 'chairman', 'ketua', 'pimpinan', 'rektor', 'manager']
+
+33040 [31583, 38955, 87306, 25502, 85578, 43039, 32560, 33420, 14894, 72536]
+akun ['idin', 'firman', 'anon', 'konten', 'informan', 'tribun', 'laman', 'juran', 'gaman', 'ugan']
+
+33154 [96341, 91097, 17701, 10091, 56437, 83684, 78865, 34450, 46513, 23455]
+dowo ['ponyo', 'podo', 'supoyo', 'maido', 'boro', 'roso', 'mento', 'rodo', 'boyo', 'pagalo']
+
+33676 [48186, 18330, 72405, 1965, 26336, 6000, 9028, 11552, 108766, 57513]
+kesenengan ['kasenengan', 'kesenengane', 'kesenangan', 'kasenengane', 'kasenangan', 'klenengan', 'disenengi', 'pandelengan', 'pandengan', 'kesayangan']
+
+34443 [17850, 19424, 92637, 20804, 6607, 59533, 66296, 103160, 55614, 20059]
+pamit ['pamitan', 'kapit', 'pamati', 'paman', 'pamer', 'pami', 'mabit', 'pamados', 'pamilik', 'pameling']
+
+34904 [92845, 83273, 104083, 31819, 93054, 49804, 89545, 34894, 16746, 79475]
+ciu ['cium', 'kou', 'saeu', 'keu', 'yau', 'ketu', 'kku', 'dou', 'ciut', 'siru']
+
+35136 [25464, 55163, 92536, 21611, 96518, 40930, 30734, 17996, 98885, 53823]
+pegatan ['gugatan', 'pepegatan', 'pembatalan', 'pegat', 'pemberkatan', 'pasugatan', 'peringatan', 'pejah', 'pedot', 'pewaris']
+
+35451 [30549, 9684, 43520, 8014, 9164, 20097, 35449, 1757, 7119, 1751]
+karung ['sarung', 'kalung', 'sirung', 'gulung', 'irung', 'karungu', 'jagung', 'calung', 'warung', 'degung']
+
+35456 [44151, 24996, 40061, 40318, 6920, 24655, 47661, 25874, 12725, 80895]
+plat ['spons', 'flat', 'plak', 'piso', 'lapisan', 'sandwich', 'pil', 'panel', 'volum', 'pose']
+
+35697 [6805, 15120, 90458, 89704, 43574, 84005, 64495, 86381, 63006, 6720]
+satria ['satriya', 'satru', 'satrya', 'satrio', 'satra', 'satmata', 'sathya', 'satrap', 'satrawan', 'ksatria']
+
+35717 [44300, 23451, 38214, 1276, 52662, 38389, 59510, 15807, 2432, 61358]
+wangsulan ['wangsulane', 'wangsul', 'wangsulipun', 'ungkapan', 'wangsulanipun', 'tangtangan', 'permintaan', 'rangsangan', 'jawaban', 'rintangan']
+
+37872 [11567, 10253, 19904, 8190, 89441, 44378, 2521, 101101, 7423, 43631]
+uwuh ['uwoh', 'uwur', 'kawuwuhan', 'tuwuhan', 'tuwung', 'uwab', 'tuwuh', 'kuweh', 'woh', 'iwung']
+
+38781 [31689, 423, 26618, 44116, 12270, 44763, 72891, 2575, 111342, 100357]
+kasir ['kasur', 'kasar', 'kusir', 'kaset', 'kasile', 'wasir', 'kapir', 'kasil', 'kasure', 'kaswari']
+
+38851 [77417, 102400, 102460, 6887, 12372, 71337, 27874, 54105, 73217, 45502]
+ranjang ['rantang', 'ranju', 'ranjam', 'rancang', 'jangjang', 'sinjang', 'rejang', 'rantau', 'benjang', 'janjang']
+
+39070 [14505, 62305, 16500, 59487, 63368, 10738, 22425, 32356, 91945, 52531]
+kru ['krungu', 'kro', 'kra', 'ruu', 'kri', 'awu', 'flu', 'regu', 'gru', 'karu']
+
+40131 [9933, 42477, 23634, 39226, 30667, 9732, 7224, 35675, 12376, 95937]
+mustaka ['duraka', 'suaka', 'salaka', 'mustakane', 'padika', 'cilaka', 'saloka', 'moka', 'muka', 'manika']
+
+40131 [9933, 42477, 23634, 39226, 30667, 9732, 7224, 35675, 12376, 95937]
+mustaka ['duraka', 'suaka', 'salaka', 'mustakane', 'padika', 'cilaka', 'saloka', 'moka', 'muka', 'manika']
+
+40131 [9933, 42477, 23634, 39226, 30667, 9732, 7224, 35675, 12376, 95937]
+mustaka ['duraka', 'suaka', 'salaka', 'mustakane', 'padika', 'cilaka', 'saloka', 'moka', 'muka', 'manika']
+
+40726 [66113, 40630, 41202, 100316, 12354, 51468, 26398, 55612, 65014, 54649]
+toto ['totok', 'nono', 'oto', 'totoh', 'tomo', 'noto', 'teo', 'tio', 'theo', 'toru']
+
+40922 [39449, 7250, 19479, 19458, 13510, 92579, 107069, 87399, 11788, 90851]
+lemu ['hipu', 'semu', 'gulu', 'ungu', 'lembut', 'kemu', 'limu', 'laru', 'lemes', 'lesu']
+
+41195 [23028, 21226, 15539, 14809, 20918, 11615, 8286, 33540, 23668, 25967]
+agenda ['kebijakan', 'slogan', 'manifesto', 'rencana', 'objectives', 'forum', 'proposal', 'attitude', 'motto', 'options']
+
+41267 [34683, 46551, 112789, 21333, 27317, 47318, 36511, 15589, 41087, 25343]
+amplop ['ampel', 'ampibi', 'ampaw', 'amp', 'amplitudo', 'amprok', 'ampere', 'ampal', 'ampas', 'ampil']
+
+42427 [91871, 83844, 28388, 83260, 54323, 5736, 82849, 38433, 95354, 53945]
+hobi ['hoby', 'hobina', 'cobi', 'hobine', 'lobi', 'rabi', 'hobo', 'bibi', 'fobi', 'nambi']
+
+42462 [100910, 34394, 39212, 111396, 38277, 62651, 48763, 19459, 111672, 18478]
+beruang ['beruwang', 'berlian', 'beruk', 'mamuang', 'berhala', 'berokan', 'bercak', 'bermata', 'berbere', 'beru']
+
+42462 [100910, 34394, 39212, 111396, 38277, 62651, 48763, 19459, 111672, 18478]
+beruang ['beruwang', 'berlian', 'beruk', 'mamuang', 'berhala', 'berokan', 'bercak', 'bermata', 'berbere', 'beru']
+
+42656 [17710, 9313, 79403, 28342, 55715, 44814, 84728, 14663, 96898, 21118]
+jiwo ['kiwo', 'jowo', 'siwo', 'tuwo', 'wawo', 'jijik', 'jiji', 'yogja', 'jib', 'siswo']
+
+42917 [6641, 44032, 61941, 105469, 94275, 9250, 5742, 8568, 7595, 42829]
+perkakas ['perhiasan', 'perkosa', 'pertanda', 'bikakan', 'ketangkasan', 'kapas', 'tilas', 'kelopak', 'cekakan', 'perkasa']
+
+44249 [89655, 33042, 6583, 96050, 46037, 42326, 4856, 92775, 37806, 17831]
+ngelu ['ngeden', 'ngeling', 'ngingu', 'ngelem', 'ngelak', 'ngenes', 'ngelih', 'ngeluh', 'ngelukis', 'ngece']
+
+44694 [24006, 45892, 86849, 44515, 38146, 23638, 45051, 36764, 34180, 49878]
+keranjang ['kranjang', 'kerudung', 'krawang', 'memanjang', 'kerang', 'kasarung', 'kelereng', 'senandung', 'selempang', 'gudawang']
+
+44948 [89788, 17260, 48052, 7859, 13316, 41102, 56675, 1180, 22189, 78981]
+leren ['lerene', 'leres', 'lerem', 'lereh', 'peken', 'sonten', 'ngoten', 'remen', 'sinten', 'absen']
+
+44999 [60233, 75455, 17195, 3460, 33419, 45025, 44531, 10867, 56871, 25507]
+mriyang ['mriem', 'mriang', 'mriki', 'mriku', 'mroses', 'mrico', 'mrica', 'mring', 'mriko', 'mrika']
+
+45194 [106783, 44828, 18542, 64935, 83136, 112474, 66714, 8424, 86795, 20908]
+graji ['goji', 'gergaji', 'suji', 'ruji', 'baji', 'gujiya', 'keji', 'wiji', 'jariji', 'grahana']
+
+45194 [106783, 44828, 18542, 64935, 83136, 112474, 66714, 8424, 86795, 20908]
+graji ['goji', 'gergaji', 'suji', 'ruji', 'baji', 'gujiya', 'keji', 'wiji', 'jariji', 'grahana']
+
+45655 [88676, 47109, 66531, 19434, 4382, 76470, 92372, 28416, 105234, 37668]
+japa ['tripa', 'rapa', 'datta', 'bedhaya', 'sinta', 'appa', 'megana', 'bajra', 'chana', 'eka']
+
+45692 [46778, 95706, 92781, 55621, 70422, 103540, 107744, 35086, 98546, 2922]
+nongko ['dongko', 'mangko', 'ongko', 'ponco', 'jongko', 'mojosongo', 'minongko', 'bongkok', 'pasirjengkol', 'nong']
+
+45768 [95998, 30806, 48858, 21900, 58005, 81666, 24243, 48645, 95967, 1542]
+moto ['motocross', 'motogp', 'motorcycle', 'motor', 'honda', 'yamaha', 'bike', 'suzuki', 'motorcycles', 'formula']
+
+46704 [5304, 58111, 20014, 8618, 57578, 100983, 30942, 55392, 18052, 29411]
+kekal ['nakal', 'kenal', 'keker', 'kedal', 'dugal', 'kekaron', 'ical', 'kental', 'keket', 'kesel']
+
+46756 [88356, 6109, 30661, 19773, 55503, 34683, 28050, 49345, 79820, 15589]
+ampeyan ['laweyan', 'rakeyan', 'ampang', 'ampar', 'ampana', 'ampel', 'ampat', 'ampera', 'ampek', 'ampal']
+
+47186 [45124, 30790, 11527, 958, 1807, 33178, 43037, 59510, 35346, 53970]
+maklumat ['maklum', 'rapat', 'kaputusan', 'maksud', 'riwayat', 'dekrit', 'ketentuan', 'permintaan', 'pendapat', 'kasepakatan']
+
+47661 [34320, 34763, 59499, 49918, 46171, 23553, 20726, 48337, 30301, 9472]
+pil ['pel', 'pili', 'pilpres', 'pilm', 'pal', 'pin', 'kol', 'pilorus', 'wol', 'kal']
+
+47954 [19371, 94487, 18540, 52278, 15813, 19422, 2895, 5100, 29480, 11686]
+kathok ['menthok', 'godhok', 'kethok', 'ndhodhok', 'kodhok', 'kathik', 'kethek', 'kethuk', 'kethokan', 'sendhok']
+
+48056 [34420, 49689, 70097, 53509, 12472, 4887, 45382, 33872, 6342, 11471]
+metik ['metot', 'methik', 'kedik', 'ancik', 'meteng', 'gasik', 'methuk', 'nalik', 'usik', 'resik']
+
+49359 [112902, 41553, 71986, 58612, 24343, 104076, 71815, 11664, 82590, 102797]
+ambulan ['ambula', 'ambilan', 'ambalan', 'ambulans', 'ambul', 'kedulan', 'ambuna', 'ambegan', 'ambungan', 'rasulan']
+
+49489 [101950, 65885, 94756, 26465, 18004, 26483, 4011, 14988, 34512, 30092]
+jadwal ['jadwale', 'jajak', 'jadul', 'sujud', 'mekrad', 'mesjid', 'jabar', 'jajaran', 'jajar', 'jadah']
+
+49489 [101950, 65885, 94756, 26465, 18004, 26483, 4011, 14988, 34512, 30092]
+jadwal ['jadwale', 'jajak', 'jadul', 'sujud', 'mekrad', 'mesjid', 'jabar', 'jajaran', 'jajar', 'jadah']
+
+49642 [23143, 69874, 12316, 16922, 40336, 56928, 5793, 4975, 76879, 93187]
+formulir ['formulasi', 'bagilir', 'tipologi', 'dalil', 'wulir', 'bulir', 'cuplikan', 'asil', 'templat', 'relif']
+
+50850 [91874, 41401, 29270, 33740, 9109, 12995, 67461, 51596, 45528, 49102]
+tanduran ['tandurane', 'tandur', 'dhaharan', 'dhasaran', 'ombenan', 'thukulan', 'dedhaharan', 'tanjakan', 'santen', 'tandhuran']
+
+52522 [93679, 100000, 18383, 99059, 81605, 14845, 75440, 80133, 56423, 72628]
+pageblug ['pagebluk', 'pagebug', 'njeblug', 'gemblung', 'panjeblugan', 'blabag', 'garebeg', 'panjeblug', 'grebeg', 'bebegig']
+
+53224 [13548, 12517, 6838, 44859, 20607, 5296, 14682, 2924, 21339, 65173]
+laci ['guci', 'topi', 'wangi', 'lari', 'tangi', 'baki', 'rapi', 'sawi', 'aci', 'goni']
+
+53283 [54631, 69877, 41812, 82836, 70315, 49384, 104067, 46487, 48494, 56454]
+toyan ['tapian', 'boyan', 'babakan', 'leran', 'painan', 'tosan', 'toyang', 'tamanan', 'wayan', 'aruman']
+
+53284 [15070, 88850, 13683, 14095, 39445, 27247, 43048, 43338, 96723, 80204]
+guyonan ['guyon', 'guyonane', 'wetonan', 'guyub', 'boyongan', 'temonan', 'payone', 'pangonan', 'gentosan', 'bombong']
+
+54323 [28782, 92665, 42427, 14329, 5736, 28388, 54701, 77859, 48764, 46388]
+lobi ['lobang', 'lobis', 'hobi', 'lobak', 'rabi', 'cobi', 'lobu', 'lob', 'lobus', 'lobe']
+
+54469 [31001, 20425, 75806, 3069, 39486, 36775, 50950, 16663, 33909, 47934]
+landasan ['landas', 'kabisan', 'fondasi', 'gagasan', 'kasantosan', 'markas', 'kakuasan', 'pangertosan', 'pangawasan', 'letusan']
+
+55264 [54724, 41662, 56525, 92565, 72841, 12964, 44809, 21265, 92930, 39530]
+sopir ['sipir', 'pipir', 'sampir', 'cipir', 'nyupir', 'sop', 'pelacur', 'mampir', 'serpih', 'montir']
+
+56661 [109140, 45840, 21266, 23866, 37705, 84742, 76453, 79170, 32785, 100767]
+ganja ['ganje', 'ganjang', 'senja', 'jaja', 'ganjar', 'wanja', 'ganjel', 'ganyong', 'ganjil', 'magoja']
+
+56807 [51034, 2482, 90709, 46746, 98983, 22487, 45073, 88926, 33867, 6123]
+sanding ['banding', 'sandi', 'mading', 'manding', 'keting', 'sandang', 'lamping', 'sandung', 'genting', 'gading']
+
+57010 [56182, 41401, 100758, 417, 110570, 13014, 60036, 1311, 49102, 72388]
+taneman ['tanem', 'tandur', 'tancang', 'tandha', 'pangeman', 'tandhan', 'taneh', 'guneman', 'tandhuran', 'pakeman']
+
+57651 [47482, 26490, 28266, 79134, 85912, 1867, 76083, 40973, 23112, 88748]
+hamba ['hambali', 'hampa', 'domba', 'hambal', 'hambat', 'hamka', 'hamza', 'garba', 'haman', 'hambawang']
+
+58783 [53082, 14894, 44143, 41441, 79138, 45040, 6538, 35368, 77512, 91332]
+gaun ['bran', 'gaman', 'baon', 'ubin', 'baran', 'pelan', 'gaul', 'tiron', 'gaung', 'lagon']
+
+60021 [59854, 61578, 96286, 103001, 81240, 85209, 52147, 63617, 64882, 24168]
+rojo ['blanco', 'roja', 'azul', 'verdes', 'negra', 'serrano', 'blanca', 'jaune', 'castellano', 'merah']
+
+60079 [23031, 1163, 53913, 104814, 48083, 29815, 25255, 10292, 72844, 19121]
+hukuman ['tahanan', 'hukum', 'undangan', 'balasan', 'kontrakan', 'pengadilan', 'pangadilan', 'matian', 'penangkapan', 'lamaran']
+
+60957 [25466, 66924, 8042, 25661, 59520, 37518, 6719, 14004, 67237, 17157]
+kekajengan ['kemajengan', 'kekajenganipun', 'kekarepan', 'kepentingan', 'kekosongan', 'kaagungan', 'kapentingan', 'kekuwatan', 'kepenginan', 'kawigatosan']
+
+60957 [25466, 66924, 8042, 25661, 59520, 37518, 6719, 14004, 67237, 17157]
+kekajengan ['kemajengan', 'kekajenganipun', 'kekarepan', 'kepentingan', 'kekosongan', 'kaagungan', 'kapentingan', 'kekuwatan', 'kepenginan', 'kawigatosan']
+
+61362 [40249, 3731, 28821, 72382, 19620, 83805, 41674, 5771, 20081, 1964]
+krikil ['kerikil', 'krucil', 'kripik', 'krikilan', 'krupuk', 'krakal', 'pamikul', 'kreol', 'ril', 'piyul']
+
+64572 [21322, 46143, 12704, 17711, 29857, 5544, 45197, 32849, 8449, 45198]
+gerbong ['gerbang', 'gembong', 'kendaraan', 'tembong', 'kobongan', 'rombongan', 'cerobong', 'kobong', 'angkutan', 'lokomotif']
+
+65666 [79247, 32782, 94222, 81106, 94297, 42218, 42726, 87246, 27382, 21182]
+suntikan ['suntik', 'suntingan', 'suntak', 'sunting', 'sintesa', 'esterifikasi', 'analgesik', 'analgetik', 'sintetik', 'sintetis']
+
+66588 [9935, 1958, 2004, 70863, 3180, 18545, 25604, 67579, 35614, 99852]
+senengi ['senenge', 'seneng', 'cenenge', 'ubengi', 'mbengi', 'wenehi', 'didenge', 'kepengen', 'dipenging', 'mboseni']
+
+69140 [47355, 4591, 26416, 80271, 84520, 70064, 52741, 4555, 74421, 103788]
+lungo ['tuo', 'lunga', 'matte', 'bijis', 'langsam', 'horas', 'dura', 'iyang', 'bote', 'pidio']
+
+71607 [14591, 17792, 39614, 90896, 56666, 81395, 54688, 93433, 83652, 89984]
+bokong ['bokor', 'bokonge', 'obong', 'jocong', 'kopong', 'growong', 'borong', 'boyok', 'tropong', 'borontok']
+
+71607 [14591, 17792, 39614, 90896, 56666, 81395, 54688, 93433, 83652, 89984]
+bokong ['bokor', 'bokonge', 'obong', 'jocong', 'kopong', 'growong', 'borong', 'boyok', 'tropong', 'borontok']
+
+73489 [8283, 96757, 12765, 1816, 64709, 82590, 15004, 53988, 8382, 8135]
+ambisi ['ambisius', 'ambisine', 'presisi', 'prestasi', 'aktipitas', 'ambungan', 'reputasi', 'prestise', 'ambiguitas', 'prioritas']
+
+73489 [8283, 96757, 12765, 1816, 64709, 82590, 15004, 53988, 8382, 8135]
+ambisi ['ambisius', 'ambisine', 'presisi', 'prestasi', 'aktipitas', 'ambungan', 'reputasi', 'prestise', 'ambiguitas', 'prioritas']
+
+76827 [83623, 38765, 44714, 8335, 26180, 69761, 46779, 103519, 100008, 47318]
+kampret ['retret', 'kampuh', 'ceret', 'potret', 'motret', 'patlot', 'kampak', 'slompret', 'lotre', 'amprok']
+
+78740 [22387, 52667, 60959, 103018, 22397, 28249, 98448, 60329, 33803, 43319]
+pandamel ['pandamelan', 'pandamelipun', 'andamel', 'dhamel', 'ndamel', 'kadamel', 'pandapat', 'pandamelanipun', 'pemeluk', 'pandatang']
+
+78740 [22387, 52667, 60959, 103018, 22397, 28249, 98448, 60329, 33803, 43319]
+pandamel ['pandamelan', 'pandamelipun', 'andamel', 'dhamel', 'ndamel', 'kadamel', 'pandapat', 'pandamelanipun', 'pemeluk', 'pandatang']
+
+78766 [27083, 43696, 64522, 51349, 53449, 63900, 54456, 58961, 32656, 63293]
+guo ['guoqing', 'jing', 'ying', 'jie', 'sheng', 'xin', 'hao', 'xiang', 'fei', 'hou']
+
+80411 [18388, 41675, 60954, 77597, 70132, 44947, 64300, 97197, 93039, 41567]
+bujangan ['bajingan', 'bujang', 'dongengan', 'gedongan', 'bubungan', 'bosan', 'kecupan', 'gemerlapan', 'senyuman', 'kejujuran']
+
+80723 [32203, 20633, 9652, 82239, 41571, 52721, 39681, 27749, 62904, 84826]
+kesepian ['kesaktian', 'kesurupan', 'kesusu', 'kepandaian', 'kedamaian', 'penyesalan', 'kesengsem', 'kasep', 'kasaktian', 'kesukuan']
+
+80808 [45725, 58041, 91096, 8080, 13682, 10901, 22894, 90095, 102853, 31652]
+prayaan ['perayaan', 'parayaan', 'preinan', 'praupan', 'prabot', 'prajanjian', 'prajanjeyan', 'penganiayaan', 'prastwa', 'prayudan']
+
+80808 [45725, 58041, 91096, 8080, 13682, 10901, 22894, 90095, 102853, 31652]
+prayaan ['perayaan', 'parayaan', 'preinan', 'praupan', 'prabot', 'prajanjian', 'prajanjeyan', 'penganiayaan', 'prastwa', 'prayudan']
+
+82697 [2558, 56573, 3317, 6318, 59751, 10051, 30025, 10316, 6703, 53272]
+elingan ['eling', 'elinga', 'iringan', 'omongan', 'elinge', 'kilangan', 'kabingungan', 'konangan', 'kelangan', 'halangan']
+
+83218 [41448, 41775, 109212, 60801, 72090, 41421, 56149, 39536, 2531, 34260]
+kenduri ['kenduren', 'widuri', 'kendur', 'berduri', 'kendor', 'kendhuri', 'kendhuren', 'pringgondani', 'keni', 'duri']
+
+83684 [34450, 33154, 147, 1787, 96341, 33020, 56437, 97990, 91097, 50738]
+roso ['rodo', 'dowo', 'ijo', 'baso', 'ponyo', 'limo', 'boro', 'miso', 'podo', 'roko']
+
+83867 [110592, 1418, 91097, 35897, 20519, 42811, 23455, 33154, 13472, 33109]
+menungso ['menungsa', 'sedoyo', 'podo', 'bobojong', 'bedo', 'nalangsa', 'pagalo', 'dowo', 'sabangsa', 'mindo']
+
+83867 [110592, 1418, 91097, 35897, 20519, 42811, 23455, 33154, 13472, 33109]
+menungso ['menungsa', 'sedoyo', 'podo', 'bobojong', 'bedo', 'nalangsa', 'pagalo', 'dowo', 'sabangsa', 'mindo']
+
+87405 [44814, 1763, 112648, 40250, 44140, 42656, 94677, 23596, 21883, 18153]
+jiwit ['jijik', 'jidor', 'jujubes', 'jikuk', 'jirak', 'jiwo', 'jipuk', 'jiga', 'jipang', 'cuwil']
+
+88440 [98402, 31166, 8666, 10798, 91991, 63908, 60412, 29101, 7944, 53970]
+persidangan ['pamidangan', 'sidang', 'persilangan', 'pemilu', 'perbincangan', 'disidang', 'pembicaraan', 'kesepakatan', 'konferensi', 'kasepakatan']
+
+89659 [99125, 40920, 2487, 20998, 60602, 105718, 100741, 19242, 3467, 43813]
+simah ['saidah', 'somah', 'temah', 'milah', 'resah', 'ipah', 'inah', 'masuh', 'sima', 'saadah']
+
+89659 [99125, 40920, 2487, 20998, 60602, 105718, 100741, 19242, 3467, 43813]
+simah ['saidah', 'somah', 'temah', 'milah', 'resah', 'ipah', 'inah', 'masuh', 'sima', 'saadah']
+
+91358 [85142, 107137, 81111, 81599, 97218, 62442, 42902, 53523, 33058, 19701]
+pelatian ['pelarian', 'pelatiyan', 'peladen', 'pelacakan', 'pelacuran', 'pelacak', 'pelamar', 'pelayan', 'pelayanan', 'palayanan']
+
+92171 [81675, 41441, 9328, 90091, 105647, 44639, 45639, 80065, 96658, 80118]
+bedhilan ['sedotan', 'ubin', 'bundheran', 'andhalan', 'bedilan', 'pikulan', 'kuluban', 'padhanan', 'dugderan', 'bedhil']
+
+99134 [93289, 32887, 98947, 67587, 21384, 67823, 91017, 81268, 33020, 37693]
+lilo ['calo', 'tino', 'fio', 'bobo', 'yono', 'rako', 'karto', 'popo', 'limo', 'dodo']
+
+99819 [52018, 27750, 39125, 11485, 11570, 13484, 94704, 6612, 93082, 93081]
+demit ['lulut', 'tobat', 'enget', 'deet', 'reget', 'mikat', 'anut', 'sobat', 'cenut', 'cenat']
+
+101664 [95423, 41235, 45152, 101633, 102583, 17777, 41998, 33284, 82145, 8975]
+penthung ['munthu', 'penthul', 'pundhung', 'penunggu', 'penyambung', 'penthol', 'linuhung', 'pendunung', 'lumayung', 'penjepit']
+
+103308 [92117, 50807, 18018, 36716, 41594, 4563, 31086, 78778, 9623, 33190]
+pitunjuk ['patunjuk', 'petunjuk', 'panunjuk', 'panunjukkan', 'tutunjuk', 'penunjuk', 'katunjuk', 'panunjukan', 'panuntun', 'dipuntunjuk']
+
+103523 [17943, 78107, 10188, 13521, 13087, 109089, 38649, 96091, 18724, 92387]
+ngentut ['ngenut', 'ngerut', 'ngemut', 'ngetung', 'ngentukake', 'disentuh', 'ngenteni', 'ngeruk', 'nggeret', 'ngetok']
+
+104245 [16678, 25463, 98004, 79099, 1133, 82273, 92444, 89584, 102657, 45368]
+kebetahan ['kabetahan', 'keluhan', 'kecerahan', 'keutuhan', 'kaendahan', 'kelemahan', 'kejenuhan', 'keluwihan', 'kabetahanipun', 'kelemahane']
+
+104245 [16678, 25463, 98004, 79099, 1133, 82273, 92444, 89584, 102657, 45368]
+kebetahan ['kabetahan', 'keluhan', 'kecerahan', 'keutuhan', 'kaendahan', 'kelemahan', 'kejenuhan', 'keluwihan', 'kabetahanipun', 'kelemahane']
+
+106397 [19946, 41584, 87191, 105290, 28912, 29503, 71556, 103314, 111797, 9758]
+pipo ['pipa', 'pipi', 'pipiti', 'pimiento', 'pip', 'pipit', 'pipis', 'tepo', 'sopa', 'pi']
+
+107823 [60030, 13945, 101120, 20103, 11470, 61132, 16880, 3507, 23208, 29339]
+ndukung ['kadukung', 'didukung', 'ndidik', 'ndhalangi', 'ndokok', 'ndorong', 'nyengkuyung', 'ndhalang', 'ndhesek', 'ndhudhuki']
+
+
+

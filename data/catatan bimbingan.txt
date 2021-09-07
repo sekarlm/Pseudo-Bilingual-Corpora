@@ -1,0 +1,5 @@
+1. Eksperimen : Supervised MUSE, Unsupervised MUSE, gabungan corpus
+2. Variasi tokenisasi : Fasttext, Word2vec, mBERT (eksperimen EMBEDDING SIZE)
+Analisis detail untuk setiap eksperimen
+- Analisis mana hasil yg terbaik dan kenapa
+- Dari yang terbaik itu apa yg masih salah - salah
