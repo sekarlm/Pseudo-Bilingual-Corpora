@@ -113,6 +113,20 @@ def eval(top_matches, dico, n_gold_std):
 
     for k in [1, 5, 10]:
         top_k_matches = top_matches[:, :k]
+        
+        listed_dico = [ x for sub in dico[:, 1][:, None].cpu().numpy() for x in sub ]
+        n_relevant = 0
+
+        for values in top_k_matches.cpu().numpy():
+            for sub_val in values:
+                if sub_val in listed_dico:
+                    n_relevant += 1
+                    break
+                    
+        print("listed_dico :", len(listed_dico))
+        print("top_k_matches :", len(top_k_matches))
+        print("n_relevant :", n_relevant)
+
         _matching = (top_k_matches == dico[:, 1][:, None].expand_as(top_k_matches)).sum(1).numpy()
         print("_matching ", len(_matching))
 
@@ -128,14 +142,26 @@ def eval(top_matches, dico, n_gold_std):
         matching_at_k[k] = trans_match
 
         # evaluate presicion@k
-        precision_at_k = 100 * np.mean(list(matching.values()))
+        #precision_at_k = 100 * np.mean(list(matching.values()))
         # save precision value at results
-        results.append(('precision at k={}: {}'.format(k, precision_at_k)))
+        #results.append(('precision at k={}: {}'.format(k, precision_at_k)))
 
         # evaluate recall@k
-        recall_at_k = 100 * np.sum(list(matching.values()))/n_gold_std
+        #recall_at_k = 100 * np.sum(list(matching.values()))/n_gold_std
         # save recall value at results
-        results.append(('recall at k={}: {}'.format(k, recall_at_k)))
+        #results.append(('recall at k={}: {}'.format(k, recall_at_k)))
+
+        # evaluate precision@k
+        precision_at_k = 100 * np.sum(list(matching.values())) / n_relevant
+        #logger.info("%i source words - %s - Precision at k = %i: %f" %
+        #            (len(matching), method, k, precision_at_k))
+        results.append(('recall_at_%i' % k, precision_at_k))
+
+        # evaluate recall@k
+        recall_at_k = 100 * np.mean(list(matching.values()))
+        #logger.info("%i source words - %s - Recall at k = %i: %f" %
+        #            (len(matching), method, k, recall_at_k))
+        results.append(('precision_at_%i' % k, recall_at_k))
 
         # evaluate f1-score@k
         if precision_at_k == 0 and recall_at_k == 0:
