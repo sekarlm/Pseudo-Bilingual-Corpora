@@ -27,6 +27,37 @@
 - The model cannot produce correct pair translation with same spelling words.
 
 ## How to use?
-### 1. Prepare Data for Training
+### 1. Data Preparation
 You can collect [Javanese](https://dumps.wikimedia.org/suwiki/latest/suwiki-latest-pages-articles.xml.bz2) and [Sundanese](https://dumps.wikimedia.org/jvwiki/latest/jvwiki-latest-pages-articles.xml.bz2) corpus from Wikipedia dumps articles file. Then, preprocess the data using following command.
-- 
+- Sentence Windowing
+```
+python3 corpus_windowing.py <corpus_file> <output_file>
+```
+- Remove English Words
+```
+python3 data_cleaning.py <embedding_file> <english_words_file> <output_file>
+``` 
+### 2. Merge: Length-ratio Shuffle
+Create a pseudo-bilingual corpus using length-ratio shuffle method.
+```
+python3 merge.py <input_file1> <input_file2> <output_file>
+```
+### 3. Word Embedding
+Create word representasion from a pseudo-bilingual corpus. We use Word2Vec, FastText, and feature extraction on pre-trained Multilingual BERT model.
+- Word2Vec
+```
+python3 word2vec.py <corpus> <output_vector_file>
+```
+- FastText
+```
+python3 fasttext.py <corpus> <output_vector_file>
+```
+- Multilingual BERT
+```
+python3 mBERT.py <corpus> <output_vector_file>
+```
+### 4. Translation Retrieval and Evaluation
+Generate pair translation and evaluate the translation result.
+```
+python3 eval_pseudo_bilingual.py <emb_file> <dict_file> <file_wrong> <file_corect>
+```
